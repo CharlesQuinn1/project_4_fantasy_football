@@ -29,16 +29,16 @@
 
 ### Rationale for the Project:
 ---
-* 	<b>Project Advantages:</b>
-    -	Informed Player Choices: Equips players with data-backed insights to make strategic decisions about their NFL aspirations.
-    -	Proactive Talent Development: Supports players in identifying areas for improvement, thereby increasing their chances of success in the NFL.
-    -	Optimized Team Selection: Enables NFL teams to make more informed choices during player drafts, leading to more competitive and successful rosters.
+<b>Project Advantages:</b><br>
+*	Informed Player Choices: Equips players with data-backed insights to make strategic decisions about their NFL aspirations.
+*	Proactive Talent Development: Supports players in identifying areas for improvement, thereby increasing their chances of success in the NFL.
+*	Optimized Team Selection: Enables NFL teams to make more informed choices during player drafts, leading to more competitive and successful rosters.
 
-*	<b>Performance Metrics:</b><br>
-    To assess the impact and effectiveness of the project, the following key performance indicators will be employed:
-    -	<b>Performance Metrics:</b> Success will be evaluated based on the project's ability to establish significant correlations between player metrics, combine results, and eventual NFL performance. This analysis will drive targeted recommendations for players seeking to maximize their potential.
-    -	<b>Draft Success Rate:</b> The project's effectiveness will be measured by tracking the success rate of players recommended by the model in actual NFL drafts. A higher rate of drafted players achieving successful careers will indicate the model's accuracy.
-    -	<b>Long-Term Success Stories:</b> Tracking the careers of players who received recommendations and eventually made it into the NFL will serve as a testament to the project's effectiveness in identifying true potential.
+<b>Performance Metrics:</b><br>
+To assess the impact and effectiveness of the project, the following key performance indicators will be employed:
+*	<b>Performance Metrics:</b> Success will be evaluated based on the project's ability to establish significant correlations between player metrics, combine results, and eventual NFL performance. This analysis will drive targeted recommendations for players seeking to maximize their potential.
+*	<b>Draft Success Rate:</b> The project's effectiveness will be measured by tracking the success rate of players recommended by the model in actual NFL drafts. A higher rate of drafted players achieving successful careers will indicate the model's accuracy.
+*	<b>Long-Term Success Stories:</b> Tracking the careers of players who received recommendations and eventually made it into the NFL will serve as a testament to the project's effectiveness in identifying true potential.
 
 ### Project Outline:
 ---
