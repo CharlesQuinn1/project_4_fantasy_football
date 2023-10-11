@@ -11,18 +11,7 @@
 *	Bryan Miller Bryanmiller512@Gmail.com
 
 
- hr {
-width: 50%;
-height: 20px;
-background-color: red;
-margin-right: auto;
-margin-left: auto;
-margin-top: 5px;
-margin-bottom: 5px;
-border-width: 2px;
-border-color: green;
-}
-
+<h1 style="color:purple;">---</h1>
  
 <b>Project Scope and Objectives:</b><br>
 <p>The objective of this project is to develop a predictive machine learning algorithm leveraging NFL Combine results data spanning from 2000 to 2015. This algorithm is designed to assess an athlete's likelihood of transitioning into a professional NFL career based on their performance metrics during the Combine. By thoroughly analyzing this historical dataset, we intend to uncover crucial patterns and trends that significantly influence a player's potential NFL success. The primary aim is to provide valuable insights for both players and scouts, aiding in decision-making processes and potentially revolutionizing talent evaluation within the NFL.</p>
