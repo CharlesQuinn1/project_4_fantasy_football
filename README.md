@@ -12,20 +12,20 @@
 *	Bryan Miller Bryanmiller512@Gmail.com 
 
 <b>Project Scope and Objectives:</b><br>
-<p>The objective of this project is to develop a predictive machine learning algorithm leveraging NFL Combine results data spanning from 2000 to 2015. This algorithm is designed to assess an athlete's likelihood of transitioning into a professional NFL career based on their performance metrics during the Combine. By thoroughly analyzing this historical dataset, we intend to uncover crucial patterns and trends that significantly influence a player's potential NFL success. The primary aim is to provide valuable insights for both players and scouts, aiding in decision-making processes and potentially revolutionizing talent evaluation within the NFL.</p><br>
+<p>The objective of this project is to develop a predictive machine learning algorithm leveraging NFL Combine results data spanning from 2000 to 2015. This algorithm is designed to assess an athlete's likelihood of transitioning into a professional NFL career based on their performance metrics during the Combine. By thoroughly analyzing this historical dataset, we intend to uncover crucial patterns and trends that significantly influence a player's potential NFL success. The primary aim is to provide valuable insights for both players and scouts, aiding in decision-making processes and potentially revolutionizing talent evaluation within the NFL.</p>
 
-*	<b>Key Objectives:</b>
-    -	Assess NFL Combine data from 2000 to 2015
-    -	Identify key performance metrics crucial for NFL success
-    -	Develop a machine learning model for player evaluation
-    -	Evaluate the model's predictive accuracy and reliability
-    -	Provide actionable insights for players and scouts
-    -	Enhance talent evaluation processes within the NFL
-    -	Enable data-driven decision-making in player selection
+<b>Key Objectives:</b><br>
+*	Assess NFL Combine data from 2000 to 2015
+*	Identify key performance metrics crucial for NFL success
+*	Develop a machine learning model for player evaluation
+*	Evaluate the model's predictive accuracy and reliability
+*	Provide actionable insights for players and scouts
+*	Enhance talent evaluation processes within the NFL
+*	Enable data-driven decision-making in player selection
 
-*	<b>Link to dataset:</b>
-    -	https://www.kaggle.com/datasets/mitchellweg1/nfl-combine-results-dataset-2000-2022 
-    -	https://www.kaggle.com/datasets/ulrikthygepedersen/nfl-draft-1985-2015/data
+<b>Link to dataset:</b><br>
+*	https://www.kaggle.com/datasets/mitchellweg1/nfl-combine-results-dataset-2000-2022 
+*	https://www.kaggle.com/datasets/ulrikthygepedersen/nfl-draft-1985-2015/data
 
 ### Rationale for the Project:
 ---
