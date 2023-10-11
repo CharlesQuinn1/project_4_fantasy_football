@@ -1,0 +1,1668 @@
+player_id,year,player_name,position_combine,School,height,weight,forty_yard,vertical_leap,bench_press,broad_jump,three_cone,shuttle_run,nfl_team,position_nfl,position_nfl_standard,draft_round,draft_pick
+2000DarnAlfo,2000,Darnell Alford,OT,Boston Col.,6 ft 4 in,334.0,5.56,25.0,23.0,94.0,8.48,4.98,KAN,G,G,6.0,188.0
+2000ReggAust,2000,Reggie Austin,CB,Wake Forest,5 ft 9 in,175.0,4.44,35.0,17.0,119.0,7.03,4.14,CHI,DB,DB,4.0,125.0
+2000MarkBani,2000,Mark Baniewicz,OT,Syracuse,6 ft 6 in,312.0,5.34,28.0,20.0,96.0,7.72,4.73,JAX,T,T,7.0,247.0
+2000RashBarn,2000,Rashidi Barnes,S,Colorado,6 ft 0 in,208.0,4.62,35.0,10.0,114.0,6.92,4.32,CLE,DB,DB,7.0,225.0
+2000DaviBarr,2000,David Barrett,CB,Arkansas,5 ft 10 in,199.0,4.44,37.5,16.0,116.0,6.81,4.04,ARI,DB,DB,4.0,102.0
+2000RogeBeck,2000,Rogers Beckett,S,Marshall,6 ft 1 in,207.0,4.62,39.5,15.0,119.0,6.48,4.29,SDG,DB,DB,2.0,43.0
+2000BradBede,2000,Brad Bedell,OG,Colorado,6 ft 4 in,302.0,5.07,31.5,17.0,103.0,7.76,4.58,CLE,T,T,6.0,206.0
+2000MarcBell,2000,Marcus Bell,ILB,Arizona,6 ft 2 in,237.0,4.78,31.5,21.0,111.0,7.17,4.33,SEA,LB,LB,4.0,116.0
+2000MichBoir,2000,Michael Boireau,DE,Miami (FL),6 ft 4 in,274.0,5.09,29.0,26.0,105.0,7.68,4.49,MIN,DE,DE,2.0,56.0
+2000MattBowe,2000,Matt Bowen,S,Iowa,6 ft 1 in,201.0,4.49,33.0,12.0,115.0,7.06,4.09,STL,DB,DB,6.0,198.0
+2000MikeBrow,2000,Mike Brown,S,Nebraska,5 ft 10 in,204.0,4.59,36.0,14.0,116.0,6.93,4.01,CHI,DB,DB,2.0,39.0
+2000CoopCarl,2000,Cooper Carlisle,OG,Florida,6 ft 5 in,297.0,5.16,31.0,28.0,100.0,7.82,4.48,DEN,G,G,4.0,112.0
+2000LeonCars,2000,Leonardo Carson,DE,Auburn,6 ft 1 in,283.0,5.06,28.0,22.0,106.0,7.82,4.75,SDG,DT,DT,4.0,113.0
+2000TyroCart,2000,Tyrone Carter,S,Minnesota,5 ft 8 in,190.0,4.5,41.0,16.0,121.0,6.75,4.19,MIN,DB,DB,4.0,118.0
+2000DougChap,2000,Doug Chapman,RB,Marshall,5 ft 10 in,215.0,4.56,38.5,16.0,128.0,6.84,4.2,MIN,RB,RB,3.0,88.0
+2000JoeyChus,2000,Joey Chustz,OT,Louisiana Tech,6 ft 7 in,304.0,5.08,31.0,28.0,103.0,7.65,4.65,JAX,T,T,4.0,123.0
+2000KendClan,2000,Kendrick Clancy,DT,Mississippi,6 ft 1 in,283.0,5.25,27.5,25.0,108.0,7.98,4.65,PIT,DT,DT,3.0,72.0
+2000TravClar,2000,Travis Claridge,OG,USC,6 ft 5 in,303.0,5.15,31.5,29.0,100.0,7.77,4.86,ATL,G,G,2.0,37.0
+2000ChadClif,2000,Chad Clifton,OT,Tennessee,6 ft 5 in,334.0,5.05,30.5,24.0,102.0,7.58,4.73,GNB,T,T,2.0,44.0
+2000ReubDrou,2000,Reuben Droughns,RB,Oregon,5 ft 11 in,215.0,4.66,30.0,13.0,115.0,7.34,4.41,DET,RB,RB,3.0,81.0
+2000JohnEnge,2000,John Engelberger,DE,Virginia Tech,6 ft 4 in,260.0,4.73,34.0,24.0,115.0,6.95,4.28,SFO,DE,DE,2.0,35.0
+2000ErikFlow,2000,Erik Flowers,DE,Arizona State,6 ft 4 in,271.0,4.75,33.0,24.0,114.0,7.21,4.15,BUF,DE,DE,1.0,26.0
+2000JohnFran,2000,John Frank,DE,Utah,6 ft 4 in,280.0,4.78,37.0,32.0,117.0,7.07,4.27,PHI,DE,DE,6.0,178.0
+2000ArtuFree,2000,Arturo Freeman,S,South Carolina,6 ft 0 in,188.0,4.5,35.5,14.0,124.0,6.91,4.38,MIA,DB,DB,5.0,152.0
+2000ByroFris,2000,Byron Frisch,DE,BYU,6 ft 4 in,281.0,4.73,34.5,31.0,114.0,7.2,4.41,TEN,DE,DE,3.0,93.0
+2000MondFulc,2000,Mondriel Fulcher,FB,Miami (FL),6 ft 3 in,253.0,4.85,27.0,18.0,116.0,7.46,4.52,OAK,TE,TE,7.0,227.0
+2000JasoGava,2000,Jason Gavadza,TE,Kent State,6 ft 3 in,249.0,4.62,32.5,22.0,113.0,7.15,4.3,PIT,TE,TE,6.0,204.0
+2000KabeGbaj,2000,Kabeer Gbaja-Biamila,OLB,San Diego State,6 ft 4 in,243.0,4.65,34.0,21.0,120.0,6.9,4.28,GNB,DE,DE,5.0,149.0
+2000Ian Gold,2000,Ian Gold,OLB,Michigan,6 ft 1 in,221.0,4.56,33.0,21.0,115.0,6.97,4.19,DEN,LB,LB,2.0,40.0
+2000ErneGran,2000,Ernest Grant,DT,Ark-Pine Bluff,6 ft 5 in,316.0,5.31,29.5,24.0,98.0,8.0,5.03,MIA,DT,DT,6.0,167.0
+2000MikeGree,2000,Mike Green,FB,Houston,6 ft 0 in,253.0,4.78,28.5,25.0,108.0,7.08,4.34,TEN,RB,RB,7.0,213.0
+2000CornGrif,2000,Cornelius Griffin,DE,Alabama,6 ft 3 in,297.0,4.9,31.0,30.0,111.0,7.63,4.62,NYG,DT,DT,2.0,42.0
+2000ClarHagg,2000,Clark Haggans,OLB,Colorado State,6 ft 3 in,253.0,4.97,31.5,20.0,109.0,7.12,4.21,PIT,LB,LB,5.0,137.0
+2000DantHall,2000,Dante' Hall,RB,Texas A&M,5 ft 8 in,191.0,4.44,38.0,18.0,123.0,6.62,3.82,KAN,WR,WR,5.0,153.0
+2000ThomHamn,2000,Thomas Hamner,RB,Minnesota,6 ft 0 in,197.0,4.5,32.0,17.0,125.0,6.97,4.07,PHI,RB,RB,6.0,171.0
+2000AntwHarr,2000,Antwan Harris,CB,Virginia,5 ft 9 in,186.0,4.34,39.0,16.0,121.0,6.75,4.01,NWE,DB,DB,6.0,187.0
+2000LloyHarr,2000,Lloyd Harrison,CB,North Carolina State,5 ft 10 in,190.0,4.5,37.5,16.0,119.0,7.12,4.25,WAS,DB,DB,3.0,64.0
+2000ChriHova,2000,Chris Hovan,DT,Boston Col.,6 ft 2 in,305.0,4.99,30.0,35.0,101.0,6.85,4.16,MIN,DT,DT,1.0,25.0
+2000JabaIssa,2000,Jabari Issa,DT,Washington,6 ft 5 in,296.0,5.05,31.5,19.0,105.0,7.69,4.72,ARI,DE,DE,6.0,176.0
+2000JenoJame,2000,Jeno James,OG,Auburn,6 ft 3 in,320.0,5.62,25.5,24.0,94.0,8.51,5.22,CAR,G,G,6.0,182.0
+2000MattJohn,2000,Matt Johnson,OG,BYU,6 ft 4 in,345.0,5.56,28.0,35.0,99.0,8.07,4.99,IND,G,G,5.0,138.0
+2000LeanJord,2000,Leander Jordan,OG,Indiana (PA),6 ft 4 in,330.0,5.46,31.0,25.0,104.0,7.91,4.76,CAR,T,T,3.0,82.0
+2000CurtKeat,2000,Curtis Keaton,RB,West Virginia,5 ft 10 in,214.0,4.41,41.5,23.0,131.0,6.82,3.93,CIN,RB,RB,4.0,97.0
+2000Ben Kell,2000,Ben Kelly,CB,Colorado,5 ft 9 in,183.0,4.53,36.0,17.0,116.0,6.63,3.95,MIA,DB,DB,3.0,84.0
+2000KenoKenn,2000,Kenoy Kennedy,S,Arkansas,6 ft 1 in,221.0,4.71,33.5,8.0,113.0,7.08,4.38,DEN,DB,DB,2.0,45.0
+2000AndrKlin,2000,Andrew Kline,OG,San Diego State,6 ft 2 in,305.0,5.43,28.0,26.0,103.0,7.54,4.6,STL,G,G,7.0,220.0
+2000LeifLars,2000,Leif Larsen,DT,Texas-El Paso,6 ft 4 in,300.0,5.08,30.0,45.0,110.0,7.46,4.37,BUF,DT,DT,6.0,194.0
+2000DustLyma,2000,Dustin Lyman,ILB,Wake Forest,6 ft 4 in,259.0,4.7,35.0,22.0,118.0,6.86,4.06,CHI,TE,TE,3.0,87.0
+2000AnthMalb,2000,Anthony Malbrough,CB,Texas Tech,5 ft 9 in,184.0,4.44,35.5,20.0,117.0,6.73,4.0,CLE,DB,DB,5.0,130.0
+2000DamiMcIn,2000,Damion McIntosh,OT,Kansas State,6 ft 4 in,328.0,5.31,26.0,23.0,97.0,7.72,4.71,SDG,T,T,3.0,83.0
+2000AlviMcKi,2000,Alvin McKinley,DT,Mississippi State,6 ft 4 in,289.0,5.09,27.5,22.0,102.0,7.73,4.61,CAR,DE,DE,4.0,120.0
+2000BradMees,2000,Brad Meester,C,New Mexico,6 ft 3 in,298.0,5.12,34.0,25.0,110.0,7.46,4.43,JAX,C,C,2.0,60.0
+2000Rob Meie,2000,Rob Meier,DE,Washington State,6 ft 5 in,284.0,4.99,30.5,27.0,113.0,7.49,4.52,JAX,DE,DE,7.0,241.0
+2000RichMerc,2000,Richard Mercier,OG,Miami (FL),6 ft 3 in,295.0,5.39,26.0,18.0,97.0,7.84,4.78,BAL,G,G,5.0,148.0
+2000Rob Morr,2000,Rob Morris,ILB,BYU,6 ft 2 in,250.0,4.77,33.0,18.0,113.0,6.93,4.17,IND,LB,LB,1.0,28.0
+2000SammMorr,2000,Sammy Morris,FB,Texas Tech,6 ft 0 in,221.0,4.65,37.5,23.0,117.0,7.05,4.21,BUF,RB,RB,5.0,156.0
+2000KaulNoa,2000,Kaulana Noa,OT,Hawaii,6 ft 4 in,317.0,5.34,25.5,27.0,98.0,7.82,4.74,STL,T,T,4.0,104.0
+2000ErikOlso,2000,Erik Olson,S,Colorado State,6 ft 1 in,208.0,4.63,35.0,17.0,115.0,6.81,4.21,JAX,DB,DB,7.0,236.0
+2000DaShPolk,2000,DaShon Polk,OLB,Arizona,6 ft 2 in,233.0,4.75,32.0,18.0,111.0,7.43,4.45,BUF,LB,LB,7.0,251.0
+2000HankPote,2000,Hank Poteat,CB,Pittsburgh,5 ft 10 in,197.0,4.57,37.0,16.0,126.0,6.66,4.0,PIT,DB,DB,3.0,77.0
+2000TravPren,2000,Travis Prentice,RB,Miami (OH),6 ft 0 in,225.0,4.5,37.0,23.0,115.0,6.92,4.4,CLE,RB,RB,3.0,63.0
+2000GregRand,2000,Greg Randall,OT,Michigan State,6 ft 6 in,333.0,5.59,26.0,22.0,95.0,8.15,5.13,NWE,T,T,4.0,127.0
+2000QuinRees,2000,Quinton Reese,DE,Auburn,6 ft 4 in,283.0,5.13,30.0,18.0,101.0,7.91,4.68,DET,DE,DE,6.0,181.0
+2000TutaReye,2000,Tutan Reyes,OT,Mississippi,6 ft 3 in,299.0,5.37,26.5,20.0,99.0,7.49,4.88,NOR,G,G,5.0,131.0
+2000FredRobb,2000,Fred Robbins,DT,Wake Forest,6 ft 4 in,312.0,5.09,29.5,25.0,94.0,7.72,4.72,MIN,DT,DT,2.0,55.0
+2000TonyScot,2000,Tony Scott,CB,North Carolina State,5 ft 10 in,193.0,4.5,34.0,11.0,116.0,7.45,4.24,NYJ,DB,DB,6.0,179.0
+2000RichSeal,2000,Richard Seals,DT,Utah,6 ft 2 in,316.0,5.13,28.5,24.0,102.0,7.78,4.6,NYJ,DT,DT,7.0,218.0
+2000Wes Shiv,2000,Wes Shivers,OT,Mississippi State,6 ft 5 in,318.0,5.65,22.5,18.0,98.0,8.48,4.81,TEN,T,T,7.0,237.0
+2000MarkSimo,2000,Mark Simoneau,OLB,Kansas State,6 ft 0 in,237.0,4.6,36.0,24.0,117.0,7.08,4.09,ATL,LB,LB,3.0,67.0
+2000PeteSirm,2000,Peter Sirmon,ILB,Oregon,6 ft 2 in,246.0,4.84,34.5,20.0,115.0,7.21,4.27,TEN,LB,LB,4.0,128.0
+2000T.J.Slau,2000,T.J. Slaughter,ILB,Southern Miss,6 ft 0 in,247.0,4.87,30.0,24.0,112.0,7.08,4.26,JAX,LB,LB,3.0,92.0
+2000MarvSmit,2000,Marvel Smith,OT,Arizona State,6 ft 5 in,320.0,5.37,27.5,24.0,100.0,7.87,4.83,PIT,T,T,2.0,38.0
+2000TerrSmit,2000,Terrelle Smith,FB,Arizona State,6 ft 0 in,249.0,5.0,32.5,19.0,109.0,8.38,4.85,NOR,FB,FB,4.0,96.0
+2000DaveStac,2000,Dave Stachelski,TE,Boise State,6 ft 3 in,250.0,4.78,38.0,24.0,115.0,6.84,4.14,NWE,TE,TE,5.0,141.0
+2000ShyrStit,2000,Shyrone Stith,RB,Virginia Tech,5 ft 7 in,204.0,4.6,35.0,13.0,111.0,7.14,4.14,JAX,RB,RB,7.0,243.0
+2000MarkTaus,2000,Mark Tauscher,OG,Wisconsin,6 ft 3 in,318.0,5.37,27.0,22.0,90.0,7.91,4.84,GNB,T,T,7.0,224.0
+2000MichThom,2000,Michael Thompson,OT,Tennessee State,6 ft 4 in,305.0,5.28,26.0,16.0,104.0,7.99,4.73,ATL,T,T,4.0,100.0
+2000TravTill,2000,Travares Tillman,S,Georgia Tech,6 ft 1 in,194.0,4.6,37.5,15.0,123.0,6.95,4.29,BUF,DB,DB,2.0,58.0
+2000Mao Tosi,2000,Mao Tosi,DT,Idaho,6 ft 5 in,310.0,5.26,28.5,19.0,99.0,7.72,4.6,ARI,DT,DT,5.0,136.0
+2000JeffUlbr,2000,Jeff Ulbrich,ILB,Hawaii,6 ft 0 in,249.0,4.65,32.0,24.0,109.0,7.23,4.3,SFO,LB,LB,3.0,86.0
+2000BriaUrla,2000,Brian Urlacher,OLB,New Mexico,6 ft 4 in,258.0,4.59,34.0,27.0,122.0,6.94,4.18,CHI,LB,LB,1.0,9.0
+2000DarrVaug,2000,Darrick Vaughn,CB,Texas State,5 ft 11 in,196.0,4.53,36.5,14.0,121.0,7.09,4.16,ATL,DB,DB,7.0,211.0
+2000ToddWade,2000,Todd Wade,OT,Mississippi,6 ft 8 in,326.0,5.22,27.5,29.0,101.0,7.68,4.68,MIA,T,T,2.0,53.0
+2000StevWarr,2000,Steve Warren,DT,Nebraska,6 ft 1 in,307.0,5.1,30.5,29.0,105.0,7.97,4.56,GNB,DT,DT,3.0,74.0
+2000JasoWebs,2000,Jason Webster,CB,Texas A&M,5 ft 9 in,180.0,4.42,35.5,17.0,122.0,6.76,3.98,SFO,DB,DB,2.0,48.0
+2000DameWhee,2000,Damen Wheeler,CB,Colorado,5 ft 9 in,179.0,4.51,35.0,11.0,115.0,7.21,4.27,SDG,DB,DB,6.0,203.0
+2000BobbWill,2000,Bobbie Williams,OT,Arkansas,6 ft 4 in,332.0,5.26,29.0,28.0,97.0,7.78,4.72,PHI,G,G,2.0,61.0
+2000BriaYoun,2000,Brian Young,DE,Texas-El Paso,6 ft 2 in,278.0,4.94,29.5,27.0,106.0,7.2,4.47,STL,DT,DT,5.0,139.0
+2001WillAlle,2001,Will Allen,CB,Syracuse,5 ft 10 in,192.0,4.44,39.5,14.0,121.0,6.78,3.9,NYG,DB,DB,1.0,22.0
+2001BillBabe,2001,Billy Baber,TE,Virginia,6 ft 4 in,255.0,4.76,33.0,22.0,106.0,7.12,4.19,KAN,TE,TE,5.0,141.0
+2001JeffBack,2001,Jeff Backus,OT,Michigan,6 ft 5 in,310.0,5.37,27.0,25.0,99.0,8.27,4.67,DET,T,T,1.0,18.0
+2001IdreBash,2001,Idrees Bashir,S,Memphis,6 ft 2 in,206.0,4.56,40.0,22.0,126.0,7.14,4.2,IND,DB,DB,2.0,37.0
+2001MontBeis,2001,Monty Beisel,DE,Kansas State,6 ft 4 in,270.0,4.83,34.5,25.0,110.0,7.32,4.28,KAN,LB,LB,4.0,107.0
+2001KendBell,2001,Kendrell Bell,ILB,Georgia,6 ft 1 in,234.0,4.64,38.5,24.0,124.0,7.25,4.5,PIT,LB,LB,2.0,39.0
+2001HaroBlac,2001,Harold Blackmon,CB,Northwestern,5 ft 11 in,210.0,4.54,37.0,17.0,121.0,7.03,4.28,SEA,DB,DB,7.0,210.0
+2001DerrBlay,2001,Derrick Blaylock,RB,Stephen F. Austin,5 ft 10 in,194.0,4.36,35.5,18.0,119.0,7.05,4.09,KAN,RB,RB,5.0,150.0
+2001KyleVand,2001,Kyle Vanden Bosch,DE,Nebraska,6 ft 4 in,270.0,4.75,36.5,26.0,119.0,6.82,4.08,ARI,DE,DE,2.0,34.0
+2001SeanBrew,2001,Sean Brewer,TE,San Jose State,6 ft 4 in,255.0,4.73,36.0,14.0,117.0,7.37,4.18,CIN,TE,TE,3.0,66.0
+2001CorrBuck,2001,Correll Buckhalter,RB,Nebraska,6 ft 0 in,226.0,4.53,40.0,11.0,123.0,7.08,4.06,PHI,RB,RB,4.0,121.0
+2001JeraButl,2001,Jerametrius Butler,CB,Kansas State,5 ft 10 in,173.0,4.57,36.0,11.0,121.0,7.22,4.4,STL,DB,DB,5.0,145.0
+2001RobeCars,2001,Robert Carswell,S,Clemson,6 ft 0 in,214.0,4.59,34.0,21.0,106.0,7.14,4.18,SDG,DB,DB,7.0,244.0
+2001QuinCave,2001,Quinton Caver,ILB,Arkansas,6 ft 4 in,227.0,4.67,37.5,23.0,118.0,7.66,4.25,PHI,LB,LB,2.0,55.0
+2001PatrChuk,2001,Patrick Chukwurah,OLB,Wyoming,6 ft 2 in,238.0,4.77,40.0,24.0,119.0,7.34,4.21,MIN,LB,LB,5.0,157.0
+2001DereComb,2001,Derek Combs,RB,Ohio State,6 ft 0 in,193.0,4.42,35.0,8.0,120.0,6.96,4.07,OAK,DB,DB,7.0,228.0
+2001JameCook,2001,Jameel Cook,FB,Illinois,5 ft 10 in,226.0,4.8,29.5,17.0,108.0,7.55,4.38,TAM,FB,FB,6.0,174.0
+2001ChriCoop,2001,Chris Cooper,DE,Nebraska-Omaha,6 ft 5 in,272.0,4.95,35.5,24.0,114.0,7.12,4.21,OAK,DT,DT,6.0,184.0
+2001RickCrow,2001,Rick Crowell,OLB,Colorado State,6 ft 3 in,242.0,5.03,31.5,19.0,109.0,7.54,4.35,MIA,LB,LB,6.0,188.0
+2001AlgeCrum,2001,Alge Crumpler,TE,North Carolina,6 ft 2 in,266.0,4.76,34.0,22.0,112.0,7.38,4.43,ATL,TE,TE,2.0,35.0
+2001LeonDavi,2001,Leonard Davis,OT,Texas,6 ft 6 in,370.0,5.32,28.0,33.0,97.0,8.72,5.18,ARI,T,T,1.0,2.0
+2001EnniDavi,2001,Ennis Davis,DT,USC,6 ft 4 in,302.0,5.1,27.5,23.0,99.0,7.98,4.87,NOR,DT,DT,7.0,221.0
+2001RickDeMu,2001,Rick DeMulling,OG,Idaho,6 ft 4 in,307.0,5.24,31.5,32.0,108.0,7.62,4.6,IND,G,G,7.0,220.0
+2001ShawDrap,2001,Shawn Draper,OG,Alabama,6 ft 3 in,303.0,5.3,32.0,17.0,106.0,8.1,4.77,MIA,T,T,5.0,156.0
+2001HeatEvan,2001,Heath Evans,FB,Auburn,6 ft 0 in,246.0,4.56,34.5,30.0,111.0,7.3,4.24,SEA,FB,FB,3.0,82.0
+2001DaunFing,2001,Dauntae' Finger,TE,North Carolina,6 ft 4 in,262.0,5.09,33.5,15.0,103.0,7.95,4.59,TAM,TE,TE,7.0,205.0
+2001KynaForn,2001,Kynan Forney,OG,Hawaii,6 ft 2 in,312.0,5.28,27.0,23.0,97.0,8.56,4.7,ATL,G,G,7.0,219.0
+2001CurtFull,2001,Curtis Fuller,S,TCU,5 ft 10 in,186.0,4.45,36.0,18.0,114.0,7.2,4.21,SEA,DB,DB,4.0,127.0
+2001RobeGarz,2001,Roberto Garza,C,Texas A&M-Kingsville,6 ft 2 in,303.0,5.0,32.5,37.0,114.0,7.71,4.53,ATL,G,G,4.0,99.0
+2001JasoGlen,2001,Jason Glenn,OLB,Texas A&M,6 ft 1 in,236.0,4.94,36.0,14.0,115.0,7.16,4.31,DET,LB,LB,6.0,173.0
+2001MorlGree,2001,Morlon Greenwood,OLB,Syracuse,6 ft 0 in,237.0,4.69,33.5,21.0,112.0,7.62,4.08,MIA,LB,LB,3.0,88.0
+2001Ben Hami,2001,Ben Hamilton,C,Minnesota,6 ft 5 in,303.0,5.26,33.5,17.0,106.0,7.62,4.62,DEN,G,G,4.0,113.0
+2001ReggHayw,2001,Reggie Hayward,DE,Iowa State,6 ft 5 in,255.0,4.91,41.0,21.0,127.0,7.43,4.43,DEN,DE,DE,3.0,87.0
+2001JamiHend,2001,Jamie Henderson,CB,Georgia,6 ft 1 in,202.0,4.48,40.5,10.0,125.0,6.9,4.12,NYJ,DB,DB,4.0,101.0
+2001AnthHenr,2001,Anthony Henry,CB,South Florida,6 ft 1 in,198.0,4.6,41.0,15.0,126.0,6.9,4.2,CLE,DB,DB,4.0,97.0
+2001RenaHill,2001,Renaldo Hill,CB,Michigan State,5 ft 11 in,178.0,4.68,35.5,10.0,116.0,7.07,4.18,ARI,DB,DB,7.0,202.0
+2001RussHoch,2001,Russ Hochstein,OG,Nebraska,6 ft 3 in,300.0,5.4,26.5,16.0,95.0,7.85,4.69,TAM,C,C,5.0,151.0
+2001JabaHoll,2001,Jabari Holloway,TE,Notre Dame,6 ft 2 in,253.0,4.91,38.5,20.0,113.0,7.14,4.4,NWE,TE,TE,4.0,119.0
+2001MensHoll,2001,Menson Holloway,DE,Texas-El Paso,6 ft 2 in,284.0,4.9,34.5,19.0,111.0,7.54,4.43,SFO,DE,DE,6.0,191.0
+2001RashHolm,2001,Rashad Holman,CB,Louisville,5 ft 11 in,186.0,4.58,42.0,6.0,129.0,7.09,3.85,SFO,DB,DB,6.0,179.0
+2001JohnHowe,2001,John Howell,S,Colorado State,6 ft 0 in,204.0,4.64,37.0,14.0,121.0,6.87,4.12,TAM,DB,DB,4.0,117.0
+2001MichJame,2001,Michael Jameson,S,Texas A&M,5 ft 11 in,186.0,4.5,34.5,9.0,118.0,7.13,4.2,CLE,DB,DB,6.0,165.0
+2001KrisJenk,2001,Kris Jenkins,DT,Maryland,6 ft 5 in,318.0,5.19,31.0,33.0,108.0,7.85,4.4,CAR,DT,DT,2.0,44.0
+2001JonaJenn,2001,Jonas Jennings,OT,Georgia,6 ft 4 in,334.0,5.31,29.5,31.0,102.0,8.08,4.93,BUF,T,T,3.0,95.0
+2001RudiJohn,2001,Rudi Johnson,RB,Auburn,5 ft 10 in,227.0,4.57,37.5,24.0,119.0,7.32,4.22,CIN,RB,RB,4.0,100.0
+2001EricKell,2001,Eric Kelly,CB,Kentucky,5 ft 10 in,199.0,4.46,36.0,15.0,120.0,7.24,4.18,MIN,DB,DB,3.0,69.0
+2001RossKolo,2001,Ross Kolodziej,DE,Wisconsin,6 ft 3 in,290.0,4.87,34.5,25.0,111.0,7.37,4.36,NYG,DT,DT,7.0,230.0
+2001MattLehr,2001,Matt Lehr,OG,Virginia Tech,6 ft 2 in,290.0,5.28,31.5,28.0,111.0,7.59,4.44,DAL,C,C,5.0,137.0
+2001VictLeyv,2001,Victor Leyva,OG,Arizona State,6 ft 3 in,313.0,5.33,30.0,37.0,105.0,8.0,4.73,CIN,G,G,5.0,135.0
+2001MarlMcCr,2001,Marlon McCree,S,Kentucky,5 ft 11 in,197.0,4.62,38.0,10.0,117.0,7.36,4.1,JAX,DB,DB,7.0,233.0
+2001KareMcKe,2001,Kareem McKenzie,OT,Penn State,6 ft 6 in,328.0,5.33,33.0,20.0,104.0,7.87,4.8,NYJ,T,T,3.0,79.0
+2001ShadMeie,2001,Shad Meier,TE,Kansas State,6 ft 5 in,256.0,4.85,34.0,20.0,113.0,7.14,4.15,TEN,TE,TE,3.0,90.0
+2001DwayMiss,2001,Dwayne Missouri,DE,Northwestern,6 ft 5 in,258.0,5.03,38.0,21.0,116.0,7.5,4.4,BAL,DE,DE,7.0,231.0
+2001LeonMyer,2001,Leonard Myers,CB,Miami (FL),5 ft 10 in,190.0,4.65,37.0,13.0,120.0,7.21,4.16,NWE,DB,DB,6.0,200.0
+2001MathNkwe,2001,Mathias Nkwenti,OG,Temple,6 ft 3 in,293.0,5.57,35.5,29.0,113.0,7.66,4.18,PIT,T,T,4.0,111.0
+2001DennNorm,2001,Dennis Norman,OG,Princeton,6 ft 4 in,305.0,5.16,35.0,25.0,107.0,8.08,4.72,SEA,C,C,7.0,222.0
+2001MoraNorr,2001,Moran Norris,FB,Kansas,6 ft 1 in,250.0,4.63,31.0,37.0,114.0,7.56,4.5,NOR,FB,FB,4.0,115.0
+2001Dan O'Le,2001,Dan O'Leary,TE,Notre Dame,6 ft 4 in,252.0,5.02,32.0,16.0,113.0,7.4,4.31,BUF,TE,TE,6.0,195.0
+2001ChukOkob,2001,Chukky Okobi,C,Purdue,6 ft 1 in,316.0,5.27,32.5,24.0,103.0,7.87,4.61,PIT,C,C,5.0,146.0
+2001DomiRaio,2001,Dominic Raiola,C,Nebraska,6 ft 2 in,307.0,5.13,33.0,29.0,108.0,7.55,4.35,DET,C,C,2.0,50.0
+2001MikeRobe,2001,Mike Roberg,TE,Idaho,6 ft 4 in,256.0,4.75,34.5,16.0,117.0,7.28,4.4,CAR,TE,TE,7.0,227.0
+2001BernRobe,2001,Bernard Robertson,OG,Tulane,6 ft 3 in,308.0,5.24,30.0,19.0,106.0,8.06,4.58,CHI,T,T,5.0,138.0
+2001CedrScot,2001,Cedric Scott,DE,Southern Miss,6 ft 6 in,281.0,4.86,35.5,23.0,107.0,7.67,4.37,NYG,DE,DE,4.0,114.0
+2001ElliSilv,2001,Elliot Silvers,OT,Washington,6 ft 7 in,348.0,5.43,31.5,19.0,99.0,7.81,4.66,SDG,T,T,5.0,132.0
+2001BranSpoo,2001,Brandon Spoon,ILB,North Carolina,6 ft 2 in,245.0,4.75,35.5,33.0,110.0,7.3,4.15,BUF,LB,LB,4.0,110.0
+2001MarcStro,2001,Marcus Stroud,DT,Georgia,6 ft 6 in,321.0,5.13,30.0,21.0,110.0,8.07,4.72,JAX,DT,DT,1.0,13.0
+2001MarqSull,2001,Marques Sullivan,OT,Illinois,6 ft 5 in,338.0,5.32,30.5,28.0,98.0,8.36,4.8,BUF,G,G,5.0,144.0
+2001Joe Tafo,2001,Joe Tafoya,DE,Arizona,6 ft 4 in,269.0,4.91,33.0,28.0,111.0,7.65,4.4,TAM,DE,DE,7.0,234.0
+2001AnthThom,2001,Anthony Thomas,RB,Michigan,6 ft 2 in,229.0,4.58,32.5,20.0,115.0,7.48,4.44,CHI,RB,RB,2.0,38.0
+2001LaDaToml,2001,LaDainian Tomlinson,RB,TCU,5 ft 10 in,221.0,4.46,40.5,18.0,124.0,6.84,4.21,SDG,RB,RB,1.0,5.0
+2001KenyWalk,2001,Kenyatta Walker,OT,Florida,6 ft 5 in,311.0,5.17,31.5,24.0,109.0,7.7,4.6,TAM,T,T,1.0,14.0
+2001ChadWard,2001,Chad Ward,OG,Washington,6 ft 4 in,321.0,5.23,32.5,26.0,99.0,7.98,4.9,JAX,G,G,6.0,170.0
+2001EricWest,2001,Eric Westmoreland,OLB,Tennessee,6 ft 0 in,236.0,4.63,36.5,21.0,115.0,7.47,4.21,JAX,LB,LB,3.0,73.0
+2001BrocWill,2001,Brock Williams,CB,Notre Dame,5 ft 10 in,183.0,4.46,42.5,11.0,130.0,6.7,4.21,NWE,DB,DB,3.0,86.0
+2001LouiWill,2001,Louis Williams,OG,LSU,6 ft 4 in,299.0,5.48,28.5,25.0,103.0,7.86,4.67,CAR,C,C,7.0,211.0
+2001ShawWort,2001,Shawn Worthen,DT,TCU,6 ft 1 in,310.0,5.18,30.0,23.0,103.0,7.5,4.61,MIN,DT,DT,4.0,130.0
+2002BriaAlle,2002,Brian Allen,RB,Stanford,5 ft 9 in,209.0,4.46,33.0,19.0,112.0,6.9,4.08,IND,RB,RB,6.0,204.0
+2002JameAlle,2002,James Allen,OLB,Oregon State,6 ft 3 in,240.0,4.62,38.0,24.0,126.0,7.59,4.21,NOR,LB,LB,3.0,82.0
+2002MattAnde,2002,Matt Anderle,OT,Minnesota,6 ft 6 in,327.0,5.5,29.0,26.0,104.0,7.99,4.8,SDG,T,T,6.0,178.0
+2002AkinAyod,2002,Akin Ayodele,OLB,Purdue,6 ft 2 in,257.0,4.81,35.0,26.0,121.0,7.0,4.12,JAX,LB,LB,3.0,89.0
+2002ClenBall,2002,Clenton Ballard,DT,Texas State,6 ft 2 in,313.0,5.18,26.5,24.0,93.0,7.47,4.64,JAX,DT,DT,6.0,180.0
+2002JustBann,2002,Justin Bannan,DT,Colorado,6 ft 3 in,300.0,5.0,29.0,24.0,99.0,7.31,4.24,BUF,DT,DT,5.0,139.0
+2002JarrBaxt,2002,Jarrod Baxter,FB,New Mexico,6 ft 1 in,245.0,4.7,32.5,23.0,116.0,7.1,4.27,HOU,FB,FB,5.0,136.0
+2002ChadBeas,2002,Chad Beasley,DT,Virginia Tech,6 ft 5 in,303.0,5.15,31.5,27.0,104.0,7.75,4.6,MIN,T,T,7.0,218.0
+2002KeviBent,2002,Kevin Bentley,OLB,Northwestern,6 ft 0 in,243.0,4.68,39.0,23.0,120.0,6.71,3.83,CLE,LB,LB,4.0,101.0
+2002RockBern,2002,Rocky Bernard,DT,Texas A&M,6 ft 3 in,294.0,4.96,33.0,30.0,108.0,7.43,4.41,SEA,DT,DT,5.0,146.0
+2002LadeBett,2002,Ladell Betts,RB,Iowa,5 ft 10 in,220.0,4.62,38.0,23.0,116.0,7.06,4.06,WAS,RB,RB,2.0,56.0
+2002TerrBier,2002,Terreal Bierria,S,Georgia,6 ft 3 in,216.0,4.61,36.0,18.0,130.0,6.93,4.1,SEA,DB,DB,4.0,120.0
+2002RockBoim,2002,Rocky Boiman,OLB,Notre Dame,6 ft 4 in,242.0,4.6,35.0,17.0,122.0,6.86,4.05,TEN,LB,LB,4.0,133.0
+2002RaheBroc,2002,Raheem Brock,DE,Temple,6 ft 4 in,257.0,4.93,34.0,25.0,115.0,7.09,4.23,PHI,DE,DE,7.0,238.0
+2002ShelBrow,2002,Sheldon Brown,CB,South Carolina,5 ft 10 in,196.0,4.47,36.5,15.0,120.0,7.0,4.24,PHI,DB,DB,2.0,59.0
+2002PeteCamp,2002,Pete Campion,OG,North Dakota State,6 ft 4 in,307.0,5.26,25.5,30.0,88.0,7.96,4.81,CAR,G,G,7.0,213.0
+2002RockCart,2002,Rock Cartwright,RB,Kansas State,5 ft 8 in,237.0,4.47,35.0,30.0,116.0,7.18,4.25,WAS,FB,FB,7.0,257.0
+2002MarcColo,2002,Marc Colombo,OT,Boston Col.,6 ft 8 in,313.0,5.27,29.5,30.0,101.0,7.65,4.6,CHI,T,T,1.0,29.0
+2002KeviCurt,2002,Kevin Curtis,S,Texas Tech,6 ft 2 in,212.0,4.53,37.5,24.0,124.0,6.75,3.88,SFO,DB,DB,4.0,127.0
+2002DorsDavi,2002,Dorsett Davis,DT,Mississippi State,6 ft 5 in,304.0,5.0,31.0,30.0,109.0,7.83,4.67,DEN,DE,DE,3.0,96.0
+2002RyanDenn,2002,Ryan Denney,DE,BYU,6 ft 7 in,276.0,4.86,33.0,36.0,107.0,7.18,4.25,BUF,DE,DE,2.0,61.0
+2002NateDwye,2002,Nate Dwyer,DT,Kansas,6 ft 3 in,313.0,5.1,31.0,27.0,103.0,7.57,4.41,ARI,DT,DT,4.0,113.0
+2002OmarEasy,2002,Omar Easy,FB,Penn State,6 ft 1 in,244.0,4.53,40.0,21.0,123.0,7.25,4.12,KAN,FB,FB,4.0,107.0
+2002DemaFagg,2002,Demarcus Faggins,CB,Kansas State,5 ft 10 in,178.0,4.57,36.5,3.0,121.0,6.64,3.92,HOU,DB,DB,6.0,173.0
+2002ToniFono,2002,Toniu Fonoti,OG,Nebraska,6 ft 4 in,349.0,5.49,28.5,32.0,97.0,8.12,4.81,SDG,G,G,2.0,39.0
+2002DeShFost,2002,DeShaun Foster,RB,UCLA,6 ft 1 in,222.0,4.57,35.5,20.0,119.0,6.82,4.16,CAR,RB,RB,2.0,34.0
+2002MelvFowl,2002,Melvin Fowler,C,Maryland,6 ft 3 in,300.0,5.46,27.0,32.0,99.0,7.51,4.6,CLE,C,C,3.0,76.0
+2002EddiFree,2002,Eddie Freeman,DT,Ala-Birmingham,6 ft 5 in,310.0,4.91,34.5,32.0,111.0,7.85,4.81,KAN,DE,DE,2.0,43.0
+2002ScotFuji,2002,Scott Fujita,OLB,California,6 ft 5 in,248.0,4.64,42.0,20.0,122.0,7.09,4.21,KAN,LB,LB,5.0,143.0
+2002LaVaGlov,2002,LaVar Glover,CB,Cincinnati,5 ft 9 in,177.0,4.59,37.0,11.0,117.0,7.18,4.29,PIT,DB,DB,7.0,212.0
+2002CharGran,2002,Charles Grant,DE,Georgia,6 ft 3 in,282.0,4.69,31.0,24.0,118.0,7.69,4.39,NOR,DE,DE,1.0,25.0
+2002CarlHall,2002,Carlos Hall,DE,Arkansas,6 ft 4 in,259.0,4.67,40.0,20.0,129.0,6.97,4.19,TEN,DE,DE,7.0,240.0
+2002RyanHann,2002,Ryan Hannam,TE,New Mexico,6 ft 2 in,251.0,4.69,30.5,18.0,113.0,7.07,4.21,SEA,TE,TE,5.0,169.0
+2002NapoHarr,2002,Napoleon Harris,OLB,Northwestern,6 ft 3 in,253.0,4.55,34.0,27.0,115.0,7.15,4.44,OAK,LB,LB,1.0,23.0
+2002VerrHayn,2002,Verron Haynes,FB,Georgia,5 ft 10 in,224.0,4.78,31.5,25.0,117.0,7.27,4.08,PIT,RB,RB,5.0,166.0
+2002KeitHein,2002,Keith Heinrich,TE,SMU,6 ft 5 in,255.0,4.77,35.0,21.0,120.0,6.87,4.1,CAR,TE,TE,6.0,174.0
+2002EricHeit,2002,Eric Heitmann,OG,Stanford,6 ft 4 in,305.0,5.22,28.0,33.0,103.0,7.56,4.6,SFO,G,G,7.0,239.0
+2002JohnHend,2002,John Henderson,DT,Tennessee,6 ft 7 in,308.0,4.87,27.5,24.0,110.0,7.71,4.66,JAX,DT,DT,1.0,9.0
+2002LeonHenr,2002,Leonard Henry,RB,East Carolina,6 ft 1 in,206.0,4.57,35.0,26.0,113.0,7.11,4.29,MIA,RB,RB,7.0,241.0
+2002CharHill,2002,Charles Hill,DT,Maryland,6 ft 2 in,293.0,5.06,33.5,23.0,113.0,7.37,4.36,HOU,DT,DT,3.0,83.0
+2002MattHill,2002,Matt Hill,OT,Boise State,6 ft 6 in,300.0,5.33,28.5,20.0,101.0,7.58,4.54,SEA,T,T,5.0,171.0
+2002DennJohn,2002,Dennis Johnson,DE,Kentucky,6 ft 5 in,258.0,4.82,35.5,17.0,119.0,7.21,4.36,ARI,DE,DE,3.0,98.0
+2002KyleJohn,2002,Kyle Johnson,FB,Syracuse,6 ft 1 in,242.0,4.74,34.0,22.0,119.0,7.4,4.35,CAR,RB,RB,5.0,145.0
+2002DougJoll,2002,Doug Jolley,TE,BYU,6 ft 4 in,251.0,4.6,38.0,18.0,117.0,6.9,4.18,OAK,TE,TE,2.0,55.0
+2002TerrJone,2002,Terry Jones,TE,Alabama,6 ft 3 in,265.0,4.79,33.5,20.0,111.0,7.43,4.43,BAL,TE,TE,5.0,155.0
+2002BretKeis,2002,Brett Keisel,DE,BYU,6 ft 5 in,279.0,4.89,33.5,26.0,107.0,7.28,4.51,PIT,DE,DE,7.0,242.0
+2002KyleKosi,2002,Kyle Kosier,OT,Arizona State,6 ft 5 in,293.0,5.09,29.5,24.0,108.0,7.34,4.49,SFO,G,G,7.0,248.0
+2002Ben Lebe,2002,Ben Leber,OLB,Kansas State,6 ft 3 in,244.0,4.62,32.5,20.0,114.0,6.75,4.25,SDG,LB,LB,3.0,71.0
+2002MichLewi,2002,Michael Lewis,S,Colorado,6 ft 1 in,211.0,4.6,36.5,16.0,122.0,6.96,4.14,PHI,DB,DB,2.0,58.0
+2002AndrLott,2002,Andre Lott,CB,Tennessee,5 ft 10 in,194.0,4.48,36.5,15.0,119.0,7.1,4.01,WAS,DB,DB,5.0,159.0
+2002OmarLowe,2002,Omare Lowe,CB,Washington,6 ft 1 in,196.0,4.58,35.5,12.0,118.0,6.65,3.97,MIA,DB,DB,5.0,161.0
+2002ChriLuza,2002,Chris Luzar,TE,Virginia,6 ft 7 in,270.0,4.76,32.5,22.0,115.0,6.84,4.17,JAX,TE,TE,4.0,118.0
+2002WeslMall,2002,Wesly Mallard,S,Oregon,6 ft 2 in,221.0,4.49,41.0,22.0,122.0,6.81,4.07,NYG,LB,LB,6.0,188.0
+2002JamaMart,2002,Jamar Martin,FB,Ohio State,5 ft 11 in,245.0,4.89,32.0,23.0,108.0,7.53,4.34,DAL,FB,FB,4.0,129.0
+2002Jon McGr,2002,Jon McGraw,S,Kansas State,6 ft 3 in,208.0,4.5,39.5,13.0,126.0,6.51,3.92,NYJ,DB,DB,2.0,57.0
+2002SethMcKi,2002,Seth McKinney,C,Texas A&M,6 ft 3 in,300.0,4.97,33.5,23.0,105.0,7.36,4.51,MIA,C,C,3.0,90.0
+2002RandMcMi,2002,Randy McMichael,TE,Georgia,6 ft 3 in,247.0,4.88,29.5,18.0,112.0,7.58,4.28,MIA,TE,TE,4.0,114.0
+2002Mel Mitc,2002,Mel Mitchell,S,Western Kentucky,6 ft 1 in,220.0,4.55,35.0,15.0,128.0,7.0,4.15,NOR,DB,DB,5.0,150.0
+2002QuinMonk,2002,Quincy Monk,ILB,North Carolina,6 ft 3 in,250.0,4.82,33.5,26.0,113.0,7.48,4.38,NYG,LB,LB,7.0,245.0
+2002DerrMonr,2002,Derrius Monroe,DE,Virginia Tech,6 ft 4 in,269.0,4.56,31.5,25.0,111.0,7.38,4.51,NOR,DE,DE,7.0,224.0
+2002WillOver,2002,Will Overstreet,DE,Tennessee,6 ft 3 in,259.0,4.65,32.5,21.0,116.0,7.37,4.31,ATL,LB,LB,3.0,80.0
+2002AntoPale,2002,Anton Palepoi,DE,UNLV,6 ft 3 in,279.0,4.81,33.5,24.0,114.0,7.46,4.27,SEA,DE,DE,2.0,60.0
+2002JustPeel,2002,Justin Peelle,TE,Oregon,6 ft 4 in,255.0,4.75,29.0,21.0,110.0,7.34,4.29,SDG,TE,TE,4.0,103.0
+2002ScotPete,2002,Scott Peters,C,Arizona State,6 ft 3 in,300.0,5.07,33.5,36.0,97.0,7.68,4.69,PHI,C,C,4.0,124.0
+2002AdriPete,2002,Adrian Peterson,RB,Georgia Southern,5 ft 10 in,214.0,4.68,34.0,14.0,119.0,7.59,4.6,CHI,RB,RB,6.0,199.0
+2002NickRoge,2002,Nick Rogers,OLB,Georgia Tech,6 ft 2 in,251.0,4.73,36.0,22.0,117.0,7.02,4.19,MIN,LB,LB,6.0,177.0
+2002VictRoge,2002,Victor Rogers,OG,Colorado,6 ft 6 in,331.0,5.57,25.0,20.0,93.0,9.0,5.16,DET,T,T,7.0,259.0
+2002RobeRoya,2002,Robert Royal,TE,LSU,6 ft 5 in,253.0,4.97,31.0,14.0,114.0,7.37,4.27,WAS,TE,TE,5.0,160.0
+2002JoshScob,2002,Josh Scobey,RB,Kansas State,5 ft 11 in,218.0,4.42,40.5,21.0,124.0,6.96,3.93,ARI,RB,RB,6.0,185.0
+2002GregScot,2002,Greg Scott,DE,Kansas State,6 ft 4 in,268.0,4.9,32.5,26.0,110.0,7.5,4.61,WAS,DE,DE,7.0,234.0
+2002KendSimm,2002,Kendall Simmons,OG,Auburn,6 ft 3 in,311.0,5.3,28.5,24.0,98.0,7.84,4.71,PIT,G,G,1.0,30.0
+2002RaonSmit,2002,Raonall Smith,OLB,Washington State,6 ft 2 in,244.0,4.53,42.0,26.0,125.0,7.1,4.11,MIN,LB,LB,2.0,38.0
+2002JohnStam,2002,John Stamper,DE,South Carolina,6 ft 4 in,265.0,4.98,36.5,24.0,112.0,7.35,4.22,TAM,DE,DE,6.0,193.0
+2002Ben Tayl,2002,Ben Taylor,ILB,Virginia Tech,6 ft 2 in,236.0,4.83,35.5,19.0,120.0,6.56,4.09,CLE,LB,LB,4.0,111.0
+2002RobeThom,2002,Robert Thomas,OLB,UCLA,6 ft 0 in,229.0,4.51,34.0,21.0,116.0,7.21,4.1,STL,LB,LB,1.0,31.0
+2002DaviThor,2002,David Thornton,OLB,North Carolina,6 ft 2 in,236.0,4.62,35.5,26.0,117.0,6.93,4.09,IND,LB,LB,4.0,106.0
+2002LangWalk,2002,Langston Walker,OT,California,6 ft 8 in,344.0,5.26,28.5,21.0,102.0,8.09,4.95,OAK,T,T,2.0,53.0
+2002FredWear,2002,Fred Weary,C,Tennessee,6 ft 4 in,308.0,5.37,32.0,34.0,104.0,7.68,4.63,HOU,G,G,3.0,66.0
+2002AnthWeav,2002,Anthony Weaver,DT,Notre Dame,6 ft 3 in,296.0,4.95,32.5,24.0,109.0,7.37,4.31,BAL,DE,DE,2.0,52.0
+2002DantWesl,2002,Dante Wesley,CB,Ark-Pine Bluff,6 ft 1 in,211.0,4.43,35.0,15.0,116.0,7.25,4.22,CAR,DB,DB,4.0,100.0
+2002TankWill,2002,Tank Williams,S,Stanford,6 ft 2 in,222.0,4.46,38.5,19.0,125.0,6.78,3.93,TEN,DB,DB,2.0,45.0
+2002Coy Wire,2002,Coy Wire,S,Stanford,6 ft 0 in,209.0,4.56,38.5,28.0,120.0,6.62,3.87,BUF,DB,DB,3.0,97.0
+2002TracWist,2002,Tracey Wistrom,TE,Nebraska,6 ft 4 in,245.0,4.92,33.5,17.0,116.0,7.09,4.1,TAM,TE,TE,7.0,250.0
+2002WillWith,2002,Will Witherspoon,OLB,Georgia,6 ft 1 in,231.0,4.68,38.0,25.0,122.0,7.09,4.21,CAR,LB,LB,3.0,73.0
+2003KhalAbdu,2003,Khalid Abdullah,OLB,Mars Hill,6 ft 2 in,227.0,4.61,36.5,26.0,126.0,7.13,4.25,CIN,LB,LB,5.0,136.0
+2003NickBarn,2003,Nick Barnett,OLB,Oregon State,6 ft 2 in,236.0,4.67,34.5,32.0,123.0,7.0,4.08,GNB,LB,LB,1.0,29.0
+2003SoloBate,2003,Solomon Bates,ILB,Arizona State,6 ft 1 in,243.0,4.89,30.0,19.0,112.0,7.23,4.34,SEA,LB,LB,4.0,135.0
+2003TyleBray,2003,Tyler Brayton,DE,Colorado,6 ft 6 in,277.0,4.73,34.0,25.0,116.0,7.14,4.31,OAK,DE,DE,1.0,32.0
+2003JereBrid,2003,Jeremy Bridges,OG,Southern Miss,6 ft 4 in,301.0,5.38,28.5,25.0,96.0,8.12,4.77,PHI,G,G,6.0,185.0
+2003ChriBrow,2003,Chris Brown,S,Ala-Birmingham,6 ft 0 in,195.0,4.59,35.5,15.0,126.0,7.05,4.13,TEN,RB,RB,3.0,93.0
+2003CurrBurn,2003,Curry Burns,S,Louisville,6 ft 0 in,216.0,4.56,36.0,19.0,120.0,7.04,4.16,HOU,DB,DB,7.0,217.0
+2003Dan Curl,2003,Dan Curley,TE,East. Washington,6 ft 4 in,254.0,4.63,35.5,17.0,118.0,7.47,4.53,STL,FB,FB,5.0,148.0
+2003ChriDavi,2003,Chris Davis,FB,Syracuse,5 ft 11 in,235.0,4.56,38.5,21.0,116.0,7.25,4.37,SEA,FB,FB,5.0,165.0
+2003DaviDieh,2003,David Diehl,OG,Illinois,6 ft 6 in,310.0,5.26,28.0,22.0,96.0,8.1,4.97,NYG,G,G,5.0,160.0
+2003BranDrum,2003,Brandon Drumm,FB,Colorado,6 ft 1 in,233.0,4.71,32.5,21.0,113.0,7.18,4.29,DET,RB,RB,7.0,236.0
+2003MakoFrei,2003,Makoa Freitas,OG,Arizona,6 ft 4 in,307.0,5.05,24.5,36.0,95.0,8.24,4.92,IND,T,T,6.0,208.0
+2003BranGree,2003,Brandon Green,DE,Rice,6 ft 2 in,267.0,4.78,32.0,19.0,105.0,7.23,4.32,JAX,DE,DE,6.0,176.0
+2003JustGrif,2003,Justin Griffith,FB,Mississippi State,5 ft 11 in,232.0,4.59,32.0,29.0,113.0,7.73,4.68,ATL,FB,FB,4.0,121.0
+2003DeJuGroc,2003,DeJuan Groce,CB,Nebraska,5 ft 10 in,192.0,4.49,36.0,18.0,118.0,6.82,4.0,STL,DB,DB,4.0,107.0
+2003JordGros,2003,Jordan Gross,OT,Utah,6 ft 4 in,300.0,5.05,31.5,28.0,112.0,7.69,4.39,CAR,T,T,1.0,8.0
+2003MariHagg,2003,Mario Haggan,ILB,Mississippi State,6 ft 3 in,252.0,4.88,33.0,21.0,110.0,7.55,4.46,BUF,LB,LB,7.0,228.0
+2003Ken Haml,2003,Ken Hamlin,S,Arkansas,6 ft 2 in,209.0,4.61,33.0,16.0,117.0,6.8,3.92,SEA,DB,DB,2.0,42.0
+2003VictHobs,2003,Victor Hobson,ILB,Michigan,6 ft 0 in,252.0,4.86,33.0,29.0,117.0,7.26,4.33,NYJ,LB,LB,2.0,53.0
+2003TerrHolt,2003,Terrence Holt,S,North Carolina State,6 ft 2 in,208.0,4.55,34.5,13.0,122.0,6.99,4.03,DET,DB,DB,5.0,137.0
+2003AaroHunt,2003,Aaron Hunt,DE,Texas Tech,6 ft 2 in,267.0,4.86,30.0,24.0,106.0,7.68,4.52,DEN,DE,DE,6.0,194.0
+2003WaynHunt,2003,Wayne Hunter,OT,Hawaii,6 ft 6 in,303.0,5.08,31.0,37.0,104.0,7.72,4.57,SEA,T,T,3.0,73.0
+2003AlonJack,2003,Alonzo Jackson,DE,Florida State,6 ft 4 in,266.0,4.86,37.0,14.0,114.0,7.69,4.5,PIT,LB,LB,2.0,59.0
+2003JarrJohn,2003,Jarret Johnson,DT,Alabama,6 ft 3 in,284.0,5.07,28.5,21.0,107.0,7.72,4.58,BAL,DE,DE,4.0,109.0
+2003ToddJohn,2003,Todd Johnson,S,Florida,6 ft 1 in,206.0,4.56,33.5,19.0,117.0,7.01,4.19,CHI,DB,DB,4.0,100.0
+2003TerrKiel,2003,Terrence Kiel,S,Texas A&M,5 ft 11 in,204.0,4.46,38.0,16.0,127.0,6.88,3.96,SDG,DB,DB,2.0,62.0
+2003AustKing,2003,Austin King,C,Northwestern,6 ft 4 in,299.0,5.42,28.0,20.0,106.0,7.99,4.73,TAM,C,C,4.0,133.0
+2003KennKing,2003,Kenny King,DE,Alabama,6 ft 3 in,281.0,4.95,35.0,25.0,114.0,7.5,4.37,ARI,DE,DE,5.0,141.0
+2003Dan Klec,2003,Dan Klecko,DT,Temple,5 ft 11 in,283.0,4.94,33.5,26.0,111.0,7.52,4.43,NWE,DT,DT,4.0,117.0
+2003ScotKooi,2003,Scott Kooistra,OT,North Carolina State,6 ft 6 in,316.0,5.14,31.0,28.0,103.0,7.95,4.62,CIN,T,T,7.0,215.0
+2003Dan Kopp,2003,Dan Koppen,C,Boston Col.,6 ft 3 in,297.0,5.43,28.5,27.0,101.0,8.26,4.56,NWE,C,C,5.0,164.0
+2003DonaLee,2003,Donald Lee,TE,Mississippi State,6 ft 3 in,249.0,4.82,39.0,26.0,120.0,7.42,4.42,MIA,TE,TE,5.0,156.0
+2003JameLee,2003,James Lee,DT,Oregon State,6 ft 4 in,327.0,4.98,30.0,23.0,106.0,7.78,4.69,GNB,DT,DT,5.0,147.0
+2003MichLeha,2003,Michael Lehan,CB,Minnesota,6 ft 0 in,196.0,4.48,34.5,13.0,119.0,6.95,4.15,CLE,DB,DB,5.0,152.0
+2003NormLeJe,2003,Norman LeJeune,S,LSU,6 ft 0 in,200.0,4.65,33.5,11.0,115.0,7.42,4.21,PHI,DB,DB,7.0,244.0
+2003SeanMaha,2003,Sean Mahan,OG,Notre Dame,6 ft 3 in,301.0,5.14,30.0,30.0,105.0,7.75,4.77,TAM,G,G,5.0,168.0
+2003RickMann,2003,Ricky Manning,CB,UCLA,5 ft 9 in,185.0,4.52,36.5,12.0,117.0,7.11,4.17,CAR,DB,DB,3.0,82.0
+2003VincManu,2003,Vince Manuwai,OG,Hawaii,6 ft 2 in,304.0,5.06,29.5,27.0,107.0,7.59,4.4,JAX,G,G,3.0,72.0
+2003RashMath,2003,Rashean Mathis,S,Bethune-Cookman,6 ft 1 in,202.0,4.45,38.5,22.0,123.0,7.09,4.17,JAX,DB,DB,2.0,39.0
+2003TerrMcGe,2003,Terrence McGee,CB,NW State (LA),5 ft 10 in,201.0,4.57,37.0,15.0,126.0,6.88,4.09,BUF,DB,DB,4.0,111.0
+2003HaniMill,2003,Hanik Milligan,S,Houston,6 ft 2 in,201.0,4.52,36.5,9.0,130.0,7.11,4.18,SDG,DB,DB,6.0,188.0
+2003ClinMitc,2003,Clint Mitchell,DE,Florida,6 ft 7 in,257.0,4.93,34.5,16.0,115.0,7.36,4.39,DEN,DE,DE,7.0,227.0
+2003KawiMitc,2003,Kawika Mitchell,ILB,South Florida,6 ft 1 in,253.0,4.69,37.0,25.0,117.0,7.32,4.24,KAN,LB,LB,2.0,47.0
+2003CaseMoor,2003,Casey Moore,FB,Stanford,6 ft 2 in,240.0,4.65,32.5,22.0,114.0,7.29,4.26,CAR,RB,RB,7.0,247.0
+2003LangMoor,2003,Langston Moore,DT,South Carolina,6 ft 1 in,303.0,5.04,32.0,29.0,104.0,7.64,4.29,CIN,DT,DT,6.0,174.0
+2003KindMoor,2003,Kindal Moorehead,DE,Alabama,6 ft 2 in,285.0,5.0,32.0,22.0,104.0,7.71,4.57,CAR,DT,DT,5.0,145.0
+2003SpenNead,2003,Spencer Nead,TE,BYU,6 ft 4 in,259.0,4.86,28.5,19.0,102.0,7.37,4.34,NWE,FB,FB,7.0,234.0
+2003DonnNick,2003,Donnie Nickey,S,Ohio State,6 ft 2 in,220.0,4.65,33.5,17.0,119.0,7.08,4.16,TEN,DB,DB,5.0,154.0
+2003LancNimm,2003,Lance Nimmo,OT,West Virginia,6 ft 5 in,303.0,5.28,27.0,20.0,90.0,8.21,4.96,TAM,T,T,4.0,130.0
+2003DerePage,2003,Derek Pagel,S,Iowa,6 ft 1 in,208.0,4.57,35.5,25.0,115.0,6.87,4.08,NYJ,DB,DB,5.0,140.0
+2003AntwPeek,2003,Antwan Peek,OLB,Cincinnati,6 ft 3 in,246.0,4.65,37.0,21.0,125.0,7.07,4.35,HOU,LB,LB,3.0,67.0
+2003WillPile,2003,Willie Pile,S,Virginia Tech,6 ft 2 in,206.0,4.57,38.0,14.0,125.0,6.77,4.21,KAN,DB,DB,7.0,252.0
+2003Tim Prov,2003,Tim Provost,OT,San Jose State,6 ft 5 in,301.0,5.23,28.5,21.0,102.0,8.38,4.7,MIA,T,T,6.0,209.0
+2003DustRyke,2003,Dustin Rykert,OT,BYU,6 ft 6 in,327.0,5.42,26.5,21.0,92.0,8.2,4.87,OAK,T,T,6.0,204.0
+2003AsanSamu,2003,Asante Samuel,CB,Central Florida,5 ft 11 in,185.0,4.49,35.5,9.0,120.0,6.95,4.14,NWE,DB,DB,4.0,120.0
+2003AntwSand,2003,Antwoine Sanders,S,Utah,6 ft 2 in,202.0,4.54,37.5,14.0,128.0,7.44,4.45,BAL,DB,DB,7.0,258.0
+2003StevSciu,2003,Steve Sciullo,OT,Marshall,6 ft 5 in,330.0,5.48,28.0,23.0,98.0,7.85,4.72,IND,G,G,4.0,122.0
+2003Ian Scot,2003,Ian Scott,DT,Florida,6 ft 2 in,312.0,5.16,28.5,28.0,99.0,8.12,5.0,CHI,DT,DT,4.0,116.0
+2003ScotShan,2003,Scott Shanle,OLB,Nebraska,6 ft 2 in,245.0,4.72,31.0,20.0,111.0,7.27,4.32,STL,LB,LB,7.0,251.0
+2003VisaShia,2003,Visanthe Shiancoe,TE,South Florida,6 ft 4 in,251.0,4.65,39.5,28.0,120.0,7.09,4.31,NYG,TE,TE,3.0,91.0
+2003L.J.Smit,2003,L.J. Smith,TE,Rutgers,6 ft 3 in,258.0,4.62,37.0,26.0,122.0,6.74,4.25,PHI,TE,TE,2.0,61.0
+2003TrenSmit,2003,Trent Smith,TE,Oklahoma,6 ft 5 in,243.0,4.79,35.5,16.0,118.0,7.23,4.37,BAL,TE,TE,7.0,223.0
+2003WadeSmit,2003,Wade Smith,OT,Memphis,6 ft 4 in,296.0,5.14,32.5,24.0,114.0,7.62,4.75,MIA,T,T,3.0,78.0
+2003Ben Sobi,2003,Ben Sobieski,OG,Iowa,6 ft 5 in,307.0,5.0,30.0,18.0,109.0,7.7,4.49,BUF,T,T,5.0,151.0
+2003Jon Stin,2003,Jon Stinchcomb,OT,Georgia,6 ft 5 in,302.0,4.99,35.0,32.0,115.0,7.83,4.62,NOR,T,T,2.0,37.0
+2003DonaStri,2003,Donald Strickland,CB,Colorado,5 ft 10 in,187.0,4.53,35.5,16.0,121.0,6.98,4.04,IND,DB,DB,3.0,90.0
+2003ScotTerc,2003,Scott Tercero,OG,California,6 ft 4 in,303.0,5.23,28.5,25.0,103.0,7.81,4.51,STL,G,G,6.0,184.0
+2003ChauThom,2003,Chaun Thompson,OLB,West Texas A&M,6 ft 2 in,240.0,4.58,35.5,29.0,123.0,7.01,4.22,CLE,LB,LB,2.0,52.0
+2003CharTill,2003,Charles Tillman,CB,Louisiana-Lafayette,6 ft 1 in,207.0,4.49,40.0,12.0,131.0,7.05,3.89,CHI,DB,DB,2.0,35.0
+2003PisaTino,2003,Pisa Tinoisamoa,OLB,Hawaii,6 ft 0 in,231.0,4.65,34.5,19.0,111.0,6.97,4.07,STL,LB,LB,2.0,43.0
+2003MarcTruf,2003,Marcus Trufant,CB,Washington State,5 ft 11 in,199.0,4.38,39.0,11.0,127.0,6.87,4.32,SEA,DB,DB,1.0,11.0
+2003B.J.Tuck,2003,B.J. Tucker,CB,Wisconsin,5 ft 10 in,188.0,4.34,35.0,16.0,123.0,7.25,4.2,DAL,DB,DB,6.0,178.0
+2003AaroWalk,2003,Aaron Walker,TE,Florida,6 ft 6 in,252.0,4.72,33.5,24.0,115.0,7.57,4.3,SFO,TE,TE,5.0,161.0
+2003ShanWalt,2003,Shane Walton,CB,Notre Dame,5 ft 11 in,184.0,4.67,31.0,11.0,109.0,7.05,4.29,STL,DB,DB,5.0,170.0
+2003SethWand,2003,Seth Wand,OT,Northwest Missouri State,6 ft 7 in,321.0,5.14,31.5,20.0,107.0,7.61,4.5,HOU,T,T,3.0,75.0
+2003DennWeat,2003,Dennis Weathersby,CB,Oregon State,6 ft 1 in,204.0,4.38,38.0,9.0,125.0,7.14,4.13,CIN,DB,DB,4.0,98.0
+2003ReggWell,2003,Reggie Wells,OT,Clarion,6 ft 3 in,300.0,5.16,29.0,23.0,104.0,8.35,4.56,ARI,G,G,6.0,177.0
+2003KeyoWhit,2003,Keyon Whiteside,ILB,Tennessee,6 ft 0 in,229.0,4.8,29.0,27.0,111.0,7.32,4.34,IND,LB,LB,5.0,162.0
+2003TaylWhit,2003,Taylor Whitley,OG,Texas A&M,6 ft 4 in,321.0,5.18,30.0,28.0,106.0,7.95,4.58,MIA,G,G,3.0,87.0
+2003JimmWilk,2003,Jimmy Wilkerson,DE,Oklahoma,6 ft 3 in,271.0,4.91,34.5,29.0,114.0,7.45,4.4,KAN,DE,DE,6.0,189.0
+2003DomaWill,2003,Domanick Williams,RB,LSU,5 ft 9 in,213.0,4.63,32.5,22.0,112.0,7.32,4.47,HOU,RB,RB,4.0,101.0
+2003AndrWill,2003,Andrew Williams,DE,Miami (FL),6 ft 2 in,263.0,4.7,32.0,29.0,113.0,7.53,4.47,SFO,DE,DE,3.0,89.0
+2003KeviWill,2003,Kevin Williams,DE,Oklahoma State,6 ft 5 in,304.0,4.81,30.0,23.0,112.0,7.66,5.04,MIN,DT,DT,1.0,9.0
+2003ToddWill,2003,Todd Williams,OT,Florida State,6 ft 5 in,340.0,5.08,32.5,27.0,108.0,8.06,4.54,TEN,G,G,7.0,225.0
+2003EugeWils,2003,Eugene Wilson,CB,Illinois,5 ft 10 in,192.0,4.48,38.0,15.0,122.0,7.18,4.05,NWE,DB,DB,2.0,36.0
+2003AndrWool,2003,Andre Woolfolk,CB,Oklahoma,6 ft 1 in,197.0,4.47,35.5,10.0,128.0,6.78,3.96,TEN,DB,DB,1.0,28.0
+2004JareAlle,2004,Jared Allen,DE,Idaho State,6 ft 6 in,265.0,4.72,33.0,13.0,120.0,7.11,4.34,KAN,DE,DE,4.0,126.0
+2004CourAnde,2004,Courtney Anderson,TE,San Jose State,6 ft 6 in,269.0,4.89,30.0,17.0,106.0,7.86,4.45,OAK,TE,TE,7.0,245.0
+2004ShawAndr,2004,Shawn Andrews,OT,Arkansas,6 ft 4 in,366.0,5.49,25.0,27.0,98.0,8.25,4.85,PHI,G,G,1.0,16.0
+2004StacAndr,2004,Stacy Andrews,OT,Mississippi,6 ft 6 in,342.0,5.07,30.5,34.0,106.0,8.09,4.78,CIN,T,T,4.0,123.0
+2004MattAske,2004,Matthias Askew,DT,Michigan State,6 ft 5 in,308.0,5.2,27.0,20.0,101.0,7.55,4.42,CIN,DT,DT,4.0,114.0
+2004JasoBabi,2004,Jason Babin,DE,West. Michigan,6 ft 3 in,260.0,4.62,34.0,28.0,121.0,7.03,4.14,HOU,LB,LB,1.0,27.0
+2004RyonBing,2004,Ryon Bingham,DT,Nebraska,6 ft 3 in,303.0,5.09,30.0,33.0,109.0,7.44,4.38,SDG,DT,DT,7.0,204.0
+2004ColbBock,2004,Colby Bockwoldt,OLB,BYU,6 ft 2 in,230.0,4.6,34.0,14.0,112.0,7.12,4.05,NOR,LB,LB,7.0,240.0
+2004TonyBua,2004,Tony Bua,S,Arkansas,5 ft 11 in,209.0,4.67,36.0,15.0,120.0,6.75,4.08,MIA,LB,LB,5.0,160.0
+2004SeanBubi,2004,Sean Bubin,OT,Illinois,6 ft 6 in,306.0,5.32,24.5,25.0,97.0,7.66,4.76,JAX,T,T,5.0,159.0
+2004MarkCavk,2004,Marko Cavka,OT,Sacramento State,6 ft 7 in,294.0,5.17,27.5,27.0,107.0,7.53,4.37,NYJ,T,T,6.0,178.0
+2004KirkCham,2004,Kirk Chambers,OT,Stanford,6 ft 7 in,313.0,5.44,27.0,22.0,101.0,7.56,4.4,CLE,T,T,6.0,176.0
+2004ErikCole,2004,Erik Coleman,S,Washington State,5 ft 10 in,200.0,4.64,35.5,16.0,117.0,7.03,4.14,NYJ,DB,DB,5.0,143.0
+2004ChriCool,2004,Chris Cooley,TE,Utah State,6 ft 3 in,265.0,4.87,33.0,22.0,115.0,7.21,4.19,WAS,TE,TE,3.0,81.0
+2004MarqCoop,2004,Marquis Cooper,OLB,Washington,6 ft 3 in,223.0,4.55,36.5,25.0,121.0,7.02,4.12,TAM,LB,LB,3.0,79.0
+2004TreyDari,2004,Trey Darilek,OG,Texas-El Paso,6 ft 4 in,301.0,5.23,28.5,22.0,110.0,7.85,4.61,PHI,G,G,4.0,131.0
+2004Nat Dors,2004,Nat Dorsey,OT,Georgia Tech,6 ft 7 in,322.0,5.46,28.5,26.0,102.0,8.3,4.84,MIN,T,T,4.0,115.0
+2004VontDuff,2004,Vontez Duff,CB,Notre Dame,5 ft 11 in,203.0,4.53,35.0,13.0,120.0,6.94,4.03,HOU,DB,DB,6.0,170.0
+2004JeffDuga,2004,Jeff Dugan,TE,Maryland,6 ft 4 in,263.0,5.0,28.0,21.0,109.0,7.4,4.32,MIN,TE,TE,7.0,220.0
+2004DwanEdwa,2004,Dwan Edwards,DT,Oregon State,6 ft 3 in,313.0,5.12,28.0,25.0,105.0,7.59,4.68,BAL,DT,DT,2.0,51.0
+2004DeanEila,2004,Deandre' Eiland,S,South Carolina,5 ft 11 in,202.0,4.53,35.0,17.0,113.0,7.19,4.27,MIN,DB,DB,6.0,184.0
+2004Tim Euhu,2004,Tim Euhus,TE,Oregon State,6 ft 5 in,260.0,4.93,34.5,25.0,115.0,6.99,4.13,BUF,TE,TE,4.0,109.0
+2004MichGain,2004,Michael Gaines,TE,Central Florida,6 ft 2 in,275.0,5.06,33.0,18.0,109.0,7.44,4.18,CAR,TE,TE,7.0,232.0
+2004RobeGall,2004,Robert Gallery,OT,Iowa,6 ft 7 in,323.0,4.98,30.0,24.0,105.0,7.42,4.38,OAK,T,T,1.0,2.0
+2004RichGard,2004,Rich Gardner,CB,Penn State,5 ft 11 in,199.0,4.46,36.5,11.0,123.0,6.91,3.91,TEN,DB,DB,3.0,92.0
+2004RodeGree,2004,Roderick Green,DE,Central Missouri State,6 ft 2 in,245.0,4.7,34.5,21.0,129.0,7.26,4.04,BAL,LB,LB,5.0,153.0
+2004Rex Hadn,2004,Rex Hadnot,C,Houston,6 ft 2 in,323.0,5.5,24.5,27.0,91.0,7.94,4.66,MIA,G,G,6.0,174.0
+2004NickHard,2004,Nick Hardwick,C,Purdue,6 ft 3 in,295.0,5.2,34.0,27.0,108.0,7.72,4.55,SDG,C,C,3.0,66.0
+2004ClauHarr,2004,Claude Harriott,DE,Pittsburgh,6 ft 4 in,252.0,4.69,30.5,25.0,118.0,7.44,4.25,CHI,DE,DE,5.0,147.0
+2004Ben Hart,2004,Ben Hartsock,TE,Ohio State,6 ft 4 in,263.0,4.8,35.0,23.0,117.0,7.1,3.98,IND,TE,TE,3.0,68.0
+2004IsaaHilt,2004,Isaac Hilton,DE,Kansas State,6 ft 3 in,267.0,4.57,36.5,31.0,123.0,7.99,4.48,NYG,DE,DE,7.0,253.0
+2004Von Hutc,2004,Von Hutchins,CB,Mississippi,5 ft 10 in,185.0,4.46,34.5,11.0,115.0,7.05,4.06,IND,DB,DB,6.0,173.0
+2004LandJohn,2004,Landon Johnson,OLB,Purdue,6 ft 2 in,227.0,4.65,37.5,20.0,120.0,7.0,4.08,CIN,LB,LB,3.0,96.0
+2004TankJohn,2004,Tank Johnson,DT,Washington,6 ft 3 in,304.0,4.69,34.0,31.0,114.0,7.56,4.6,CHI,DT,DT,2.0,47.0
+2004TrevJohn,2004,Trevor Johnson,DE,Nebraska,6 ft 5 in,260.0,4.8,35.5,23.0,110.0,7.06,4.08,NYJ,DE,DE,7.0,234.0
+2004AdriJone,2004,Adrian Jones,OT,Kansas,6 ft 4 in,296.0,4.97,31.0,27.0,114.0,7.81,4.58,NYJ,T,T,4.0,132.0
+2004RyanKrau,2004,Ryan Krause,WR,Nebraska-Omaha,6 ft 2 in,244.0,4.6,33.5,18.0,119.0,6.78,4.16,SDG,TE,TE,6.0,169.0
+2004NickLeck,2004,Nick Leckey,C,Kansas State,6 ft 3 in,290.0,5.26,27.0,18.0,97.0,7.71,4.47,ARI,C,C,6.0,167.0
+2004TeddLehm,2004,Teddy Lehman,OLB,Oklahoma,6 ft 1 in,240.0,4.55,34.5,26.0,113.0,6.91,4.06,DET,LB,LB,2.0,37.0
+2004AlexLewi,2004,Alex Lewis,OLB,Wisconsin,6 ft 0 in,227.0,4.78,34.5,25.0,121.0,7.06,4.28,DET,LB,LB,5.0,140.0
+2004KeitLewi,2004,Keith Lewis,S,Oregon,6 ft 0 in,204.0,4.6,37.0,11.0,121.0,7.28,4.07,SFO,DB,DB,6.0,198.0
+2004SeanLock,2004,Sean Locklear,OG,North Carolina State,6 ft 4 in,308.0,5.16,29.0,27.0,100.0,7.85,4.56,SEA,T,T,3.0,84.0
+2004SeanMcHu,2004,Sean McHugh,TE,Penn State,6 ft 5 in,264.0,4.92,29.0,18.0,115.0,7.36,4.09,TEN,FB,FB,7.0,241.0
+2004CaleMill,2004,Caleb Miller,ILB,Arkansas,6 ft 3 in,224.0,4.66,34.5,23.0,120.0,6.85,3.93,CIN,LB,LB,3.0,80.0
+2004Jim Moli,2004,Jim Molinaro,OT,Notre Dame,6 ft 6 in,308.0,5.09,29.5,21.0,105.0,7.75,4.6,WAS,T,T,6.0,180.0
+2004AntwOdom,2004,Antwan Odom,DE,Alabama,6 ft 6 in,274.0,4.71,37.0,21.0,114.0,7.3,4.44,TEN,DE,DE,2.0,57.0
+2004IgorOlsh,2004,Igor Olshansky,DT,Oregon,6 ft 5 in,315.0,4.96,33.5,41.0,110.0,7.61,4.41,SDG,DE,DE,2.0,35.0
+2004TonyPape,2004,Tony Pape,OT,Michigan,6 ft 6 in,323.0,5.36,27.0,26.0,97.0,8.01,4.6,MIA,G,G,7.0,221.0
+2004StepPete,2004,Stephen Peterman,OG,LSU,6 ft 4 in,312.0,5.46,24.5,23.0,95.0,7.87,4.68,DAL,G,G,3.0,83.0
+2004RobeReyn,2004,Robert Reynolds,ILB,Ohio State,6 ft 3 in,251.0,4.76,32.5,18.0,116.0,7.17,3.94,TEN,LB,LB,5.0,165.0
+2004BriaRimp,2004,Brian Rimpf,OT,East Carolina,6 ft 6 in,319.0,5.41,28.0,31.0,105.0,7.97,4.66,BAL,G,G,7.0,246.0
+2004DuntRobi,2004,Dunta Robinson,CB,South Carolina,5 ft 11 in,186.0,4.34,36.0,15.0,120.0,6.97,3.75,HOU,DB,DB,1.0,10.0
+2004Bob Sand,2004,Bob Sanders,S,Iowa,5 ft 8 in,204.0,4.35,41.5,15.0,128.0,6.7,3.91,IND,DB,DB,2.0,44.0
+2004Bo SScho,2004,Bo Schobel,DE,TCU,6 ft 5 in,271.0,4.8,32.5,25.0,109.0,6.94,4.38,TEN,DE,DE,4.0,103.0
+2004StuaSchw,2004,Stuart Schweigert,S,Purdue,6 ft 2 in,218.0,4.47,38.0,18.0,124.0,6.68,3.89,OAK,DB,DB,3.0,67.0
+2004JakeScot,2004,Jake Scott,OT,Idaho,6 ft 5 in,281.0,5.06,34.5,24.0,110.0,7.96,4.68,IND,G,G,5.0,141.0
+2004JoshSewe,2004,Josh Sewell,C,Nebraska,6 ft 2 in,301.0,5.06,30.0,30.0,99.0,7.53,4.24,DEN,C,C,6.0,190.0
+2004JeffShoa,2004,Jeff Shoate,CB,San Diego State,5 ft 10 in,189.0,4.62,36.0,12.0,121.0,7.0,3.88,DEN,DB,DB,5.0,152.0
+2004JuniSiav,2004,Junior Siavii,DT,Oregon,6 ft 4 in,344.0,5.16,24.5,31.0,93.0,7.93,4.84,KAN,DT,DT,2.0,36.0
+2004JustSmil,2004,Justin Smiley,OG,Alabama,6 ft 3 in,298.0,5.07,32.0,19.0,111.0,7.72,4.41,SFO,G,G,2.0,46.0
+2004ChriSnee,2004,Chris Snee,OG,Boston Col.,6 ft 3 in,314.0,5.1,30.5,29.0,104.0,7.75,4.66,NYG,G,G,2.0,34.0
+2004IsaaSopo,2004,Isaac Sopoaga,DT,Hawaii,6 ft 2 in,317.0,4.97,30.5,42.0,99.0,7.79,4.66,SFO,DT,DT,4.0,104.0
+2004CodySpen,2004,Cody Spencer,ILB,North Texas,6 ft 2 in,242.0,4.65,34.5,27.0,116.0,6.94,4.08,OAK,LB,LB,6.0,182.0
+2004Max Star,2004,Max Starks,OT,Florida,6 ft 7 in,350.0,5.56,27.5,21.0,98.0,7.88,4.65,PIT,T,T,3.0,75.0
+2004ThomTape,2004,Thomas Tapeh,FB,Minnesota,6 ft 1 in,245.0,4.8,32.5,23.0,114.0,7.65,4.52,PHI,FB,FB,5.0,162.0
+2004CraiTerr,2004,Craig Terrill,DT,Purdue,6 ft 2 in,290.0,5.21,26.5,28.0,100.0,7.39,4.1,SEA,DT,DT,6.0,189.0
+2004Jeb Terr,2004,Jeb Terry,OG,North Carolina,6 ft 5 in,313.0,5.2,29.0,27.0,105.0,8.03,4.98,TAM,G,G,5.0,146.0
+2004JoeyThom,2004,Joey Thomas,CB,Montana State,6 ft 1 in,195.0,4.44,38.5,17.0,122.0,6.82,3.88,GNB,DB,DB,3.0,70.0
+2004ChriThom,2004,Chris Thompson,CB,Nicholls State,6 ft 0 in,189.0,4.5,35.0,12.0,117.0,7.09,4.14,JAX,DB,DB,5.0,150.0
+2004ReggTorb,2004,Reggie Torbor,DE,Auburn,6 ft 2 in,254.0,4.65,34.0,16.0,120.0,7.48,4.46,NYG,LB,LB,4.0,97.0
+2004SeanTuft,2004,Sean Tufts,OLB,Colorado,6 ft 4 in,242.0,4.61,34.5,21.0,118.0,6.94,3.94,CAR,LB,LB,6.0,196.0
+2004MichTurn,2004,Michael Turner,RB,Northern Illinois,5 ft 10 in,237.0,4.49,31.0,22.0,114.0,7.5,4.15,SDG,RB,RB,5.0,154.0
+2004MichWadd,2004,Michael Waddell,CB,North Carolina,5 ft 11 in,187.0,4.31,37.5,14.0,121.0,6.84,4.03,TEN,DB,DB,4.0,124.0
+2004DonnWash,2004,Donnell Washington,DT,Clemson,6 ft 5 in,332.0,5.0,31.0,34.0,109.0,7.8,4.88,GNB,DT,DT,3.0,72.0
+2004RashWash,2004,Rashad Washington,S,Kansas State,6 ft 2 in,223.0,4.61,34.0,14.0,116.0,7.06,4.02,NYJ,DB,DB,7.0,236.0
+2004CourWats,2004,Courtney Watson,OLB,Notre Dame,6 ft 1 in,237.0,4.56,36.5,22.0,114.0,7.39,4.35,NOR,LB,LB,2.0,60.0
+2004ScotWell,2004,Scott Wells,C,Tennessee,6 ft 2 in,300.0,5.3,31.0,31.0,109.0,7.56,4.35,GNB,G,G,7.0,251.0
+2004CoreWill,2004,Corey Williams,DT,Arkansas State,6 ft 4 in,313.0,5.18,28.0,25.0,106.0,7.97,4.55,GNB,DT,DT,6.0,179.0
+2004DemoWill,2004,Demorrio Williams,OLB,Nebraska,6 ft 1 in,232.0,4.52,37.0,16.0,125.0,7.02,4.11,ATL,LB,LB,4.0,101.0
+2004KrisWils,2004,Kris Wilson,TE,Pittsburgh,6 ft 2 in,248.0,4.62,35.0,24.0,119.0,6.88,4.1,KAN,TE,TE,2.0,61.0
+2004MarkWils,2004,Mark Wilson,OT,California,6 ft 7 in,314.0,5.36,28.5,24.0,108.0,7.53,4.49,WAS,TE,TE,5.0,151.0
+2004QuinWils,2004,Quincy Wilson,RB,West Virginia,5 ft 9 in,225.0,4.6,33.5,26.0,118.0,7.68,4.36,ATL,RB,RB,7.0,219.0
+2004DextWynn,2004,Dexter Wynn,CB,Colorado State,5 ft 9 in,175.0,4.49,39.0,13.0,123.0,6.7,3.9,PHI,DB,DB,6.0,192.0
+2005AnthAlab,2005,Anthony Alabi,OT,TCU,6 ft 5 in,310.0,5.12,32.5,18.0,105.0,7.62,4.6,MIA,T,T,5.0,162.0
+2005CalvArms,2005,Calvin Armstrong,OT,Washington State,6 ft 7 in,325.0,5.51,34.0,26.0,100.0,7.62,4.66,PHI,T,T,6.0,211.0
+2005J.J.Arri,2005,J.J. Arrington,RB,California,5 ft 9 in,214.0,4.4,35.0,18.0,121.0,6.81,4.1,ARI,RB,RB,2.0,44.0
+2005DaviBaas,2005,David Baas,OG,Michigan,6 ft 4 in,319.0,5.06,29.5,29.0,105.0,7.5,4.46,SFO,G,G,2.0,33.0
+2005JonaBabi,2005,Jonathan Babineaux,DT,Iowa,6 ft 2 in,286.0,4.87,29.5,21.0,109.0,7.7,4.57,ATL,DE,DE,2.0,59.0
+2005BillBaje,2005,Billy Bajema,TE,Oklahoma State,6 ft 5 in,261.0,4.74,31.5,16.0,113.0,7.05,4.25,SFO,TE,TE,7.0,249.0
+2005KhalBarn,2005,Khalif Barnes,OT,Washington,6 ft 6 in,305.0,4.92,35.0,26.0,106.0,7.57,4.54,JAX,T,T,2.0,52.0
+2005JordBeck,2005,Jordan Beck,OLB,Cal Poly,6 ft 2 in,233.0,4.6,41.0,25.0,128.0,7.11,4.1,ATL,LB,LB,3.0,90.0
+2005Joe Berg,2005,Joe Berger,OT,Michigan Tech,6 ft 5 in,303.0,5.18,27.0,30.0,96.0,7.77,4.62,CAR,T,T,6.0,207.0
+2005JustBeri,2005,Justin Beriault,S,Ball State,6 ft 3 in,204.0,4.52,39.5,14.0,132.0,6.92,3.8,DAL,DB,DB,6.0,208.0
+2005DarrBlac,2005,Darryl Blackstock,OLB,Virginia,6 ft 3 in,247.0,4.7,39.0,25.0,126.0,7.05,4.29,ARI,LB,LB,3.0,95.0
+2005NeheBrou,2005,Nehemiah Broughton,RB,Citadel,5 ft 11 in,250.0,4.59,30.0,25.0,108.0,7.54,4.28,WAS,FB,FB,7.0,222.0
+2005JasoBrow,2005,Jason Brown,C,North Carolina,6 ft 3 in,313.0,5.4,30.5,23.0,105.0,7.72,4.51,BAL,C,C,4.0,124.0
+2005RonnBrow,2005,Ronnie Brown,RB,Auburn,6 ft 0 in,233.0,4.43,34.0,18.0,117.0,7.1,4.08,MIA,RB,RB,1.0,2.0
+2005AnthBrya,2005,Anthony Bryant,DT,Alabama,6 ft 3 in,337.0,5.06,31.5,23.0,106.0,7.8,4.68,TAM,DT,DT,6.0,178.0
+2005Dan Buen,2005,Dan Buenning,OG,Wisconsin,6 ft 4 in,320.0,5.35,28.0,29.0,111.0,7.9,4.59,TAM,G,G,4.0,107.0
+2005VincBurn,2005,Vincent Burns,DE,Kentucky,6 ft 0 in,267.0,4.84,35.0,25.0,122.0,7.24,4.41,IND,DE,DE,3.0,92.0
+2005JeroCart,2005,Jerome Carter,S,Florida State,5 ft 11 in,220.0,4.47,35.0,21.0,121.0,7.18,4.04,STL,DB,DB,4.0,117.0
+2005DeAnCobb,2005,DeAndra Cobb,RB,Michigan State,5 ft 10 in,196.0,4.49,34.0,17.0,118.0,7.13,4.25,ATL,RB,RB,6.0,201.0
+2005NickColl,2005,Nick Collins,CB,Bethune-Cookman,5 ft 11 in,206.0,4.36,40.0,11.0,118.0,6.94,4.16,GNB,DB,DB,2.0,51.0
+2005SeanCons,2005,Sean Considine,S,Iowa,6 ft 0 in,212.0,4.5,37.0,19.0,117.0,7.09,3.92,PHI,DB,DB,4.0,102.0
+2005JuniCost,2005,Junius Coston,C,North Carolina A&T,6 ft 3 in,310.0,5.31,29.5,21.0,102.0,7.93,4.56,GNB,G,G,5.0,143.0
+2005ChauDavi,2005,Chauncey Davis,DE,Florida State,6 ft 2 in,273.0,4.8,37.0,22.0,118.0,7.66,4.44,ATL,DE,DE,4.0,128.0
+2005JoelDree,2005,Joel Dreessen,TE,Colorado State,6 ft 4 in,260.0,4.72,36.0,22.0,113.0,7.09,4.01,NYJ,TE,TE,6.0,198.0
+2005AtiyElli,2005,Atiyyah Ellison,DT,Missouri,6 ft 4 in,305.0,5.07,27.5,25.0,103.0,8.0,4.79,CAR,DT,DT,3.0,89.0
+2005AlfrFinc,2005,Alfred Fincher,ILB,Connecticut,6 ft 1 in,238.0,4.68,31.5,25.0,112.0,7.69,4.45,NOR,LB,LB,3.0,82.0
+2005DomoFoxw,2005,Domonique Foxworth,CB,Maryland,5 ft 11 in,184.0,4.34,41.0,14.0,125.0,6.78,3.89,DEN,DB,DB,3.0,97.0
+2005LionGate,2005,Lionel Gates,RB,Louisville,6 ft 0 in,222.0,4.6,36.0,23.0,121.0,7.17,4.1,BUF,RB,RB,7.0,236.0
+2005JustGeis,2005,Justin Geisinger,OT,Vanderbilt,6 ft 4 in,322.0,5.38,25.0,34.0,95.0,7.87,4.62,BUF,G,G,6.0,197.0
+2005EricGhia,2005,Eric Ghiaciuc,C,Central Michigan,6 ft 4 in,302.0,5.09,32.0,30.0,105.0,7.87,4.56,CIN,C,C,4.0,119.0
+2005JustGree,2005,Justin Green,FB,Montana,5 ft 11 in,251.0,4.84,31.0,23.0,109.0,7.24,4.21,BAL,FB,FB,5.0,158.0
+2005TyjuHagl,2005,Tyjuan Hagler,OLB,Cincinnati,6 ft 0 in,236.0,4.59,35.5,35.0,124.0,7.21,4.07,IND,LB,LB,5.0,173.0
+2005GeofHang,2005,Geoff Hangartner,C,Texas A&M,6 ft 5 in,301.0,5.21,28.5,26.0,103.0,7.62,4.52,CAR,C,C,5.0,169.0
+2005AnttHawt,2005,Anttaj Hawthorne,DT,Wisconsin,6 ft 3 in,321.0,5.23,27.0,21.0,100.0,8.0,4.69,OAK,DT,DT,6.0,175.0
+2005KelvHayd,2005,Kelvin Hayden,CB,Illinois,5 ft 10 in,197.0,4.45,34.0,17.0,111.0,6.87,3.9,IND,DB,DB,2.0,60.0
+2005JovaHaye,2005,Jovan Haye,DE,Vanderbilt,6 ft 2 in,284.0,4.74,34.0,33.0,110.0,7.38,4.35,CAR,DE,DE,6.0,189.0
+2005MadiHedg,2005,Madison Hedgecock,FB,North Carolina,6 ft 3 in,266.0,4.87,32.5,29.0,108.0,7.41,4.24,STL,FB,FB,7.0,251.0
+2005NoahHerr,2005,Noah Herron,RB,Northwestern,5 ft 11 in,224.0,4.6,31.0,17.0,108.0,6.95,3.97,PIT,RB,RB,7.0,244.0
+2005ElliHobb,2005,Ellis Hobbs,CB,Iowa State,5 ft 9 in,192.0,4.45,42.0,12.0,124.0,6.8,4.07,NWE,DB,DB,3.0,84.0
+2005DaveHoll,2005,Daven Holly,CB,Cincinnati,5 ft 10 in,192.0,4.39,39.0,15.0,115.0,7.16,4.08,SFO,DB,DB,7.0,215.0
+2005MarlJack,2005,Marlin Jackson,CB,Michigan,6 ft 1 in,198.0,4.52,36.0,23.0,125.0,6.95,3.96,IND,DB,DB,1.0,29.0
+2005TonyJack,2005,Tony Jackson,TE,Iowa,6 ft 2 in,266.0,4.75,33.0,23.0,113.0,7.5,4.48,SEA,TE,TE,6.0,196.0
+2005BranJaco,2005,Brandon Jacobs,RB,Southern Illinois,6 ft 4 in,267.0,4.56,37.0,19.0,118.0,7.53,4.46,NYG,RB,RB,4.0,110.0
+2005MarcJohn,2005,Marcus Johnson,OG,Mississippi,6 ft 6 in,321.0,5.45,27.5,21.0,104.0,7.71,4.71,MIN,G,G,2.0,49.0
+2005ChriKemo,2005,Chris Kemoeatu,OG,Utah,6 ft 3 in,344.0,5.34,29.0,26.0,98.0,7.75,4.54,PIT,G,G,6.0,204.0
+2005AdamKief,2005,Adam Kieft,OT,Central Michigan,6 ft 7 in,337.0,5.52,33.0,28.0,110.0,7.78,4.76,CIN,T,T,5.0,153.0
+2005KharLong,2005,Khari Long,DE,Baylor,6 ft 4 in,257.0,4.74,38.5,27.0,121.0,7.22,4.07,KAN,DE,DE,6.0,199.0
+2005DaniLope,2005,Daniel Loper,OT,Texas Tech,6 ft 6 in,306.0,5.3,32.0,14.0,101.0,7.74,4.68,TEN,T,T,5.0,150.0
+2005LogaMank,2005,Logan Mankins,OG,Fresno State,6 ft 4 in,307.0,5.06,31.5,21.0,95.0,7.52,4.44,NWE,G,G,1.0,32.0
+2005EvanMath,2005,Evan Mathis,OG,Alabama,6 ft 5 in,304.0,4.92,35.5,35.0,117.0,7.37,4.16,CAR,G,G,3.0,79.0
+2005PeteMcMa,2005,Pete McMahon,OT,Iowa,6 ft 8 in,329.0,5.43,27.0,26.0,92.0,7.97,4.8,OAK,T,T,6.0,214.0
+2005DaviMcMi,2005,David McMillan,DE,Kansas,6 ft 3 in,262.0,4.58,34.0,16.0,120.0,7.11,4.07,CLE,DE,DE,5.0,139.0
+2005AdriMcPh,2005,Adrian McPherson,QB,Florida State,6 ft 3 in,218.0,4.71,34.5,22.0,128.0,6.93,4.08,NOR,QB,QB,5.0,152.0
+2005RyanMoat,2005,Ryan Moats,RB,Louisiana Tech,5 ft 8 in,210.0,4.46,36.0,19.0,117.0,7.22,4.1,PHI,RB,RB,3.0,77.0
+2005MikeMont,2005,Mike Montgomery,DE,Texas A&M,6 ft 5 in,276.0,5.05,34.5,19.0,115.0,7.38,4.32,GNB,DT,DT,6.0,180.0
+2005EricMoor,2005,Eric Moore,DE,Florida State,6 ft 4 in,262.0,4.84,29.5,22.0,108.0,7.62,4.5,NYG,DE,DE,6.0,186.0
+2005VernMore,2005,Vernand Morency,RB,Oklahoma State,5 ft 10 in,212.0,4.66,33.5,19.0,108.0,7.02,4.12,HOU,RB,RB,3.0,73.0
+2005C.J.Mosl,2005,C.J. Mosley,DT,Missouri,6 ft 2 in,314.0,5.08,27.5,27.0,100.0,8.21,4.64,MIN,DT,DT,6.0,191.0
+2005DougNien,2005,Doug Nienhuis,OG,Oregon State,6 ft 6 in,307.0,5.15,29.5,22.0,99.0,7.5,4.47,SEA,T,T,7.0,254.0
+2005FranOmiy,2005,Frank Omiyale,OT,Tennessee Tech,6 ft 4 in,310.0,5.3,29.5,22.0,101.0,8.19,4.72,ATL,T,T,5.0,163.0
+2005JereParq,2005,Jeremy Parquet,OT,Southern Miss,6 ft 7 in,323.0,5.31,29.5,17.0,94.0,7.95,4.8,KAN,T,T,7.0,238.0
+2005KarlPaym,2005,Karl Paymah,CB,Washington State,6 ft 0 in,204.0,4.35,41.5,15.0,125.0,7.09,3.91,DEN,DB,DB,3.0,76.0
+2005AlviPear,2005,Alvin Pearman,RB,Virginia,5 ft 9 in,208.0,4.63,34.0,24.0,114.0,7.06,4.08,JAX,RB,RB,4.0,127.0
+2005AntoPerk,2005,Antonio Perkins,CB,Oklahoma,5 ft 11 in,190.0,4.49,40.0,10.0,126.0,7.17,4.07,CLE,DB,DB,4.0,103.0
+2005KennPett,2005,Kenneth Pettway,OLB,Grambling State,6 ft 3 in,236.0,4.69,32.5,22.0,114.0,7.29,4.31,HOU,DE,DE,7.0,227.0
+2005DaviPoll,2005,David Pollack,DE,Georgia,6 ft 2 in,265.0,4.75,37.0,25.0,120.0,6.86,3.9,CIN,LB,LB,1.0,17.0
+2005BradPopp,2005,Brady Poppinga,DE,BYU,6 ft 3 in,259.0,4.59,35.5,26.0,110.0,7.27,4.38,GNB,LB,LB,4.0,125.0
+2005SionPouh,2005,Sione Pouha,DT,Utah,6 ft 3 in,325.0,5.02,32.5,32.0,107.0,7.83,4.44,NYJ,DT,DT,3.0,88.0
+2005KerrRhod,2005,Kerry Rhodes,S,Louisville,6 ft 2 in,209.0,4.56,42.0,12.0,123.0,6.94,4.12,NYJ,DB,DB,4.0,123.0
+2005CarlRoge,2005,Carlos Rogers,CB,Auburn,6 ft 0 in,196.0,4.44,40.5,15.0,126.0,6.48,3.82,WAS,DB,DB,1.0,9.0
+2005MichRoos,2005,Michael Roos,OT,East. Washington,6 ft 7 in,320.0,5.3,29.0,19.0,97.0,7.72,4.5,TEN,T,T,2.0,41.0
+2005MattRoth,2005,Matt Roth,DE,Iowa,6 ft 4 in,278.0,4.81,32.0,26.0,112.0,7.65,4.36,MIA,DE,DE,2.0,46.0
+2005BarrRuud,2005,Barrett Ruud,ILB,Nebraska,6 ft 2 in,241.0,4.75,34.5,25.0,112.0,7.22,3.94,TAM,LB,LB,2.0,36.0
+2005Bo SScai,2005,Bo Scaife,TE,Texas,6 ft 3 in,249.0,4.75,32.5,24.0,114.0,7.21,4.12,TEN,TE,TE,6.0,179.0
+2005AdamSewa,2005,Adam Seward,ILB,UNLV,6 ft 2 in,248.0,4.6,36.5,33.0,120.0,7.16,4.11,CAR,LB,LB,5.0,149.0
+2005DarrShro,2005,Darrell Shropshire,DT,South Carolina,6 ft 2 in,301.0,4.87,34.0,25.0,116.0,7.54,4.31,ATL,DT,DT,7.0,241.0
+2005Wes Sims,2005,Wes Sims,OT,Oklahoma,6 ft 5 in,318.0,5.39,28.0,26.0,108.0,7.68,4.43,SDG,G,G,6.0,177.0
+2005AdamSnyd,2005,Adam Snyder,OG,Oregon,6 ft 5 in,316.0,5.34,28.5,21.0,93.0,7.83,4.83,SFO,T,T,3.0,94.0
+2005ChriSpen,2005,Chris Spencer,C,Mississippi,6 ft 3 in,309.0,5.21,32.0,26.0,105.0,8.06,4.59,SEA,C,C,1.0,26.0
+2005DarrSpro,2005,Darren Sproles,RB,Kansas State,5 ft 6 in,187.0,4.47,33.0,23.0,105.0,6.96,3.96,SDG,RB,RB,4.0,130.0
+2005ScotStar,2005,Scott Starks,CB,Wisconsin,5 ft 8 in,172.0,4.37,43.0,13.0,137.0,6.99,3.9,JAX,DB,DB,3.0,87.0
+2005BillSwan,2005,Bill Swancutt,DE,Oregon State,6 ft 4 in,270.0,5.0,34.0,23.0,113.0,7.35,4.24,DET,DE,DE,6.0,184.0
+2005LofaTatu,2005,Lofa Tatupu,ILB,USC,6 ft 0 in,238.0,4.83,35.0,23.0,113.0,7.31,4.16,SEA,LB,LB,2.0,45.0
+2005ClauTerr,2005,Claude Terrell,OG,New Mexico,6 ft 2 in,343.0,5.42,24.5,27.0,89.0,8.17,4.75,STL,G,G,4.0,134.0
+2005MarvUnde,2005,Marviel Underwood,S,San Diego State,5 ft 10 in,205.0,4.45,38.0,19.0,118.0,7.12,4.21,GNB,DB,DB,4.0,115.0
+2005JimmVerd,2005,Jimmy Verdon,DE,Arizona State,6 ft 3 in,280.0,5.02,29.5,18.0,105.0,7.89,4.53,NOR,DT,DT,7.0,232.0
+2005RianWall,2005,Rian Wallace,OLB,Temple,6 ft 2 in,241.0,4.73,35.5,10.0,112.0,7.45,3.94,PIT,LB,LB,5.0,166.0
+2005DeMaWare,2005,DeMarcus Ware,OLB,Troy,6 ft 4 in,251.0,4.56,38.5,27.0,122.0,6.83,4.07,DAL,LB,LB,1.0,11.0
+2005JonaWels,2005,Jonathan Welsh,OLB,Wisconsin,6 ft 3 in,244.0,4.61,40.5,19.0,130.0,7.83,4.22,IND,DE,DE,5.0,148.0
+2005CadiWill,2005,Cadillac Williams,RB,Auburn,5 ft 11 in,217.0,4.43,35.5,19.0,118.0,6.94,4.15,TAM,RB,RB,1.0,5.0
+2005DarrWill,2005,Darrent Williams,CB,Oklahoma State,5 ft 9 in,176.0,4.3,39.0,16.0,124.0,6.97,3.96,DEN,DB,DB,2.0,56.0
+2005ScotYoun,2005,Scott Young,OG,BYU,6 ft 4 in,312.0,5.08,35.0,43.0,115.0,7.46,4.37,PHI,G,G,5.0,172.0
+2006TituAdam,2006,Titus Adams,DT,Nebraska,6 ft 3 in,306.0,5.07,30.5,15.0,103.0,7.49,4.54,NYJ,DT,DT,7.0,220.0
+2006JoseAdda,2006,Joseph Addai,RB,LSU,5 ft 11 in,214.0,4.4,38.5,18.0,125.0,7.09,4.47,IND,RB,RB,1.0,30.0
+2006VictAdey,2006,Victor Adeyanju,DE,Indiana,6 ft 4 in,274.0,4.86,32.0,22.0,112.0,7.37,4.41,STL,DE,DE,4.0,113.0
+2006JasoAlle,2006,Jason Allen,S,Tennessee,6 ft 1 in,209.0,4.39,39.5,17.0,131.0,6.75,3.81,MIA,DB,DB,1.0,16.0
+2006Jon Alst,2006,Jon Alston,OLB,Stanford,6 ft 1 in,223.0,4.5,40.0,30.0,132.0,6.9,4.13,STL,LB,LB,3.0,77.0
+2006MarkAnde,2006,Mark Anderson,DE,Alabama,6 ft 4 in,254.0,4.62,42.0,20.0,127.0,6.95,4.22,CHI,DE,DE,5.0,159.0
+2006WillAndr,2006,Willie Andrews,S,Baylor,5 ft 9 in,193.0,4.43,36.5,7.0,124.0,6.99,4.27,NWE,DB,DB,7.0,229.0
+2006CharBenn,2006,Charles Bennett,DE,Clemson,6 ft 4 in,258.0,4.7,33.5,19.0,115.0,7.48,4.52,TAM,LB,LB,7.0,241.0
+2006AntoBeth,2006,Antoine Bethea,S,Howard,5 ft 11 in,203.0,4.39,36.5,19.0,127.0,6.99,4.11,IND,DB,DB,6.0,207.0
+2006DarnBing,2006,Darnell Bing,S,USC,6 ft 2 in,227.0,4.53,34.0,17.0,120.0,7.25,4.07,OAK,DB,DB,4.0,101.0
+2006KeviBoot,2006,Kevin Boothe,OT,Cornell,6 ft 5 in,316.0,5.41,31.5,23.0,98.0,8.36,5.07,OAK,T,T,6.0,176.0
+2006DaniBull,2006,Daniel Bullocks,S,Nebraska,6 ft 0 in,212.0,4.38,38.0,18.0,124.0,6.91,4.16,DET,DB,DB,2.0,40.0
+2006RashButl,2006,Rashad Butler,OT,Miami (FL),6 ft 5 in,293.0,5.3,28.0,16.0,106.0,7.9,4.55,CAR,T,T,3.0,89.0
+2006BriaCalh,2006,Brian Calhoun,RB,Wisconsin,5 ft 9 in,201.0,4.57,31.5,18.0,124.0,7.05,4.2,DET,RB,RB,3.0,74.0
+2006ChriChes,2006,Chris Chester,C,Oklahoma,6 ft 3 in,303.0,4.83,31.5,27.0,106.0,7.31,4.5,BAL,G,G,2.0,56.0
+2006JeroClar,2006,Jeromey Clary,OT,Kansas State,6 ft 6 in,309.0,5.28,26.0,24.0,102.0,7.8,4.63,SDG,T,T,6.0,187.0
+2006BarrCofi,2006,Barry Cofield,DT,Northwestern,6 ft 4 in,304.0,4.95,34.0,35.0,105.0,7.43,4.35,NYG,DT,DT,4.0,124.0
+2006DaryColl,2006,Daryn Colledge,OT,Boise State,6 ft 4 in,299.0,5.05,32.5,21.0,110.0,7.43,4.58,GNB,T,T,2.0,47.0
+2006MarqCols,2006,Marques Colston,WR,Hofstra,6 ft 5 in,224.0,4.5,37.0,16.0,123.0,6.94,4.43,NOR,WR,WR,7.0,252.0
+2006RyanCook,2006,Ryan Cook,OT,New Mexico,6 ft 7 in,328.0,5.47,26.5,28.0,97.0,7.93,4.66,MIN,C,C,2.0,51.0
+2006OwenDani,2006,Owen Daniels,TE,Wisconsin,6 ft 3 in,253.0,4.65,34.5,23.0,114.0,6.87,4.1,HOU,TE,TE,4.0,98.0
+2006P.J.Dani,2006,P.J. Daniels,RB,Georgia Tech,5 ft 10 in,214.0,4.64,33.0,21.0,116.0,7.13,4.4,BAL,RB,RB,4.0,132.0
+2006VernDavi,2006,Vernon Davis,TE,Maryland,6 ft 3 in,254.0,4.38,42.0,33.0,128.0,7.0,4.17,SFO,TE,TE,1.0,6.0
+2006CharDavi,2006,Charles Davis,TE,Purdue,6 ft 5 in,263.0,4.87,31.5,27.0,108.0,7.53,4.37,PIT,TE,TE,5.0,167.0
+2006Tim Dobb,2006,Tim Dobbins,ILB,Iowa State,6 ft 1 in,246.0,4.59,35.5,23.0,110.0,7.25,4.39,SDG,LB,LB,5.0,151.0
+2006ReedDoug,2006,Reed Doughty,S,Northern Colorado,6 ft 0 in,209.0,4.65,37.0,15.0,121.0,6.66,4.17,WAS,DB,DB,6.0,173.0
+2006DustDvor,2006,Dusty Dvoracek,DT,Oklahoma,6 ft 3 in,306.0,5.01,34.0,31.0,110.0,7.62,4.35,CHI,DT,DT,3.0,73.0
+2006Ray Edwa,2006,Ray Edwards,DE,Purdue,6 ft 5 in,273.0,4.81,39.0,30.0,114.0,7.71,4.57,MIN,DE,DE,4.0,127.0
+2006KeitElli,2006,Keith Ellison,OLB,Oregon State,6 ft 1 in,235.0,4.76,32.5,24.0,115.0,7.22,4.16,BUF,LB,LB,6.0,178.0
+2006GregEsli,2006,Greg Eslinger,C,Minnesota,6 ft 3 in,292.0,5.13,30.0,28.0,101.0,7.59,4.68,DEN,C,C,6.0,198.0
+2006JahrEvan,2006,Jahri Evans,OT,Texas A&M,6 ft 4 in,316.0,5.25,27.0,20.0,95.0,7.97,4.8,NOR,T,T,4.0,108.0
+2006AnthFasa,2006,Anthony Fasano,TE,Notre Dame,6 ft 4 in,259.0,4.72,33.5,19.0,112.0,6.94,4.34,DAL,TE,TE,2.0,53.0
+2006OmarGait,2006,Omar Gaither,OLB,Tennessee,6 ft 1 in,234.0,4.78,37.0,23.0,116.0,7.31,4.28,PHI,LB,LB,5.0,168.0
+2006ChriGoco,2006,Chris Gocong,DE,Cal Poly,6 ft 2 in,263.0,4.7,38.5,28.0,123.0,7.05,4.08,PHI,DE,DE,3.0,71.0
+2006KedrGols,2006,Kedric Golston,DT,Georgia,6 ft 4 in,300.0,4.88,33.0,31.0,111.0,7.6,4.45,WAS,DT,DT,6.0,196.0
+2006ChadGree,2006,Chad Greenway,OLB,Iowa,6 ft 2 in,242.0,4.76,33.5,16.0,117.0,7.0,4.22,MIN,LB,LB,1.0,17.0
+2006CedrGrif,2006,Cedric Griffin,S,Texas,6 ft 0 in,199.0,4.51,35.5,17.0,125.0,6.84,4.1,MIN,DB,DB,2.0,48.0
+2006ParyHara,2006,Parys Haralson,DE,Tennessee,6 ft 1 in,253.0,4.8,32.0,24.0,115.0,7.37,4.26,SFO,DE,DE,5.0,140.0
+2006JeroHarr,2006,Jerome Harrison,RB,Washington State,5 ft 9 in,201.0,4.47,34.5,19.0,124.0,6.77,4.07,CLE,RB,RB,5.0,145.0
+2006JasoHatc,2006,Jason Hatcher,DE,Grambling State,6 ft 6 in,284.0,4.82,35.5,28.0,113.0,7.67,4.49,DAL,DE,DE,3.0,92.0
+2006A.J.Hawk,2006,A.J. Hawk,OLB,Ohio State,6 ft 1 in,248.0,4.59,40.0,24.0,115.0,6.82,3.96,GNB,LB,LB,1.0,5.0
+2006ThomHowa,2006,Thomas Howard,OLB,Texas-El Paso,6 ft 3 in,239.0,4.42,39.0,21.0,124.0,6.96,4.28,OAK,LB,LB,2.0,38.0
+2006CedrHume,2006,Cedric Humes,RB,Virginia Tech,6 ft 1 in,227.0,4.62,30.5,18.0,106.0,7.07,4.22,PIT,RB,RB,7.0,240.0
+2006D'QwJack,2006,D'Qwell Jackson,ILB,Maryland,6 ft 0 in,230.0,4.73,37.0,19.0,116.0,7.05,4.36,CLE,LB,LB,2.0,34.0
+2006TarvJack,2006,Tarvaris Jackson,QB,Arkansas,6 ft 2 in,226.0,4.69,31.5,22.0,107.0,7.4,4.38,MIN,QB,QB,2.0,64.0
+2006Max Jean,2006,Max Jean-Gilles,OG,Georgia,6 ft 4 in,355.0,5.48,24.5,27.0,95.0,8.56,5.08,PHI,G,G,4.0,99.0
+2006JuliJenk,2006,Julian Jenkins,DE,Stanford,6 ft 4 in,277.0,5.03,34.5,25.0,110.0,7.11,4.23,TAM,DE,DE,5.0,156.0
+2006BranJohn,2006,Brandon Johnson,OLB,Louisville,6 ft 5 in,228.0,4.44,37.0,11.0,118.0,7.17,4.34,ARI,LB,LB,5.0,142.0
+2006MaurJone,2006,Maurice Jones-Drew,RB,UCLA,5 ft 7 in,207.0,4.39,36.0,18.0,116.0,7.08,4.38,JAX,RB,RB,2.0,60.0
+2006JohnJose,2006,Johnathan Joseph,CB,South Carolina,5 ft 11 in,193.0,4.31,37.0,15.0,123.0,6.92,4.23,CIN,DB,DB,1.0,24.0
+2006FredKeia,2006,Freddy Keiaho,ILB,San Diego State,5 ft 11 in,224.0,4.68,36.0,15.0,113.0,7.01,4.12,IND,LB,LB,3.0,94.0
+2006JeffKing,2006,Jeff King,TE,Virginia Tech,6 ft 5 in,245.0,4.83,32.5,21.0,109.0,6.99,4.09,CAR,TE,TE,5.0,155.0
+2006MathKiwa,2006,Mathias Kiwanuka,DE,Boston Col.,6 ft 6 in,266.0,4.7,32.0,17.0,120.0,7.27,4.13,NYG,DE,DE,1.0,32.0
+2006Joe Klop,2006,Joe Klopfenstein,TE,Colorado,6 ft 6 in,255.0,4.63,36.0,27.0,112.0,7.39,4.21,STL,TE,TE,2.0,46.0
+2006ChriKupe,2006,Chris Kuper,OG,North Dakota,6 ft 4 in,301.0,5.1,30.0,24.0,109.0,7.59,4.6,DEN,G,G,5.0,161.0
+2006RyanLaCa,2006,Ryan LaCasse,DE,Syracuse,6 ft 2 in,257.0,4.62,34.0,34.0,113.0,7.25,4.3,BAL,LB,LB,7.0,219.0
+2006MannLaws,2006,Manny Lawson,OLB,North Carolina State,6 ft 5 in,241.0,4.43,39.5,23.0,124.0,6.9,4.18,SFO,DE,DE,1.0,22.0
+2006JonaLewi,2006,Jonathan Lewis,DT,Virginia Tech,6 ft 1 in,309.0,4.97,33.5,24.0,111.0,7.4,4.4,ARI,DT,DT,6.0,177.0
+2006MarcLewi,2006,Marcedes Lewis,TE,UCLA,6 ft 6 in,261.0,4.8,37.0,23.0,118.0,7.24,4.82,JAX,TE,TE,1.0,28.0
+2006CalvLowr,2006,Calvin Lowry,S,Penn State,5 ft 11 in,200.0,4.54,36.0,15.0,120.0,7.16,4.2,TEN,DB,DB,4.0,102.0
+2006WaliLund,2006,Wali Lundy,RB,Virginia,5 ft 11 in,214.0,4.48,35.0,18.0,111.0,6.99,4.36,HOU,RB,RB,6.0,170.0
+2006DeucLutu,2006,Deuce Lutui,OG,USC,6 ft 4 in,334.0,5.35,28.0,26.0,97.0,8.04,4.76,ARI,G,G,2.0,41.0
+2006NickMang,2006,Nick Mangold,C,Ohio State,6 ft 4 in,300.0,5.05,27.5,24.0,104.0,7.47,4.36,NYJ,C,C,1.0,29.0
+2006DaniMann,2006,Danieal Manning,CB,Abilene Christian,5 ft 11 in,202.0,4.48,39.0,17.0,123.0,7.23,4.07,CHI,DB,DB,2.0,42.0
+2006RichMars,2006,Richard Marshall,CB,Fresno State,5 ft 11 in,189.0,4.42,37.0,12.0,129.0,6.65,4.16,CAR,DB,DB,2.0,58.0
+2006DerrMart,2006,Derrick Martin,CB,Wyoming,5 ft 10 in,202.0,4.5,40.0,17.0,127.0,6.72,3.95,BAL,DB,DB,6.0,208.0
+2006FredMatu,2006,Fred Matua,OG,USC,6 ft 2 in,306.0,5.0,24.5,28.0,93.0,7.87,4.76,DET,G,G,7.0,217.0
+2006JohnMcCa,2006,John McCargo,DT,North Carolina State,6 ft 1 in,302.0,5.15,30.5,25.0,110.0,7.79,4.48,BUF,DT,DT,1.0,26.0
+2006StanMcCl,2006,Stanley McClover,DE,Auburn,6 ft 2 in,262.0,4.7,39.0,19.0,114.0,7.87,4.5,CAR,DE,DE,7.0,237.0
+2006PaulMcQu,2006,Paul McQuistan,OT,Weber State,6 ft 6 in,312.0,5.07,29.5,28.0,110.0,7.72,4.62,OAK,T,T,3.0,69.0
+2006GarrMill,2006,Garrett Mills,FB,Tulsa,6 ft 1 in,241.0,4.64,35.5,23.0,111.0,6.81,4.05,NWE,FB,FB,4.0,106.0
+2006JereMinc,2006,Jeremy Mincey,DE,Florida,6 ft 3 in,259.0,4.76,33.5,27.0,116.0,6.99,4.25,NWE,DE,DE,6.0,191.0
+2006DeMaMint,2006,DeMario Minter,CB,Georgia,5 ft 11 in,190.0,4.52,38.5,10.0,131.0,6.87,4.1,CLE,DB,DB,5.0,152.0
+2006WillMont,2006,Will Montgomery,C,Virginia Tech,6 ft 3 in,312.0,5.12,29.5,35.0,104.0,7.4,4.43,CAR,G,G,7.0,234.0
+2006TernNand,2006,Terna Nande,OLB,Miami (OH),6 ft 0 in,232.0,4.51,39.0,41.0,124.0,6.97,4.11,TEN,LB,LB,5.0,137.0
+2006HaloNgat,2006,Haloti Ngata,DT,Oregon,6 ft 4 in,338.0,5.13,31.5,37.0,110.0,7.95,4.65,BAL,DT,DT,1.0,12.0
+2006Rob Nink,2006,Rob Ninkovich,DE,Purdue,6 ft 3 in,260.0,4.91,34.5,23.0,116.0,6.96,4.18,NOR,DE,DE,5.0,135.0
+2006JeriNorw,2006,Jerious Norwood,RB,Mississippi State,6 ft 0 in,210.0,4.4,36.5,15.0,122.0,6.81,4.25,ATL,RB,RB,3.0,79.0
+2006QuinOjin,2006,Quinn Ojinnaka,OT,Syracuse,6 ft 5 in,309.0,5.44,28.5,21.0,102.0,8.45,5.11,ATL,G,G,5.0,139.0
+2006BabaOshi,2006,Babatunde Oshinowo,DT,Stanford,6 ft 2 in,304.0,5.27,32.0,33.0,105.0,7.87,4.54,CLE,DT,DT,6.0,181.0
+2006DomaPeko,2006,Domata Peko,DT,Michigan State,6 ft 3 in,307.0,5.27,28.5,25.0,103.0,7.69,4.49,CIN,DT,DT,4.0,123.0
+2006CharPepr,2006,Charlie Peprah,S,Alabama,5 ft 11 in,206.0,4.66,37.5,15.0,119.0,6.81,4.09,NYG,DB,DB,5.0,158.0
+2006MarvPhil,2006,Marvin Philip,C,California,6 ft 1 in,307.0,5.24,27.0,27.0,96.0,7.85,4.69,PIT,C,C,6.0,201.0
+2006JasoPoci,2006,Jason Pociask,TE,Wisconsin,6 ft 3 in,266.0,4.84,32.5,23.0,115.0,7.31,4.3,NYJ,TE,TE,5.0,150.0
+2006LeonPope,2006,Leonard Pope,TE,Georgia,6 ft 8 in,258.0,4.62,37.5,22.0,118.0,7.47,4.67,ARI,TE,TE,3.0,72.0
+2006DeMeRyan,2006,DeMeco Ryans,OLB,Alabama,6 ft 1 in,236.0,4.65,39.0,23.0,129.0,7.19,4.17,HOU,LB,LB,2.0,33.0
+2006NateSall,2006,Nate Salley,S,Ohio State,6 ft 2 in,216.0,4.63,40.0,14.0,123.0,6.79,4.15,CAR,DB,DB,4.0,121.0
+2006TonySche,2006,Tony Scheffler,TE,West. Michigan,6 ft 5 in,254.0,4.54,33.5,17.0,115.0,6.81,4.01,DEN,TE,TE,2.0,61.0
+2006AnthSchl,2006,Anthony Schlegel,ILB,Ohio State,6 ft 0 in,250.0,4.88,32.0,21.0,111.0,7.41,4.38,NYJ,LB,LB,3.0,76.0
+2006MarkSett,2006,Mark Setterstrom,OG,Minnesota,6 ft 4 in,314.0,5.38,26.5,19.0,100.0,7.63,4.53,STL,G,G,7.0,242.0
+2006KeviSimo,2006,Kevin Simon,OLB,Tennessee,5 ft 10 in,235.0,4.89,28.0,26.0,103.0,7.69,4.32,WAS,LB,LB,7.0,250.0
+2006Ko SSimp,2006,Ko Simpson,S,South Carolina,6 ft 1 in,209.0,4.45,40.5,11.0,122.0,7.09,4.17,BUF,DB,DB,4.0,105.0
+2006ErniSims,2006,Ernie Sims,OLB,Florida State,5 ft 11 in,231.0,4.5,41.0,25.0,125.0,7.31,4.22,DET,LB,LB,1.0,9.0
+2006AnthSmit,2006,Anthony Smith,S,Syracuse,6 ft 0 in,194.0,4.71,41.0,18.0,125.0,6.75,4.35,PIT,DB,DB,3.0,83.0
+2006EricSmit,2006,Eric Smith,S,Michigan State,6 ft 1 in,209.0,4.63,40.0,21.0,127.0,6.89,4.1,NYJ,DB,DB,3.0,97.0
+2006IsaaSowe,2006,Isaac Sowells,OG,Indiana,6 ft 3 in,324.0,5.15,28.5,20.0,101.0,8.13,4.98,CLE,T,T,4.0,112.0
+2006JasoSpit,2006,Jason Spitz,OG,Louisville,6 ft 3 in,313.0,5.4,28.5,25.0,102.0,7.82,4.55,GNB,G,G,3.0,75.0
+2006Dan Stev,2006,Dan Stevenson,OG,Notre Dame,6 ft 5 in,300.0,5.36,24.5,24.0,100.0,7.58,4.59,NWE,G,G,6.0,205.0
+2006ZachStri,2006,Zach Strief,OT,Northwestern,6 ft 8 in,330.0,5.38,21.0,19.0,94.0,8.01,4.83,NOR,G,G,7.0,210.0
+2006QuinSypn,2006,Quinn Sypniewski,TE,Colorado,6 ft 6 in,268.0,4.77,32.5,20.0,114.0,7.09,4.52,BAL,TE,TE,5.0,166.0
+2006DarrTapp,2006,Darryl Tapp,DE,Virginia Tech,6 ft 2 in,252.0,4.83,33.0,27.0,109.0,7.31,4.48,SEA,DE,DE,2.0,63.0
+2006DaviThom,2006,David Thomas,TE,Texas,6 ft 3 in,252.0,4.67,37.5,19.0,113.0,7.05,4.34,NWE,TE,TE,3.0,86.0
+2006MichToud,2006,Michael Toudouze,OT,TCU,6 ft 6 in,303.0,5.12,26.5,23.0,100.0,7.45,4.7,IND,G,G,5.0,162.0
+2006JereTrue,2006,Jeremy Trueblood,OT,Boston Col.,6 ft 8 in,316.0,5.25,27.5,20.0,96.0,7.82,4.68,TAM,T,T,2.0,59.0
+2006StepTull,2006,Stephen Tulloch,ILB,North Carolina State,5 ft 11 in,241.0,4.84,33.5,27.0,113.0,7.19,4.15,TEN,LB,LB,4.0,116.0
+2006LawrVick,2006,Lawrence Vickers,FB,Colorado,6 ft 0 in,245.0,4.82,30.5,21.0,104.0,7.74,4.63,CLE,FB,FB,6.0,180.0
+2006LeonWash,2006,Leon Washington,RB,Florida State,5 ft 8 in,201.0,4.42,32.5,17.0,105.0,6.94,4.37,NYJ,RB,RB,4.0,117.0
+2006ToddWatk,2006,Todd Watkins,WR,BYU,6 ft 2 in,202.0,4.4,36.0,15.0,118.0,7.13,4.24,ARI,WR,WR,7.0,218.0
+2006GabeWats,2006,Gabe Watson,DT,Michigan,6 ft 3 in,339.0,5.27,25.0,36.0,96.0,8.28,4.8,ARI,DT,DT,4.0,107.0
+2006Guy Whim,2006,Guy Whimper,OT,East Carolina,6 ft 5 in,304.0,4.96,29.0,26.0,102.0,7.38,4.59,NYG,DE,DE,4.0,129.0
+2006E.J.Whit,2006,E.J. Whitley,OT,UNLV,6 ft 5 in,309.0,5.35,25.0,16.0,101.0,7.53,4.79,DAL,C,C,7.0,224.0
+2006AndrWhit,2006,Andrew Whitworth,OT,LSU,6 ft 7 in,334.0,5.16,30.5,28.0,112.0,8.23,4.83,CIN,T,T,2.0,55.0
+2006GerrWilk,2006,Gerris Wilkinson,ILB,Georgia Tech,6 ft 3 in,233.0,4.66,39.0,19.0,122.0,7.21,4.17,NYG,LB,LB,3.0,96.0
+2006T.J.Will,2006,T.J. Williams,TE,North Carolina State,6 ft 2 in,269.0,4.72,34.0,25.0,111.0,7.49,4.54,TAM,TE,TE,6.0,202.0
+2006MariWill,2006,Mario Williams,DE,North Carolina State,6 ft 7 in,295.0,4.7,40.5,35.0,120.0,7.19,4.36,HOU,DE,DE,1.0,1.0
+2006KameWimb,2006,Kamerion Wimbley,DE,Florida State,6 ft 4 in,248.0,4.61,38.5,24.0,129.0,6.97,4.48,CLE,DE,DE,1.0,13.0
+2006RodrWrig,2006,Rodrique Wright,DT,Texas,6 ft 5 in,300.0,5.08,32.0,31.0,110.0,7.84,4.51,MIA,DT,DT,7.0,226.0
+2006JameWych,2006,James Wyche,DE,Syracuse,6 ft 5 in,262.0,4.63,33.0,27.0,116.0,7.75,4.51,JAX,DE,DE,7.0,213.0
+2007GeraAlex,2007,Gerald Alexander,S,Boise State,6 ft 0 in,210.0,4.51,41.0,15.0,124.0,7.24,4.21,DET,DB,DB,2.0,61.0
+2007RufuAlex,2007,Rufus Alexander,OLB,Oklahoma,6 ft 1 in,228.0,4.79,35.0,25.0,117.0,7.06,4.3,MIN,LB,LB,6.0,176.0
+2007MichAlla,2007,Michael Allan,TE,Whitworth,6 ft 6 in,255.0,4.71,36.0,19.0,123.0,7.31,4.52,KAN,TE,TE,7.0,231.0
+2007AndyAlle,2007,Andy Alleman,OG,Akron,6 ft 4 in,305.0,5.07,30.0,27.0,106.0,7.8,4.65,NOR,G,G,3.0,88.0
+2007DeonAnde,2007,Deon Anderson,FB,Connecticut,5 ft 11 in,243.0,4.73,33.0,23.0,114.0,7.27,4.43,DAL,FB,FB,6.0,195.0
+2007AlleBarb,2007,Allen Barbre,OT,Missouri Southern,6 ft 4 in,300.0,4.84,32.0,28.0,105.0,7.4,4.63,GNB,T,T,4.0,119.0
+2007AntwBarn,2007,Antwan Barnes,OLB,Florida International,6 ft 1 in,240.0,4.43,35.0,31.0,122.0,7.29,4.32,BAL,LB,LB,4.0,134.0
+2007Dan Bazu,2007,Dan Bazuin,DE,Central Michigan,6 ft 3 in,266.0,4.77,30.0,25.0,109.0,7.09,4.75,CHI,DE,DE,2.0,62.0
+2007JoshBeek,2007,Josh Beekman,OG,Boston Col.,6 ft 2 in,313.0,5.36,25.5,24.0,93.0,8.24,4.81,CHI,C,C,4.0,130.0
+2007FredBenn,2007,Fred Bennett,CB,South Carolina,6 ft 1 in,196.0,4.46,38.5,17.0,125.0,6.67,4.3,HOU,DB,DB,4.0,123.0
+2007QuinBlac,2007,Quincy Black,OLB,New Mexico,6 ft 2 in,240.0,4.42,41.5,24.0,124.0,6.86,4.34,TAM,LB,LB,3.0,68.0
+2007JustBlal,2007,Justin Blalock,OG,Texas,6 ft 3 in,320.0,5.1,28.5,40.0,101.0,7.75,4.72,ATL,G,G,2.0,39.0
+2007StewBrad,2007,Stewart Bradley,OLB,Nebraska,6 ft 4 in,254.0,4.72,35.5,28.0,112.0,7.29,4.17,PHI,LB,LB,3.0,87.0
+2007LeviBrow,2007,Levi Brown,OT,Penn State,6 ft 5 in,323.0,5.4,25.5,31.0,97.0,7.87,4.89,ARI,T,T,1.0,5.0
+2007TareBrow,2007,Tarell Brown,CB,Texas,5 ft 11 in,190.0,4.45,33.5,17.0,111.0,7.0,4.37,SFO,DB,DB,5.0,147.0
+2007PresBurg,2007,Prescott Burgess,OLB,Michigan,6 ft 3 in,240.0,4.82,32.5,19.0,106.0,7.01,4.31,BAL,LB,LB,6.0,207.0
+2007AdamCarr,2007,Adam Carriker,DE,Nebraska,6 ft 6 in,296.0,4.9,33.5,33.0,110.0,7.06,4.18,STL,DE,DE,1.0,13.0
+2007ScotChan,2007,Scott Chandler,TE,Iowa,6 ft 7 in,270.0,4.78,30.0,16.0,111.0,7.26,4.32,SDG,TE,TE,4.0,129.0
+2007MichCoe,2007,Michael Coe,CB,Arkansas,6 ft 1 in,190.0,4.53,35.0,17.0,122.0,6.78,4.31,IND,DB,DB,5.0,173.0
+2007Tim Crow,2007,Tim Crowder,DE,Texas,6 ft 4 in,272.0,4.69,30.5,32.0,111.0,7.28,4.32,DEN,DE,DE,2.0,56.0
+2007KennDarb,2007,Kenneth Darby,RB,Alabama,5 ft 10 in,211.0,4.75,30.0,19.0,108.0,7.25,4.53,TAM,RB,RB,7.0,246.0
+2007DougDati,2007,Doug Datish,C,Ohio State,6 ft 4 in,302.0,5.13,26.0,31.0,102.0,7.51,4.65,ATL,C,C,6.0,198.0
+2007BustDavi,2007,Buster Davis,ILB,Florida State,5 ft 9 in,239.0,4.64,31.0,24.0,104.0,7.28,4.37,ARI,LB,LB,3.0,69.0
+2007ChriDenm,2007,Chris Denman,OT,Fresno State,6 ft 6 in,315.0,5.62,27.5,21.0,97.0,8.1,4.92,TAM,T,T,7.0,214.0
+2007Zak DeOs,2007,Zak DeOssie,ILB,Brown,6 ft 5 in,250.0,4.58,34.5,26.0,122.0,6.89,4.22,NYG,LB,LB,4.0,116.0
+2007JustDura,2007,Justin Durant,ILB,Kansas State,6 ft 1 in,230.0,4.51,36.0,25.0,121.0,6.77,4.09,JAX,LB,LB,2.0,48.0
+2007EricFram,2007,Eric Frampton,S,Washington State,5 ft 11 in,204.0,4.61,34.5,10.0,122.0,6.84,4.17,OAK,DB,DB,5.0,165.0
+2007DougFree,2007,Doug Free,OT,Northern Illinois,6 ft 6 in,324.0,5.19,30.0,22.0,111.0,7.38,4.53,DAL,T,T,4.0,122.0
+2007BranFrye,2007,Brandon Frye,OT,Virginia Tech,6 ft 4 in,301.0,5.08,32.5,34.0,103.0,7.5,4.4,HOU,T,T,5.0,163.0
+2007C.J.Gadd,2007,C.J. Gaddis,S,Clemson,5 ft 11 in,203.0,4.45,36.5,20.0,121.0,7.28,4.3,PHI,DB,DB,5.0,159.0
+2007JoshGatt,2007,Josh Gattis,S,Wake Forest,6 ft 1 in,206.0,4.51,34.5,22.0,121.0,6.72,4.27,JAX,DB,DB,5.0,150.0
+2007DashGold,2007,Dashon Goldson,S,Washington,6 ft 2 in,205.0,4.6,34.5,12.0,115.0,7.37,4.46,SFO,DB,DB,4.0,126.0
+2007MichGrif,2007,Michael Griffin,S,Texas,6 ft 0 in,202.0,4.45,36.0,16.0,120.0,6.6,4.1,TEN,DB,DB,1.0,19.0
+2007Ben Grub,2007,Ben Grubbs,OG,Auburn,6 ft 3 in,311.0,5.18,26.5,29.0,103.0,7.99,4.72,BAL,G,G,1.0,29.0
+2007LeonHall,2007,Leon Hall,CB,Michigan,5 ft 11 in,193.0,4.39,37.5,15.0,125.0,6.5,4.07,CIN,DB,DB,1.0,18.0
+2007JustHarr,2007,Justin Harrell,DT,Tennessee,6 ft 4 in,300.0,5.04,30.5,24.0,108.0,7.63,4.79,GNB,DT,DT,1.0,16.0
+2007DaviHarr,2007,David Harris,ILB,Michigan,6 ft 2 in,243.0,4.59,33.0,23.0,107.0,7.25,4.29,NYJ,LB,LB,2.0,47.0
+2007LeroHarr,2007,Leroy Harris,C,North Carolina State,6 ft 2 in,302.0,5.35,24.5,29.0,96.0,8.0,4.8,TEN,C,C,4.0,115.0
+2007RyanHarr,2007,Ryan Harris,OT,Notre Dame,6 ft 4 in,305.0,5.09,25.5,22.0,100.0,7.78,4.52,DEN,T,T,3.0,70.0
+2007MariHend,2007,Mario Henderson,OT,Florida State,6 ft 6 in,302.0,5.11,28.5,20.0,109.0,7.6,4.87,OAK,DT,DT,3.0,91.0
+2007ChriHenr,2007,Chris Henry,RB,Arizona,5 ft 11 in,230.0,4.4,36.0,26.0,127.0,6.96,4.14,TEN,RB,RB,2.0,50.0
+2007CoreHill,2007,Corey Hilliard,OT,Oklahoma State,6 ft 5 in,308.0,5.29,27.0,28.0,106.0,7.45,4.65,NWE,T,T,6.0,209.0
+2007JonaHoll,2007,Jonathan Holland,WR,Louisiana Tech,6 ft 0 in,191.0,4.45,35.5,15.0,120.0,7.12,4.4,OAK,WR,WR,7.0,254.0
+2007ChriHous,2007,Chris Houston,CB,Arkansas,5 ft 10 in,185.0,4.32,36.0,27.0,122.0,6.94,4.12,ATL,DB,DB,2.0,41.0
+2007DantHugh,2007,Dante Hughes,CB,California,5 ft 10 in,190.0,4.56,28.5,16.0,114.0,7.28,4.43,IND,DB,DB,3.0,95.0
+2007NateIlao,2007,Nate Ilaoa,RB,Hawaii,5 ft 9 in,245.0,4.77,30.0,25.0,103.0,7.1,4.42,PHI,RB,RB,7.0,236.0
+2007DaviIron,2007,David Irons,CB,Auburn,5 ft 10 in,190.0,4.44,29.5,11.0,111.0,7.18,4.3,ATL,DB,DB,6.0,194.0
+2007BranJack,2007,Brandon Jackson,RB,Nebraska,5 ft 10 in,210.0,4.54,37.0,21.0,122.0,7.0,4.14,GNB,RB,RB,2.0,63.0
+2007TanaJack,2007,Tanard Jackson,S,Syracuse,6 ft 0 in,200.0,4.52,32.5,12.0,121.0,6.89,4.28,TAM,DB,DB,4.0,106.0
+2007AntoJohn,2007,Antonio Johnson,DT,Mississippi State,6 ft 3 in,310.0,5.15,29.0,28.0,108.0,7.47,4.49,TEN,DT,DT,5.0,152.0
+2007MichJohn,2007,Michael Johnson,S,Arizona,6 ft 3 in,205.0,4.62,33.0,15.0,114.0,7.04,4.32,NYG,DB,DB,7.0,224.0
+2007JameJone,2007,James Jones,WR,San Jose State,6 ft 1 in,207.0,4.54,34.0,22.0,119.0,7.06,4.2,GNB,WR,WR,3.0,78.0
+2007RyanKali,2007,Ryan Kalil,C,USC,6 ft 3 in,299.0,4.96,26.0,34.0,104.0,7.5,4.34,CAR,C,C,2.0,59.0
+2007AdamKoet,2007,Adam Koets,OT,Oregon State,6 ft 5 in,298.0,5.08,32.0,20.0,106.0,7.44,4.47,NYG,T,T,6.0,189.0
+2007BriaLeon,2007,Brian Leonard,RB,Rutgers,6 ft 1 in,226.0,4.52,34.5,28.0,122.0,6.88,4.22,STL,RB,RB,2.0,52.0
+2007MarsLync,2007,Marshawn Lynch,RB,California,5 ft 11 in,215.0,4.46,35.5,20.0,125.0,7.05,4.55,BUF,RB,RB,1.0,12.0
+2007RyanMcBe,2007,Ryan McBean,DT,Oklahoma State,6 ft 4 in,286.0,4.98,28.0,27.0,108.0,7.79,4.46,PIT,DT,DT,4.0,132.0
+2007TrumMcBr,2007,Trumaine McBride,CB,Mississippi,5 ft 9 in,185.0,4.57,34.5,14.0,122.0,6.96,4.32,CHI,DB,DB,7.0,221.0
+2007TurkMcBr,2007,Turk McBride,DT,Tennessee,6 ft 2 in,277.0,4.81,31.0,27.0,108.0,7.1,4.12,KAN,DT,DT,2.0,54.0
+2007MarcMcCa,2007,Marcus McCauley,CB,Fresno State,6 ft 1 in,203.0,4.39,36.0,17.0,129.0,6.61,4.17,MIN,DB,DB,3.0,72.0
+2007BranMcDo,2007,Brandon McDonald,CB,Memphis,5 ft 11 in,181.0,4.58,33.0,17.0,118.0,7.44,4.76,CLE,DB,DB,5.0,140.0
+2007BranMeba,2007,Brandon Mebane,DT,California,6 ft 1 in,309.0,5.15,24.0,24.0,106.0,7.94,4.65,SEA,DT,DT,3.0,85.0
+2007BranMeri,2007,Brandon Meriweather,S,Miami (FL),5 ft 11 in,195.0,4.47,35.0,11.0,111.0,7.06,4.33,NWE,DB,DB,1.0,24.0
+2007MartMiln,2007,Martrez Milner,TE,Georgia,6 ft 4 in,252.0,4.79,34.0,19.0,117.0,7.35,4.49,ATL,TE,TE,4.0,133.0
+2007MarvMitc,2007,Marvin Mitchell,ILB,Tennessee,6 ft 3 in,249.0,4.87,32.0,22.0,108.0,7.29,4.25,NOR,LB,LB,7.0,220.0
+2007Jay Moor,2007,Jay Moore,DE,Nebraska,6 ft 5 in,274.0,4.92,34.0,26.0,118.0,7.19,4.35,SFO,DE,DE,4.0,104.0
+2007DrewMorm,2007,Drew Mormino,C,Central Michigan,6 ft 3 in,299.0,5.32,28.0,27.0,105.0,7.48,4.53,MIA,C,C,6.0,199.0
+2007QuenMose,2007,Quentin Moses,DE,Georgia,6 ft 5 in,261.0,4.82,32.0,17.0,115.0,7.38,4.53,OAK,DE,DE,3.0,65.0
+2007StepNich,2007,Stephen Nicholas,OLB,South Florida,6 ft 1 in,232.0,4.64,33.5,29.0,110.0,7.29,4.45,ATL,LB,LB,4.0,109.0
+2007ChadNkan,2007,Chad Nkang,S,Elon,5 ft 11 in,220.0,4.52,36.5,23.0,118.0,7.1,4.34,JAX,LB,LB,7.0,251.0
+2007MichOkwo,2007,Michael Okwo,ILB,Stanford,5 ft 11 in,232.0,4.7,35.5,20.0,121.0,7.12,4.43,CHI,LB,LB,3.0,94.0
+2007GregOlse,2007,Greg Olsen,TE,Miami (FL),6 ft 6 in,254.0,4.51,35.5,23.0,114.0,7.04,4.48,CHI,TE,TE,1.0,31.0
+2007KeviPayn,2007,Kevin Payne,S,La-Monroe,6 ft 0 in,220.0,4.6,35.0,20.0,106.0,7.0,4.3,CHI,DB,DB,5.0,167.0
+2007SabbPisc,2007,Sabby Piscitelli,S,Oregon State,6 ft 3 in,224.0,4.47,34.5,19.0,122.0,6.84,3.9,TAM,LB,LB,2.0,64.0
+2007AntoPitt,2007,Antonio Pittman,RB,Ohio State,5 ft 11 in,207.0,4.4,35.5,16.0,123.0,6.84,4.16,NOR,RB,RB,4.0,107.0
+2007PaulPosl,2007,Paul Posluszny,OLB,Penn State,6 ft 2 in,238.0,4.7,37.0,22.0,116.0,6.94,4.2,BUF,LB,LB,2.0,34.0
+2007Jay Rich,2007,Jay Richardson,DE,Ohio State,6 ft 6 in,279.0,5.0,33.0,20.0,112.0,7.5,4.54,OAK,DE,DE,5.0,138.0
+2007LaurRobi,2007,Laurent Robinson,WR,Illinois State,6 ft 2 in,199.0,4.38,39.0,19.0,127.0,6.83,4.28,ATL,WR,WR,3.0,75.0
+2007BriaRobi,2007,Brian Robison,DE,Texas,6 ft 3 in,259.0,4.67,40.5,27.0,121.0,6.89,4.26,MIN,DE,DE,4.0,102.0
+2007DantRosa,2007,Dante Rosario,TE,Oregon,6 ft 3 in,244.0,4.78,36.0,20.0,115.0,6.96,4.47,CAR,TE,TE,5.0,155.0
+2007AaroRoss,2007,Aaron Ross,CB,Texas,6 ft 0 in,193.0,4.44,34.0,17.0,118.0,6.67,4.15,NYG,DB,DB,1.0,20.0
+2007ClifRyan,2007,Clifton Ryan,DT,Michigan State,6 ft 3 in,310.0,5.12,26.5,25.0,102.0,7.49,4.69,STL,DT,DT,5.0,154.0
+2007Dan Sant,2007,Dan Santucci,OG,Notre Dame,6 ft 3 in,301.0,5.13,29.0,23.0,102.0,7.47,4.74,CIN,G,G,7.0,230.0
+2007DallSart,2007,Dallas Sartz,OLB,USC,6 ft 5 in,235.0,4.71,33.5,20.0,111.0,6.85,4.13,WAS,LB,LB,5.0,143.0
+2007SamsSate,2007,Samson Satele,C,Hawaii,6 ft 3 in,300.0,5.24,33.0,25.0,101.0,7.47,4.29,MIA,C,C,2.0,60.0
+2007DereScho,2007,Derek Schouman,FB,Boise State,6 ft 2 in,247.0,4.74,37.5,27.0,122.0,7.0,4.27,BUF,TE,TE,7.0,222.0
+2007Ken Shac,2007,Ken Shackleford,OT,Georgia,6 ft 5 in,322.0,5.3,24.5,28.0,102.0,8.35,5.05,STL,T,T,6.0,190.0
+2007Tim Shaw,2007,Tim Shaw,OLB,Penn State,6 ft 1 in,236.0,4.51,36.5,26.0,116.0,7.01,4.12,CAR,LB,LB,5.0,164.0
+2007MikeSims,2007,Mike Sims-Walker,WR,Central Florida,6 ft 2 in,209.0,4.35,36.5,18.0,121.0,6.92,4.39,JAX,WR,WR,3.0,79.0
+2007KelvSmit,2007,Kelvin Smith,ILB,Syracuse,6 ft 2 in,240.0,4.8,32.0,26.0,110.0,7.19,4.42,MIA,LB,LB,7.0,219.0
+2007KolbSmit,2007,Kolby Smith,RB,Louisville,5 ft 11 in,220.0,4.5,38.0,18.0,114.0,7.22,4.34,KAN,RB,RB,5.0,148.0
+2007AnthSpen,2007,Anthony Spencer,DE,Purdue,6 ft 3 in,261.0,4.7,32.5,30.0,112.0,7.14,4.43,DAL,DE,DE,1.0,26.0
+2007CameStep,2007,Cameron Stephenson,OG,Rutgers,6 ft 3 in,306.0,5.4,28.5,34.0,101.0,7.72,4.81,PIT,G,G,5.0,156.0
+2007DareSton,2007,Daren Stone,S,Maine,6 ft 3 in,218.0,4.58,39.0,13.0,132.0,7.13,4.44,ATL,DB,DB,6.0,203.0
+2007HerbTayl,2007,Herb Taylor,OT,TCU,6 ft 4 in,296.0,5.19,27.0,26.0,100.0,7.78,4.64,KAN,T,T,6.0,196.0
+2007Joe Thom,2007,Joe Thomas,OT,Wisconsin,6 ft 7 in,311.0,4.92,33.0,28.0,110.0,7.95,4.88,CLE,T,T,1.0,3.0
+2007LawrTimm,2007,Lawrence Timmons,OLB,Florida State,6 ft 1 in,234.0,4.66,35.0,25.0,123.0,6.89,4.32,PIT,LB,LB,1.0,15.0
+2007EricWedd,2007,Eric Weddle,S,Utah,5 ft 11 in,203.0,4.48,33.5,11.0,113.0,6.78,4.12,SDG,DB,DB,2.0,37.0
+2007JohnWend,2007,John Wendling,S,Wyoming,6 ft 1 in,222.0,4.48,38.5,22.0,129.0,6.96,4.16,BUF,DB,DB,6.0,184.0
+2007PatrWill,2007,Patrick Willis,ILB,Mississippi,6 ft 1 in,242.0,4.51,39.0,22.0,119.0,7.23,4.46,SFO,LB,LB,1.0,11.0
+2007JoshWils,2007,Josh Wilson,CB,Maryland,5 ft 9 in,189.0,4.39,36.5,20.0,120.0,7.07,4.43,SEA,DB,DB,2.0,55.0
+2007GarrWolf,2007,Garrett Wolfe,RB,Northern Illinois,5 ft 7 in,186.0,4.39,35.5,22.0,116.0,6.69,4.08,CHI,RB,RB,3.0,93.0
+2007AbraWrig,2007,Abraham Wright,DE,Colorado,6 ft 2 in,242.0,4.9,31.0,24.0,111.0,7.2,4.46,MIA,DE,DE,7.0,238.0
+2007DwayWrig,2007,Dwayne Wright,RB,Fresno State,5 ft 11 in,228.0,4.66,34.0,14.0,115.0,7.23,4.43,BUF,RB,RB,4.0,111.0
+2007EricWrig,2007,Eric Wright,CB,UNLV,5 ft 11 in,192.0,4.36,36.5,16.0,123.0,6.93,4.23,CLE,DB,DB,2.0,53.0
+2007C.J.Ah,2007,C.J. Ah You,DE,Oklahoma,6 ft 4 in,274.0,4.7,36.5,26.0,108.0,7.06,4.4,BUF,DE,DE,7.0,239.0
+2008BranAlbe,2008,Branden Albert,OG,Virginia,6 ft 6 in,309.0,5.17,26.0,23.0,111.0,7.97,4.78,KAN,G,G,1.0,15.0
+2008ClifAvri,2008,Cliff Avril,OLB,Purdue,6 ft 3 in,253.0,4.51,32.5,27.0,117.0,6.9,4.51,DET,LB,LB,3.0,92.0
+2008KentBalm,2008,Kentwan Balmer,DT,North Carolina,6 ft 4 in,308.0,5.29,29.0,33.0,103.0,7.65,4.82,SFO,DT,DT,1.0,29.0
+2008DomiBarb,2008,Dominique Barber,S,Minnesota,6 ft 0 in,210.0,4.68,34.0,23.0,117.0,7.08,4.34,HOU,DB,DB,6.0,173.0
+2008GaryBarn,2008,Gary Barnidge,TE,Louisville,6 ft 6 in,243.0,4.61,31.0,22.0,117.0,6.92,4.23,CAR,TE,TE,5.0,141.0
+2008JoshBarr,2008,Josh Barrett,S,Arizona State,6 ft 2 in,223.0,4.34,31.5,17.0,121.0,7.07,4.27,DEN,DB,DB,7.0,220.0
+2008DemeBell,2008,Demetress Bell,OT,Michigan State,6 ft 5 in,303.0,5.18,26.5,9.0,109.0,7.65,4.65,BUF,T,T,7.0,219.0
+2008EarlBenn,2008,Earl Bennett,WR,Vanderbilt,5 ft 11 in,209.0,4.48,26.0,15.0,110.0,7.15,4.22,CHI,WR,WR,3.0,70.0
+2008MartBenn,2008,Martellus Bennett,TE,Texas A&M,6 ft 6 in,259.0,4.68,34.0,18.0,118.0,7.64,4.53,DAL,TE,TE,2.0,61.0
+2008KroyBier,2008,Kroy Biermann,OLB,Montana,6 ft 3 in,246.0,4.85,31.5,29.0,112.0,7.08,4.56,ATL,LB,LB,5.0,154.0
+2008AlviBowe,2008,Alvin Bowen,OLB,Iowa State,6 ft 1 in,223.0,4.79,34.0,15.0,119.0,7.21,4.3,BUF,LB,LB,5.0,147.0
+2008ZackBowm,2008,Zack Bowman,CB,Nebraska,6 ft 0 in,197.0,4.39,30.5,18.0,122.0,7.1,4.21,CHI,DB,DB,5.0,142.0
+2008CoryBoyd,2008,Cory Boyd,RB,South Carolina,6 ft 0 in,213.0,4.52,33.5,25.0,118.0,6.97,4.24,TAM,RB,RB,7.0,238.0
+2008DuanBrow,2008,Duane Brown,OT,Virginia Tech,6 ft 4 in,315.0,5.07,27.5,24.0,105.0,7.58,4.52,HOU,T,T,1.0,26.0
+2008Red Brya,2008,Red Bryant,DT,Texas A&M,6 ft 4 in,318.0,5.0,28.0,20.0,111.0,7.75,4.64,SEA,DT,DT,4.0,121.0
+2008KeenBurt,2008,Keenan Burton,WR,Kentucky,6 ft 0 in,201.0,4.44,38.5,10.0,125.0,6.77,4.2,STL,WR,WR,4.0,128.0
+2008CalaCamp,2008,Calais Campbell,DE,Miami (FL),6 ft 8 in,290.0,5.04,29.5,16.0,111.0,7.45,4.69,ARI,DE,DE,2.0,50.0
+2008JohnCarl,2008,John Carlson,TE,Notre Dame,6 ft 5 in,251.0,4.88,30.5,20.0,113.0,7.12,4.28,SEA,TE,TE,2.0,38.0
+2008GosdCher,2008,Gosder Cherilus,OT,Boston Col.,6 ft 6 in,314.0,5.14,23.0,24.0,102.0,7.6,4.82,DET,T,T,1.0,17.0
+2008CoreClar,2008,Corey Clark,OT,Texas A&M,6 ft 5 in,315.0,5.28,23.0,23.0,106.0,7.47,4.68,SDG,T,T,7.0,234.0
+2008AnthColl,2008,Anthony Collins,OT,Kansas,6 ft 5 in,317.0,5.54,22.5,26.0,97.0,7.71,4.87,CIN,T,T,4.0,112.0
+2008OnieCous,2008,Oniel Cousins,OT,Texas-El Paso,6 ft 4 in,308.0,5.11,24.5,23.0,107.0,7.9,4.8,BAL,G,G,3.0,99.0
+2008ShawCrab,2008,Shawn Crable,OLB,Michigan,6 ft 5 in,245.0,4.61,28.0,29.0,111.0,7.29,4.55,NWE,LB,LB,3.0,78.0
+2008BrucDavi,2008,Bruce Davis,OLB,UCLA,6 ft 3 in,252.0,4.78,29.0,19.0,109.0,7.34,4.47,PIT,LB,LB,3.0,88.0
+2008KellDavi,2008,Kellen Davis,TE,Michigan State,6 ft 6 in,262.0,4.59,28.0,22.0,118.0,7.25,4.38,CHI,TE,TE,5.0,158.0
+2008SedrElli,2008,Sedrick Ellis,DT,USC,6 ft 0 in,309.0,5.26,26.5,34.0,105.0,7.78,4.73,NOR,DT,DT,1.0,7.0
+2008JeroFelt,2008,Jerome Felton,FB,Furman,6 ft 0 in,241.0,4.68,32.5,30.0,110.0,7.2,4.46,DET,FB,FB,5.0,146.0
+2008DereFine,2008,Derek Fine,TE,Kansas,6 ft 3 in,251.0,4.83,29.0,24.0,115.0,6.8,4.19,BUF,TE,TE,4.0,132.0
+2008JermFinl,2008,Jermichael Finley,TE,Texas,6 ft 4 in,243.0,4.82,27.5,20.0,117.0,7.15,4.38,GNB,TE,TE,3.0,91.0
+2008WilrFont,2008,Wilrey Fontenot,CB,Arizona,5 ft 9 in,171.0,4.4,34.0,18.0,128.0,7.29,4.26,ATL,DB,DB,7.0,212.0
+2008MattFort,2008,Matt Forte,RB,Tulane,6 ft 1 in,217.0,4.44,33.0,23.0,118.0,6.84,4.23,CHI,RB,RB,2.0,44.0
+2008PierGarc,2008,Pierre Garcon,WR,Mount Union,6 ft 0 in,210.0,4.42,36.5,20.0,125.0,6.9,4.19,IND,WR,WR,6.0,205.0
+2008VernGhol,2008,Vernon Gholston,DE,Ohio State,6 ft 3 in,266.0,4.65,35.5,37.0,125.0,7.12,4.4,NYJ,DE,DE,1.0,6.0
+2008BrenGiac,2008,Breno Giacomini,OT,Louisville,6 ft 7 in,303.0,5.2,22.5,23.0,108.0,7.56,4.63,GNB,T,T,5.0,150.0
+2008MikeGibs,2008,Mike Gibson,OG,California,6 ft 3 in,305.0,5.27,27.0,31.0,110.0,7.21,4.64,PHI,T,T,6.0,184.0
+2008CharGodf,2008,Charles Godfrey,CB,Iowa,6 ft 0 in,207.0,4.43,32.5,14.0,121.0,7.28,4.4,CAR,DB,DB,3.0,67.0
+2008JonaGoff,2008,Jonathan Goff,ILB,Vanderbilt,6 ft 2 in,245.0,4.63,31.5,28.0,118.0,6.86,4.26,NYG,LB,LB,5.0,165.0
+2008LarrGran,2008,Larry Grant,OLB,Ohio State,6 ft 1 in,235.0,4.76,31.5,20.0,113.0,6.77,4.22,SFO,LB,LB,7.0,214.0
+2008JohnGrec,2008,John Greco,OT,Toledo,6 ft 5 in,305.0,5.29,26.0,30.0,108.0,8.03,4.82,STL,T,T,3.0,65.0
+2008QuenGrov,2008,Quentin Groves,OLB,Auburn,6 ft 3 in,259.0,4.53,29.5,30.0,120.0,7.31,4.42,JAX,DE,DE,2.0,52.0
+2008DaviHale,2008,David Hale,OT,Weber State,6 ft 6 in,314.0,5.27,26.0,25.0,100.0,7.69,4.75,BAL,T,T,4.0,133.0
+2008JameHard,2008,James Hardy,WR,Indiana,6 ft 5 in,217.0,4.45,31.5,18.0,125.0,6.84,4.2,BUF,WR,WR,2.0,41.0
+2008DerrHarv,2008,Derrick Harvey,DE,Florida,6 ft 5 in,271.0,4.84,28.5,31.0,113.0,7.27,4.36,JAX,DE,DE,1.0,8.0
+2008NickHayd,2008,Nick Hayden,DT,Wisconsin,6 ft 4 in,291.0,5.14,27.0,34.0,108.0,7.55,4.54,CAR,DT,DT,6.0,181.0
+2008GenoHaye,2008,Geno Hayes,OLB,Florida State,6 ft 1 in,226.0,4.64,26.5,22.0,116.0,7.22,4.48,TAM,LB,LB,6.0,175.0
+2008JacoHest,2008,Jacob Hester,FB,LSU,5 ft 11 in,226.0,4.61,27.5,23.0,111.0,6.85,4.24,SDG,FB,FB,3.0,69.0
+2008ChriHort,2008,Chris Horton,S,UCLA,6 ft 0 in,212.0,4.54,28.5,14.0,109.0,7.34,4.35,WAS,DB,DB,7.0,249.0
+2008MikeHump,2008,Mike Humpal,OLB,Iowa,6 ft 2 in,244.0,4.82,31.0,20.0,119.0,7.07,4.25,PIT,LB,LB,6.0,188.0
+2008KennIweb,2008,Kenny Iwebema,DE,Iowa,6 ft 4 in,274.0,4.91,29.0,26.0,109.0,7.62,4.75,ARI,DE,DE,4.0,116.0
+2008ChevJack,2008,Chevis Jackson,CB,LSU,6 ft 0 in,192.0,4.52,36.0,13.0,125.0,6.96,4.15,ATL,DB,DB,3.0,68.0
+2008LawrJack,2008,Lawrence Jackson,DE,USC,6 ft 4 in,271.0,4.82,31.0,31.0,108.0,7.08,4.4,SEA,DE,DE,1.0,28.0
+2008MikeJenk,2008,Mike Jenkins,CB,South Florida,5 ft 10 in,197.0,4.38,34.0,18.0,117.0,7.21,4.4,DAL,DB,DB,1.0,25.0
+2008JaymJohn,2008,Jaymar Johnson,WR,Jackson State,5 ft 11 in,177.0,4.5,32.0,14.0,118.0,6.75,4.18,MIN,WR,WR,6.0,193.0
+2008JasoJone,2008,Jason Jones,DE,East. Michigan,6 ft 5 in,273.0,4.76,25.5,18.0,123.0,7.29,4.32,TEN,DE,DE,2.0,54.0
+2008StevJust,2008,Steve Justice,C,Wake Forest,6 ft 3 in,293.0,5.24,21.0,23.0,98.0,7.4,4.58,IND,C,C,6.0,201.0
+2008StanKegl,2008,Stanford Keglar,OLB,Purdue,6 ft 2 in,239.0,4.58,34.0,29.0,126.0,6.7,3.98,TEN,LB,LB,4.0,134.0
+2008BryaKehl,2008,Bryan Kehl,OLB,BYU,6 ft 2 in,242.0,4.67,34.0,26.0,119.0,6.88,4.23,NYG,LB,LB,4.0,123.0
+2008DustKell,2008,Dustin Keller,TE,Purdue,6 ft 2 in,242.0,4.53,38.0,26.0,131.0,6.88,4.14,NYJ,TE,TE,1.0,30.0
+2008JustKing,2008,Justin King,CB,Penn State,5 ft 11 in,192.0,4.31,34.0,14.0,127.0,7.14,4.31,STL,DB,DB,4.0,101.0
+2008KendLang,2008,Kendall Langford,DE,Kansas State,6 ft 5 in,287.0,4.95,27.0,24.0,114.0,7.72,4.69,MIA,DE,DE,3.0,66.0
+2008SpenLars,2008,Spencer Larsen,ILB,Arizona,6 ft 2 in,238.0,4.85,28.5,27.0,113.0,7.68,4.55,DEN,LB,LB,6.0,183.0
+2008TrevLaws,2008,Trevor Laws,DT,Notre Dame,6 ft 1 in,304.0,5.09,30.5,35.0,103.0,7.37,4.49,PHI,DT,DT,2.0,47.0
+2008CurtLoft,2008,Curtis Lofton,ILB,Oklahoma,6 ft 0 in,246.0,4.79,24.5,23.0,105.0,7.69,4.56,ATL,LB,LB,2.0,37.0
+2008JakeLong,2008,Jake Long,OT,Michigan,6 ft 7 in,313.0,5.22,27.5,37.0,102.0,7.44,4.73,MIA,T,T,1.0,1.0
+2008DwigLowe,2008,Dwight Lowery,CB,San Jose State,5 ft 11 in,201.0,4.54,33.5,16.0,116.0,7.31,4.38,NYJ,DB,DB,4.0,113.0
+2008MariMann,2008,Mario Manningham,WR,Michigan,6 ft 0 in,181.0,4.59,32.0,16.0,117.0,7.34,4.27,NYG,WR,WR,3.0,95.0
+2008MikeMcGl,2008,Mike McGlynn,OG,Pittsburgh,6 ft 4 in,311.0,5.38,23.0,30.0,101.0,7.58,4.72,PHI,T,T,4.0,109.0
+2008LeodMcKe,2008,Leodis McKelvin,CB,Troy,5 ft 10 in,190.0,4.38,33.5,17.0,121.0,7.06,4.1,BUF,DB,DB,1.0,11.0
+2008AntwMold,2008,Antwaun Molden,CB,East. Kentucky,6 ft 1 in,198.0,4.39,37.5,23.0,129.0,6.85,4.14,HOU,DB,DB,3.0,79.0
+2008MarcMonk,2008,Marcus Monk,WR,Arkansas,6 ft 4 in,222.0,4.56,34.5,9.0,119.0,7.08,4.3,CHI,WR,WR,7.0,248.0
+2008Dre Moor,2008,Dre Moore,DT,Maryland,6 ft 4 in,305.0,4.84,28.0,31.0,105.0,7.73,4.55,TAM,DT,DT,4.0,115.0
+2008DaJuMorg,2008,DaJuan Morgan,S,North Carolina State,6 ft 0 in,205.0,4.5,33.0,21.0,119.0,7.12,4.41,KAN,DB,DB,3.0,82.0
+2008ShawMurp,2008,Shawn Murphy,OG,Utah State,6 ft 4 in,320.0,5.38,21.5,29.0,100.0,7.74,4.89,MIA,T,T,4.0,110.0
+2008CarlNick,2008,Carl Nicks,OT,Nebraska,6 ft 5 in,341.0,5.22,25.5,31.0,109.0,7.91,4.68,NOR,T,T,5.0,164.0
+2008FranOkam,2008,Frank Okam,DT,Texas,6 ft 4 in,347.0,5.32,23.0,32.0,104.0,8.07,4.95,HOU,DT,DT,5.0,151.0
+2008JaleParm,2008,Jalen Parmele,RB,Toledo,5 ft 11 in,224.0,4.47,34.0,19.0,125.0,6.96,4.29,MIA,RB,RB,6.0,176.0
+2008KennPhil,2008,Kenny Phillips,S,Miami (FL),6 ft 2 in,212.0,4.48,32.5,19.0,121.0,6.97,4.27,NYG,DB,DB,1.0,31.0
+2008MikePoll,2008,Mike Pollak,C,Arizona State,6 ft 3 in,301.0,4.99,25.0,29.0,110.0,7.49,4.47,IND,T,T,2.0,59.0
+2008TracPort,2008,Tracy Porter,CB,Indiana,5 ft 11 in,188.0,4.37,34.0,18.0,123.0,7.2,4.07,NOR,DB,DB,2.0,40.0
+2008CarlPowe,2008,Carlton Powell,DT,Virginia Tech,6 ft 2 in,292.0,5.1,22.5,23.0,108.0,7.78,4.87,DEN,DT,DT,5.0,148.0
+2008ChilRach,2008,Chilo Rachal,OG,USC,6 ft 5 in,315.0,5.16,25.5,28.0,108.0,8.01,5.14,SFO,G,G,2.0,39.0
+2008Ray Rice,2008,Ray Rice,RB,Rutgers,5 ft 8 in,199.0,4.42,31.5,23.0,119.0,6.65,4.2,BAL,RB,RB,2.0,55.0
+2008JameRich,2008,Jamey Richard,C,Buffalo,6 ft 5 in,295.0,5.22,26.5,22.0,107.0,7.58,4.69,IND,T,T,7.0,236.0
+2008BarrRich,2008,Barry Richardson,OT,Clemson,6 ft 7 in,320.0,5.45,25.5,24.0,100.0,8.0,5.16,KAN,T,T,6.0,170.0
+2008ChadRine,2008,Chad Rinehart,OG,New Mexico,6 ft 5 in,320.0,5.42,28.5,26.0,106.0,7.84,4.56,WAS,T,T,3.0,96.0
+2008DomiRodg,2008,Dominique Rodgers-Cromartie,CB,Tennessee State,6 ft 1 in,184.0,4.29,38.5,17.0,131.0,6.74,4.17,ARI,DB,DB,1.0,16.0
+2008EddiRoya,2008,Eddie Royal,WR,Virginia Tech,5 ft 10 in,184.0,4.39,36.0,24.0,124.0,7.07,4.34,DEN,WR,WR,2.0,42.0
+2008AhtyRubi,2008,Ahtyba Rubin,DT,Iowa State,6 ft 3 in,315.0,5.2,28.0,35.0,106.0,8.05,5.0,CLE,DT,DT,6.0,190.0
+2008Tom Sant,2008,Tom Santi,TE,Virginia,6 ft 3 in,250.0,4.8,36.0,14.0,121.0,7.08,4.27,IND,TE,TE,6.0,196.0
+2008TyleSchm,2008,Tyler Schmitt,LS,San Diego State,6 ft 2 in,231.0,4.93,29.0,21.0,118.0,7.03,4.33,SEA,LB,LB,6.0,189.0
+2008ArmaShie,2008,Arman Shields,WR,Richmond,6 ft 1 in,194.0,4.37,37.5,19.0,128.0,6.67,3.96,OAK,WR,WR,4.0,125.0
+2008BryaSmit,2008,Bryan Smith,OLB,McNeese State,6 ft 2 in,231.0,4.74,32.5,17.0,120.0,7.22,4.4,PHI,LB,LB,3.0,80.0
+2008MarcSmit,2008,Marcus Smith,WR,New Mexico,6 ft 1 in,221.0,4.51,26.5,20.0,111.0,7.1,4.42,BAL,WR,WR,4.0,106.0
+2008CraiStev,2008,Craig Stevens,TE,California,6 ft 3 in,254.0,4.59,27.5,27.0,114.0,7.07,4.31,TEN,TE,TE,3.0,85.0
+2008JohnSull,2008,John Sullivan,C,Notre Dame,6 ft 3 in,301.0,5.35,30.0,21.0,103.0,7.62,4.55,MIN,C,C,6.0,187.0
+2008AqibTali,2008,Aqib Talib,CB,Kansas,6 ft 1 in,202.0,4.44,38.0,10.0,131.0,6.82,4.22,TAM,DB,DB,1.0,20.0
+2008JacoTamm,2008,Jacob Tamme,TE,Kentucky,6 ft 3 in,236.0,4.58,30.0,18.0,109.0,6.99,4.27,IND,TE,TE,4.0,127.0
+2008DonaThom,2008,Donald Thomas,OG,Connecticut,6 ft 3 in,303.0,5.0,24.5,28.0,100.0,7.45,4.78,MIA,G,G,6.0,195.0
+2008JereThom,2008,Jeremy Thompson,DE,Wake Forest,6 ft 4 in,264.0,4.75,32.0,25.0,117.0,6.97,4.23,GNB,DE,DE,4.0,102.0
+2008JustTryo,2008,Justin Tryon,CB,Arizona State,5 ft 9 in,190.0,4.42,32.5,21.0,119.0,7.41,4.28,WAS,DB,DB,4.0,124.0
+2008MariUrru,2008,Mario Urrutia,WR,Louisville,6 ft 5 in,232.0,4.59,30.0,16.0,115.0,7.07,4.44,CIN,WR,WR,7.0,246.0
+2008CodyWall,2008,Cody Wallace,C,Texas A&M,6 ft 4 in,296.0,5.3,30.5,26.0,113.0,7.45,4.55,SFO,C,C,4.0,107.0
+2008TerrWhea,2008,Terrence Wheatley,CB,Colorado,5 ft 10 in,187.0,4.37,36.5,17.0,128.0,6.74,4.17,NWE,DB,DB,2.0,62.0
+2008PhilWhee,2008,Philip Wheeler,ILB,Georgia Tech,6 ft 2 in,248.0,4.76,31.0,24.0,118.0,7.11,4.29,IND,LB,LB,3.0,93.0
+2008ChriWill,2008,Chris Williams,OT,Vanderbilt,6 ft 6 in,315.0,5.13,25.0,21.0,103.0,7.95,4.85,CHI,T,T,1.0,14.0
+2008JereZutt,2008,Jeremy Zuttah,OT,Rutgers,6 ft 3 in,303.0,4.99,26.5,35.0,107.0,7.59,4.54,TAM,G,G,3.0,83.0
+2009AsheAlle,2009,Asher Allen,CB,Georgia,5 ft 9 in,194.0,4.48,35.0,22.0,115.0,6.93,4.3,MIN,DB,DB,3.0,86.0
+2009StanArno,2009,Stanley Arnoux,ILB,Wake Forest,6 ft 0 in,232.0,4.56,31.5,19.0,121.0,7.22,4.39,NOR,LB,LB,4.0,118.0
+2009RobeAyer,2009,Robert Ayers,DE,Tennessee,6 ft 3 in,272.0,4.77,29.5,18.0,102.0,7.56,4.51,DEN,DE,DE,1.0,18.0
+2009ConnBarw,2009,Connor Barwin,OLB,Cincinnati,6 ft 4 in,256.0,4.47,40.5,21.0,128.0,6.87,4.18,HOU,DE,DE,2.0,46.0
+2009WillBeat,2009,Will Beatty,OT,Connecticut,6 ft 6 in,307.0,5.06,33.5,27.0,107.0,7.62,4.77,NYG,T,T,2.0,60.0
+2009Ron Brac,2009,Ron Brace,DT,Boston Col.,6 ft 3 in,330.0,5.48,28.0,32.0,99.0,8.15,4.73,NWE,DT,DT,2.0,40.0
+2009RobeBrew,2009,Robert Brewster,OT,Ball State,6 ft 4 in,325.0,5.29,30.5,23.0,98.0,7.68,4.75,DAL,T,T,3.0,75.0
+2009JaspBrin,2009,Jasper Brinkley,ILB,South Carolina,6 ft 2 in,252.0,4.67,35.5,26.0,114.0,7.03,4.32,MIN,LB,LB,5.0,150.0
+2009EbenBrit,2009,Eben Britton,OT,Arizona,6 ft 6 in,309.0,5.14,28.5,24.0,100.0,7.87,4.91,JAX,T,T,2.0,39.0
+2009AndrBrow,2009,Andre Brown,RB,North Carolina State,6 ft 0 in,224.0,4.37,37.0,24.0,115.0,7.35,4.33,NYG,RB,RB,4.0,129.0
+2009CodyBrow,2009,Cody Brown,OLB,Connecticut,6 ft 2 in,244.0,4.76,36.5,26.0,120.0,7.1,4.4,ARI,LB,LB,2.0,63.0
+2009EverBrow,2009,Everette Brown,DE,Florida State,6 ft 1 in,256.0,4.65,31.5,26.0,114.0,7.55,4.53,CAR,DE,DE,2.0,43.0
+2009DaviBrut,2009,David Bruton,S,Notre Dame,6 ft 2 in,219.0,4.4,41.5,19.0,132.0,6.6,4.28,DEN,DB,DB,4.0,114.0
+2009Joe Burn,2009,Joe Burnett,CB,Central Florida,5 ft 9 in,192.0,4.58,35.5,22.0,118.0,6.68,4.25,PIT,DB,DB,5.0,168.0
+2009DeonButl,2009,Deon Butler,WR,Penn State,5 ft 10 in,182.0,4.31,34.5,12.0,118.0,7.01,4.48,SEA,WR,WR,3.0,91.0
+2009VictButl,2009,Victor Butler,OLB,Oregon State,6 ft 2 in,248.0,4.72,33.0,24.0,113.0,7.21,4.4,DAL,LB,LB,4.0,110.0
+2009AntoCald,2009,Antoine Caldwell,C,Alabama,6 ft 3 in,309.0,5.24,28.0,23.0,111.0,7.96,5.04,HOU,G,G,3.0,77.0
+2009JameCase,2009,James Casey,FB,Rice,6 ft 3 in,246.0,4.69,36.0,28.0,111.0,7.0,4.48,HOU,TE,TE,5.0,152.0
+2009ChriClem,2009,Chris Clemons,S,Clemson,6 ft 0 in,208.0,4.33,37.5,19.0,127.0,7.27,4.38,MIA,DB,DB,5.0,165.0
+2009GlenCoff,2009,Glen Coffee,RB,Alabama,6 ft 0 in,209.0,4.5,36.0,24.0,121.0,7.35,4.51,SFO,RB,RB,3.0,74.0
+2009AustColl,2009,Austin Collie,WR,BYU,6 ft 1 in,200.0,4.53,34.0,17.0,120.0,6.78,4.24,IND,WR,WR,4.0,127.0
+2009AaroCurr,2009,Aaron Curry,OLB,Wake Forest,6 ft 2 in,254.0,4.52,37.0,25.0,124.0,7.15,4.51,SEA,LB,LB,1.0,4.0
+2009BriaCush,2009,Brian Cushing,OLB,USC,6 ft 3 in,243.0,4.64,35.0,30.0,120.0,6.84,4.22,HOU,LB,LB,1.0,15.0
+2009JameDavi,2009,James Davis,RB,Clemson,5 ft 11 in,218.0,4.45,32.0,17.0,109.0,7.15,4.37,CLE,RB,RB,6.0,195.0
+2009VontDavi,2009,Vontae Davis,CB,Illinois,5 ft 11 in,203.0,4.4,36.0,25.0,125.0,6.75,4.07,MIA,DB,DB,1.0,25.0
+2009WillDavi,2009,Will Davis,DE,Illinois,6 ft 2 in,261.0,4.84,33.0,27.0,115.0,7.38,4.45,ARI,DE,DE,6.0,204.0
+2009LouiDelm,2009,Louis Delmas,S,West. Michigan,5 ft 11 in,202.0,4.52,37.0,12.0,126.0,6.67,4.17,DET,DB,DB,2.0,33.0
+2009JareDill,2009,Jarett Dillard,WR,Rice,5 ft 10 in,191.0,4.5,42.5,13.0,129.0,7.1,4.41,JAX,WR,WR,5.0,144.0
+2009DavoDrew,2009,Davon Drew,TE,East Carolina,6 ft 4 in,256.0,4.78,29.5,17.0,113.0,7.28,4.56,BAL,TE,TE,5.0,149.0
+2009LarrEngl,2009,Larry English,OLB,Northern Illinois,6 ft 2 in,255.0,4.74,36.0,24.0,107.0,7.26,4.38,SDG,LB,LB,1.0,16.0
+2009TonyFiam,2009,Tony Fiammetta,FB,Syracuse,6 ft 0 in,245.0,4.58,34.0,30.0,112.0,7.31,4.49,CAR,RB,RB,4.0,128.0
+2009BradFlet,2009,Bradley Fletcher,CB,Iowa,6 ft 0 in,196.0,4.44,38.5,20.0,122.0,7.04,4.29,STL,DB,DB,3.0,66.0
+2009MoisFoko,2009,Moise Fokou,OLB,Maryland,6 ft 1 in,233.0,4.65,31.0,12.0,121.0,7.09,4.28,PHI,LB,LB,7.0,230.0
+2009CoyeFran,2009,Coye Francies,CB,San Jose State,6 ft 0 in,185.0,4.63,36.0,24.0,123.0,6.81,4.24,CLE,DB,DB,6.0,191.0
+2009MarcFree,2009,Marcus Freeman,OLB,Ohio State,6 ft 1 in,239.0,4.51,37.0,30.0,113.0,6.98,4.12,CHI,LB,LB,5.0,154.0
+2009XaviFult,2009,Xavier Fulton,OT,Illinois,6 ft 4 in,302.0,5.01,31.0,27.0,111.0,7.35,4.56,TAM,T,T,5.0,155.0
+2009JarrGilb,2009,Jarron Gilbert,DE,San Jose State,6 ft 5 in,288.0,4.81,35.5,28.0,119.0,7.7,4.56,CHI,DT,DT,3.0,68.0
+2009MikeGood,2009,Mike Goodson,RB,Texas A&M,6 ft 0 in,208.0,4.43,39.5,14.0,118.0,6.89,4.22,CAR,RB,RB,4.0,111.0
+2009CourGree,2009,Courtney Greene,S,Rutgers,6 ft 0 in,212.0,4.55,34.5,21.0,116.0,7.35,4.16,SEA,DB,DB,7.0,245.0
+2009ShonGree,2009,Shonn Greene,RB,Iowa,5 ft 10 in,227.0,4.55,37.0,19.0,121.0,7.1,4.4,NYJ,RB,RB,3.0,65.0
+2009Dan Gron,2009,Dan Gronkowski,TE,Maryland,6 ft 5 in,255.0,4.79,33.0,26.0,122.0,6.92,4.26,DET,TE,TE,7.0,255.0
+2009MichHaml,2009,Michael Hamlin,S,Clemson,6 ft 2 in,214.0,4.57,37.5,17.0,117.0,7.14,4.42,DAL,DB,DB,5.0,166.0
+2009Nic Harr,2009,Nic Harris,OLB,Oklahoma,6 ft 2 in,234.0,4.83,31.5,15.0,109.0,7.05,4.37,BUF,LB,LB,5.0,147.0
+2009DarrHeyw,2009,Darrius Heyward-Bey,WR,Maryland,6 ft 2 in,210.0,4.3,38.5,16.0,126.0,6.8,4.18,OAK,WR,WR,1.0,7.0
+2009AnthHill,2009,Anthony Hill,TE,North Carolina State,6 ft 5 in,262.0,4.84,30.5,21.0,107.0,7.31,4.56,HOU,TE,TE,4.0,122.0
+2009StepHodg,2009,Stephen Hodge,OLB,TCU,6 ft 0 in,234.0,4.59,35.0,22.0,115.0,7.21,4.34,DAL,DB,DB,6.0,197.0
+2009BranHugh,2009,Brandon Hughes,CB,Oregon State,5 ft 10 in,182.0,4.4,36.5,8.0,128.0,6.9,4.23,SDG,DB,DB,5.0,148.0
+2009CorvIrvi,2009,Corvey Irvin,DT,Georgia,6 ft 3 in,301.0,4.96,24.5,24.0,97.0,7.44,4.73,CAR,DT,DT,3.0,93.0
+2009MalcJenk,2009,Malcolm Jenkins,CB,Ohio State,6 ft 0 in,204.0,4.51,33.0,15.0,124.0,6.59,4.08,NOR,DB,DB,1.0,14.0
+2009RashJenn,2009,Rashad Jennings,RB,Liberty,6 ft 1 in,231.0,4.52,34.0,29.0,120.0,6.86,4.2,JAX,RB,RB,7.0,250.0
+2009DaviJohn,2009,David Johnson,FB,Arkansas State,6 ft 1 in,260.0,4.73,32.5,21.0,113.0,7.28,4.43,PIT,TE,TE,7.0,241.0
+2009MichJohn,2009,Michael Johnson,DE,Georgia Tech,6 ft 7 in,266.0,4.61,38.5,28.0,128.0,7.42,4.37,CIN,DE,DE,3.0,70.0
+2009RashJohn,2009,Rashad Johnson,S,Alabama,5 ft 11 in,203.0,4.49,37.0,15.0,120.0,7.09,4.23,ARI,DB,DB,3.0,95.0
+2009TroyKrop,2009,Troy Kropog,OT,Tulane,6 ft 5 in,309.0,5.3,30.0,21.0,100.0,7.65,4.84,TEN,T,T,4.0,135.0
+2009PaulKrug,2009,Paul Kruger,DE,Utah,6 ft 4 in,263.0,4.79,32.5,24.0,108.0,7.52,4.47,BAL,DE,DE,2.0,57.0
+2009JameLaur,2009,James Laurinaitis,ILB,Ohio State,6 ft 2 in,244.0,4.72,33.0,22.0,115.0,6.93,4.24,STL,LB,LB,2.0,35.0
+2009PhilLoad,2009,Phil Loadholt,OT,Oklahoma,6 ft 8 in,332.0,5.45,29.0,24.0,95.0,8.18,5.06,MIN,T,T,2.0,54.0
+2009JonaLuig,2009,Jonathan Luigs,C,Arkansas,6 ft 4 in,301.0,5.14,31.0,26.0,99.0,7.69,4.79,CIN,C,C,4.0,106.0
+2009AlexMage,2009,Alex Magee,DT,Purdue,6 ft 3 in,298.0,4.82,29.5,30.0,103.0,7.52,4.55,KAN,DE,DE,3.0,67.0
+2009SherMart,2009,Sherrod Martin,CB,Troy,6 ft 1 in,198.0,4.43,36.0,12.0,123.0,6.6,3.98,CAR,DB,DB,2.0,59.0
+2009ClayMatt,2009,Clay Matthews,OLB,USC,6 ft 3 in,240.0,4.58,35.5,23.0,121.0,6.9,4.18,GNB,LB,LB,1.0,26.0
+2009AaroMayb,2009,Aaron Maybin,DE,Penn State,6 ft 4 in,249.0,4.64,38.0,22.0,124.0,7.52,4.38,BUF,DE,DE,1.0,11.0
+2009DarcMcBa,2009,Darcel McBath,S,Texas Tech,6 ft 0 in,198.0,4.53,38.0,14.0,119.0,6.8,4.16,DEN,DB,DB,2.0,48.0
+2009ScotMcKi,2009,Scott McKillop,ILB,Pittsburgh,6 ft 1 in,244.0,4.7,35.5,27.0,119.0,7.0,4.39,SFO,LB,LB,5.0,146.0
+2009GeraMcRa,2009,Gerald McRath,ILB,Southern Miss,6 ft 2 in,231.0,4.49,34.0,19.0,123.0,7.24,4.35,TEN,LB,LB,4.0,130.0
+2009JamoMere,2009,Jamon Meredith,OT,South Carolina,6 ft 5 in,304.0,4.99,28.0,31.0,105.0,8.01,4.82,GNB,T,T,5.0,162.0
+2009Roy Mill,2009,Roy Miller,DT,Texas,6 ft 1 in,310.0,4.93,32.0,36.0,103.0,8.01,4.74,TAM,DT,DT,3.0,81.0
+2009MarkMitc,2009,Marko Mitchell,WR,Nevada,6 ft 4 in,218.0,4.43,32.0,9.0,116.0,7.04,4.33,WAS,WR,WR,7.0,243.0
+2009EugeMonr,2009,Eugene Monroe,OT,Virginia,6 ft 5 in,309.0,5.18,28.5,23.0,110.0,7.86,4.78,JAX,T,T,1.0,8.0
+2009D.J.Moor,2009,D.J. Moore,CB,Vanderbilt,5 ft 9 in,192.0,4.56,39.5,17.0,118.0,7.01,4.28,CHI,DB,DB,4.0,119.0
+2009KyleMoor,2009,Kyle Moore,DE,USC,6 ft 5 in,272.0,4.76,30.5,22.0,105.0,7.4,4.47,TAM,DE,DE,4.0,117.0
+2009WillMoor,2009,William Moore,S,Missouri,6 ft 0 in,221.0,4.49,37.0,16.0,123.0,6.81,4.26,ATL,DB,DB,2.0,55.0
+2009KnowMore,2009,Knowshon Moreno,RB,Georgia,5 ft 11 in,217.0,4.5,35.5,25.0,115.0,6.84,4.27,DEN,RB,RB,1.0,12.0
+2009CameMorr,2009,Cameron Morrah,TE,California,6 ft 3 in,244.0,4.61,32.5,24.0,115.0,6.99,4.36,SEA,TE,TE,7.0,248.0
+2009CaptMunn,2009,Captain Munnerlyn,CB,South Carolina,5 ft 8 in,182.0,4.41,37.5,19.0,121.0,7.15,4.2,CAR,DB,DB,7.0,216.0
+2009LydoMurt,2009,Lydon Murtha,OT,Nebraska,6 ft 7 in,306.0,4.82,35.0,25.0,110.0,7.06,4.34,DET,T,T,7.0,228.0
+2009ShawNels,2009,Shawn Nelson,TE,Southern Miss,6 ft 5 in,240.0,4.52,33.0,19.0,115.0,6.96,4.46,BUF,TE,TE,4.0,121.0
+2009TroyNola,2009,Troy Nolan,S,Arizona State,6 ft 0 in,206.0,4.58,31.5,12.0,117.0,7.06,4.3,HOU,DB,DB,7.0,223.0
+2009ChriOgbo,2009,Chris Ogbonnaya,RB,Texas,6 ft 0 in,220.0,4.57,35.0,19.0,111.0,6.85,4.29,STL,RB,RB,7.0,211.0
+2009MichOher,2009,Michael Oher,OT,Mississippi,6 ft 4 in,309.0,5.16,30.5,21.0,103.0,7.81,4.6,BAL,T,T,1.0,23.0
+2009SethOlse,2009,Seth Olsen,OG,Iowa,6 ft 5 in,306.0,5.23,24.5,23.0,90.0,7.59,4.7,DEN,G,G,4.0,132.0
+2009ChriOwen,2009,Chris Owens,CB,San Jose State,5 ft 10 in,181.0,4.44,34.5,14.0,110.0,6.93,4.16,ATL,DB,DB,3.0,90.0
+2009CedrPeer,2009,Cedric Peerman,RB,Virginia,5 ft 9 in,216.0,4.34,40.0,27.0,117.0,6.99,4.29,BAL,RB,RB,6.0,185.0
+2009BranPett,2009,Brandon Pettigrew,TE,Oklahoma State,6 ft 5 in,263.0,4.8,33.0,22.0,118.0,7.12,4.37,DET,TE,TE,1.0,20.0
+2009JohnPhil,2009,John Phillips,TE,Virginia,6 ft 5 in,251.0,4.78,33.5,20.0,112.0,6.84,4.27,DAL,TE,TE,6.0,208.0
+2009JerrPowe,2009,Jerraud Powers,CB,Auburn,5 ft 9 in,188.0,4.43,36.5,15.0,122.0,7.09,4.08,IND,DB,DB,3.0,92.0
+2009GlovQuin,2009,Glover Quin,S,New Mexico,5 ft 11 in,204.0,4.5,38.0,22.0,119.0,7.39,4.43,HOU,DB,DB,4.0,112.0
+2009RichQuin,2009,Richard Quinn,TE,North Carolina,6 ft 4 in,264.0,4.88,32.5,24.0,119.0,7.5,4.62,DEN,TE,TE,2.0,64.0
+2009B.J.Raji,2009,B.J. Raji,DT,Boston Col.,6 ft 1 in,337.0,5.12,32.0,33.0,103.0,7.9,4.69,GNB,DT,DT,1.0,9.0
+2009GarrReyn,2009,Garrett Reynolds,OT,North Carolina,6 ft 8 in,309.0,5.32,22.0,19.0,94.0,7.87,4.88,ATL,T,T,5.0,156.0
+2009JavoRing,2009,Javon Ringer,RB,Michigan State,5 ft 9 in,205.0,4.5,34.0,23.0,115.0,6.87,4.11,TEN,RB,RB,5.0,173.0
+2009JamaSanf,2009,Jamarca Sanford,S,Mississippi,5 ft 10 in,214.0,4.43,33.5,29.0,116.0,7.02,4.2,MIN,DB,DB,7.0,231.0
+2009BernScot,2009,Bernard Scott,RB,Abilene Christian,5 ft 10 in,200.0,4.44,36.0,21.0,125.0,6.82,4.08,CIN,RB,RB,6.0,209.0
+2009DareScot,2009,Darell Scott,DT,Clemson,6 ft 3 in,312.0,4.92,30.5,29.0,107.0,8.28,4.84,STL,DT,DT,4.0,103.0
+2009MattShau,2009,Matt Shaughnessy,DE,Wisconsin,6 ft 5 in,266.0,4.86,30.5,24.0,112.0,7.68,4.88,OAK,DE,DE,3.0,71.0
+2009A.Q.Ship,2009,A.Q. Shipley,C,Penn State,6 ft 1 in,304.0,5.19,31.0,33.0,100.0,7.46,4.4,PIT,C,C,7.0,226.0
+2009LawrSidb,2009,Lawrence Sidbury,DE,Richmond,6 ft 2 in,266.0,4.53,35.0,28.0,120.0,7.46,4.43,ATL,DE,DE,4.0,125.0
+2009AlphSmit,2009,Alphonso Smith,CB,Wake Forest,5 ft 9 in,193.0,4.47,34.0,13.0,125.0,7.09,4.38,DEN,DB,DB,2.0,37.0
+2009DeAnSmit,2009,DeAngelo Smith,CB,Cincinnati,5 ft 11 in,194.0,4.5,31.5,17.0,109.0,7.27,4.35,DAL,DB,DB,5.0,143.0
+2009JasoSmit,2009,Jason Smith,OT,Baylor,6 ft 5 in,309.0,5.09,24.0,33.0,96.0,7.53,4.69,STL,T,T,1.0,2.0
+2009SeanSmit,2009,Sean Smith,CB,Utah,6 ft 3 in,214.0,4.47,34.0,10.0,119.0,6.92,4.15,MIA,DB,DB,2.0,61.0
+2009SammStro,2009,Sammie Stroughter,WR,Oregon State,5 ft 9 in,189.0,4.45,30.0,13.0,110.0,7.03,4.28,TAM,WR,WR,7.0,233.0
+2009StrySula,2009,Stryker Sulak,DE,Missouri,6 ft 4 in,251.0,4.63,31.0,22.0,113.0,7.31,4.58,OAK,DE,DE,6.0,199.0
+2009TerrTayl,2009,Terrance Taylor,DT,Michigan,6 ft 0 in,306.0,5.08,30.0,37.0,104.0,7.78,5.06,IND,DT,DT,4.0,136.0
+2009CurtTayl,2009,Curtis Taylor,S,LSU,6 ft 2 in,209.0,4.49,37.5,13.0,129.0,7.25,4.23,SFO,DB,DB,7.0,219.0
+2009MorgTren,2009,Morgan Trent,CB,Michigan,6 ft 1 in,193.0,4.5,38.0,23.0,127.0,7.05,4.01,CIN,DB,DB,6.0,179.0
+2009FenuTupo,2009,Fenuki Tupou,OT,Oregon,6 ft 5 in,314.0,5.2,25.5,24.0,94.0,8.33,5.02,PHI,T,T,5.0,159.0
+2009BranUnde,2009,Brandon Underwood,S,Cincinnati,6 ft 1 in,198.0,4.48,36.5,16.0,125.0,7.0,4.2,GNB,DB,DB,6.0,187.0
+2009TiquUnde,2009,Tiquan Underwood,WR,Rutgers,6 ft 1 in,184.0,4.31,41.5,7.0,129.0,6.62,4.11,JAX,WR,WR,7.0,253.0
+2009Max Unge,2009,Max Unger,C,Oregon,6 ft 5 in,309.0,5.26,24.5,22.0,93.0,7.39,4.5,SEA,C,C,2.0,49.0
+2009KraiUrbi,2009,Kraig Urbik,OG,Wisconsin,6 ft 5 in,328.0,5.25,24.0,29.0,94.0,7.87,4.89,PIT,T,T,3.0,79.0
+2009ChipVaug,2009,Chip Vaughn,S,Wake Forest,6 ft 1 in,221.0,4.42,37.0,21.0,125.0,7.03,4.12,NOR,DB,DB,4.0,116.0
+2009DaviVeik,2009,David Veikune,DE,Hawaii,6 ft 2 in,257.0,4.75,33.0,35.0,110.0,7.2,4.46,CLE,LB,LB,2.0,52.0
+2009MikeWall,2009,Mike Wallace,WR,Mississippi,6 ft 0 in,199.0,4.33,40.0,14.0,129.0,6.9,4.27,PIT,WR,WR,3.0,84.0
+2009DonaWash,2009,Donald Washington,CB,Ohio State,6 ft 0 in,197.0,4.5,45.0,9.0,135.0,6.84,4.2,KAN,DB,DB,4.0,102.0
+2009LardWebb,2009,Lardarius Webb,CB,Nicholls State,5 ft 10 in,179.0,4.35,36.5,15.0,121.0,6.77,4.1,BAL,DB,DB,3.0,88.0
+2009EricWood,2009,Eric Wood,C,Louisville,6 ft 4 in,310.0,5.19,30.5,30.0,99.0,7.56,4.51,BUF,C,C,1.0,28.0
+2009DeAnWrig,2009,DeAndre Wright,CB,New Mexico,5 ft 11 in,198.0,4.52,34.5,17.0,122.0,7.0,4.44,NYG,DB,DB,6.0,200.0
+2009JariWynn,2009,Jarius Wynn,DE,Georgia,6 ft 3 in,275.0,4.94,31.5,19.0,107.0,7.4,4.58,GNB,DE,DE,6.0,182.0
+2010TysoAlua,2010,Tyson Alualu,DE,California,6 ft 2 in,295.0,4.87,35.5,21.0,116.0,7.15,4.43,JAX,DT,DT,1.0,10.0
+2010Pat Ange,2010,Pat Angerer,ILB,Iowa,6 ft 0 in,235.0,4.71,35.0,26.0,110.0,7.04,4.29,IND,LB,LB,2.0,63.0
+2010LarrAsan,2010,Larry Asante,S,Nebraska,6 ft 0 in,212.0,4.62,37.5,14.0,118.0,7.0,4.17,CLE,DB,DB,5.0,160.0
+2010GenoAtki,2010,Geno Atkins,DT,Georgia,6 ft 1 in,293.0,4.75,33.0,34.0,117.0,7.33,4.43,CIN,DT,DT,4.0,120.0
+2010EricBerr,2010,Eric Berry,S,Tennessee,6 ft 0 in,211.0,4.4,43.0,19.0,130.0,6.8,4.23,KAN,DB,DB,1.0,5.0
+2010JahvBest,2010,Jahvid Best,RB,California,5 ft 10 in,199.0,4.34,32.5,18.0,113.0,6.75,4.17,DET,RB,RB,1.0,30.0
+2010DezmBris,2010,Dezmon Briscoe,WR,Kansas,6 ft 2 in,207.0,4.66,33.0,9.0,115.0,7.1,4.57,CIN,WR,WR,6.0,191.0
+2010AntoBrow,2010,Antonio Brown,WR,Central Michigan,5 ft 10 in,186.0,4.56,33.5,13.0,105.0,6.98,4.18,PIT,WR,WR,6.0,195.0
+2010LeviBrow,2010,Levi Brown,QB,Troy,6 ft 3 in,229.0,4.93,31.5,20.0,106.0,7.07,4.43,BUF,QB,QB,7.0,209.0
+2010BryaBula,2010,Bryan Bulaga,OT,Iowa,6 ft 5 in,314.0,5.2,27.5,26.0,98.0,7.7,4.75,GNB,T,T,1.0,23.0
+2010CrezButl,2010,Crezdon Butler,CB,Clemson,6 ft 0 in,191.0,4.43,39.5,17.0,121.0,7.08,4.23,PIT,DB,DB,5.0,164.0
+2010KyleCall,2010,Kyle Calloway,OT,Iowa,6 ft 6 in,323.0,5.46,23.5,22.0,92.0,7.96,4.86,BUF,T,T,7.0,216.0
+2010BrucCamp,2010,Bruce Campbell,OT,Maryland,6 ft 6 in,314.0,4.75,32.0,34.0,101.0,7.58,4.69,OAK,T,T,4.0,106.0
+2010SelvCape,2010,Selvish Capers,OT,West Virginia,6 ft 5 in,308.0,5.11,30.5,19.0,106.0,7.68,4.68,WAS,T,T,7.0,231.0
+2010Kam Chan,2010,Kam Chancellor,S,Virginia Tech,6 ft 3 in,231.0,4.62,32.0,22.0,116.0,7.36,4.41,SEA,DB,DB,5.0,133.0
+2010JamaChan,2010,Jamar Chaney,ILB,Mississippi State,6 ft 1 in,242.0,4.54,39.0,26.0,124.0,6.9,4.29,PHI,LB,LB,7.0,220.0
+2010JohnConn,2010,John Conner,FB,Kentucky,5 ft 11 in,246.0,4.64,35.0,24.0,111.0,7.15,4.32,NYJ,RB,RB,5.0,139.0
+2010KaveConn,2010,Kavell Conner,OLB,Clemson,6 ft 0 in,242.0,4.59,33.5,24.0,110.0,7.36,4.6,IND,LB,LB,7.0,240.0
+2010ChriCook,2010,Chris Cook,CB,Virginia,6 ft 2 in,212.0,4.45,38.0,7.0,132.0,6.88,4.23,MIN,DB,DB,2.0,34.0
+2010AnthDavi,2010,Anthony Davis,OT,Rutgers,6 ft 5 in,323.0,5.36,33.0,21.0,99.0,8.17,4.97,SFO,T,T,1.0,11.0
+2010DextDavi,2010,Dexter Davis,OLB,Arizona State,6 ft 1 in,244.0,4.62,35.0,25.0,109.0,7.08,4.3,SEA,LB,LB,7.0,236.0
+2010ChriDeGe,2010,Chris DeGeare,OG,Wake Forest,6 ft 4 in,325.0,5.12,32.5,27.0,103.0,7.84,4.9,MIN,G,G,5.0,161.0
+2010DoriDick,2010,Dorin Dickerson,TE,Pittsburgh,6 ft 1 in,226.0,4.4,43.5,24.0,125.0,6.96,4.3,HOU,WR,WR,7.0,227.0
+2010Ed DDick,2010,Ed Dickson,TE,Oregon,6 ft 4 in,249.0,4.59,34.0,23.0,115.0,7.32,4.59,BAL,TE,TE,3.0,70.0
+2010AnthDixo,2010,Anthony Dixon,RB,Mississippi State,6 ft 1 in,233.0,4.67,33.0,15.0,121.0,7.09,4.49,SFO,RB,RB,6.0,173.0
+2010VladDuca,2010,Vladimir Ducasse,OT,Massachusetts,6 ft 4 in,332.0,5.21,26.0,29.0,91.0,8.25,4.97,NYJ,T,T,2.0,61.0
+2010CarlDunl,2010,Carlos Dunlap,DE,Florida,6 ft 6 in,277.0,4.68,31.5,21.0,111.0,7.21,4.61,CIN,DE,DE,2.0,54.0
+2010JonaDwye,2010,Jonathan Dwyer,RB,Georgia Tech,5 ft 11 in,229.0,4.64,33.0,15.0,107.0,7.56,4.67,PIT,RB,RB,6.0,188.0
+2010MarcEasl,2010,Marcus Easley,WR,Connecticut,6 ft 3 in,210.0,4.39,34.0,16.0,123.0,6.94,4.6,BUF,WR,WR,4.0,107.0
+2010A.J.Edds,2010,A.J. Edds,OLB,Iowa,6 ft 4 in,246.0,4.62,33.0,16.0,117.0,7.19,4.28,MIA,LB,LB,4.0,119.0
+2010JacoFord,2010,Jacoby Ford,WR,Clemson,5 ft 9 in,186.0,4.28,33.5,15.0,115.0,7.0,4.44,OAK,WR,WR,4.0,108.0
+2010DomiFran,2010,Dominique Franks,CB,Oklahoma,5 ft 11 in,194.0,4.46,33.5,10.0,117.0,7.32,4.33,ATL,DB,DB,5.0,135.0
+2010TobyGerh,2010,Toby Gerhart,RB,Stanford,6 ft 0 in,231.0,4.5,38.0,22.0,118.0,6.94,4.25,MIN,RB,RB,2.0,51.0
+2010DaviGett,2010,David Gettis,WR,Baylor,6 ft 3 in,217.0,4.43,34.5,15.0,124.0,6.94,4.41,CAR,WR,WR,6.0,198.0
+2010BranGhee,2010,Brandon Ghee,CB,Wake Forest,6 ft 0 in,192.0,4.37,37.0,15.0,127.0,6.75,4.07,CIN,DB,DB,3.0,96.0
+2010ThadGibs,2010,Thaddeus Gibson,OLB,Ohio State,6 ft 2 in,243.0,4.78,32.0,32.0,115.0,6.84,4.27,PIT,DE,DE,4.0,116.0
+2010TravGoet,2010,Travis Goethel,ILB,Arizona State,6 ft 2 in,240.0,4.81,35.0,21.0,111.0,6.93,4.54,OAK,LB,LB,6.0,190.0
+2010GarrGrah,2010,Garrett Graham,TE,Wisconsin,6 ft 3 in,243.0,4.71,34.5,20.0,112.0,7.09,4.35,HOU,TE,TE,4.0,118.0
+2010JermGres,2010,Jermaine Gresham,TE,Oklahoma,6 ft 5 in,261.0,4.66,35.0,20.0,113.0,7.07,4.53,CIN,TE,TE,1.0,21.0
+2010Joe Hade,2010,Joe Haden,CB,Florida,5 ft 11 in,193.0,4.52,35.0,18.0,125.0,6.94,4.34,CLE,DB,DB,1.0,7.0
+2010MontHard,2010,Montario Hardesty,RB,Tennessee,6 ft 0 in,225.0,4.49,41.0,21.0,124.0,6.87,4.14,CLE,RB,RB,2.0,59.0
+2010GregHard,2010,Greg Hardy,DE,Mississippi,6 ft 4 in,281.0,4.82,35.0,21.0,117.0,7.25,4.65,CAR,DE,DE,6.0,175.0
+2010Joe Hawl,2010,Joe Hawley,C,UNLV,6 ft 3 in,297.0,5.21,26.0,35.0,105.0,7.5,4.73,ATL,C,C,4.0,117.0
+2010TrinHoll,2010,Trindon Holliday,WR,LSU,5 ft 5 in,166.0,4.34,42.0,10.0,116.0,6.54,4.48,HOU,WR,WR,6.0,197.0
+2010LamaHous,2010,Lamarr Houston,DT,Texas,6 ft 3 in,305.0,4.84,33.5,30.0,114.0,7.61,4.71,OAK,DE,DE,2.0,44.0
+2010JerrHugh,2010,Jerry Hughes,OLB,TCU,6 ft 2 in,255.0,4.65,34.5,26.0,118.0,6.99,4.15,IND,DE,DE,1.0,31.0
+2010JoshHull,2010,Josh Hull,ILB,Penn State,6 ft 3 in,237.0,4.93,32.5,25.0,115.0,6.86,4.07,STL,LB,LB,7.0,254.0
+2010MikeIupa,2010,Mike Iupati,OG,Idaho,6 ft 5 in,331.0,5.24,27.5,27.0,92.0,7.85,4.93,SFO,G,G,1.0,17.0
+2010KareJack,2010,Kareem Jackson,CB,Alabama,5 ft 10 in,196.0,4.4,37.5,13.0,118.0,6.92,4.14,HOU,DB,DB,1.0,20.0
+2010ReshJone,2010,Reshad Jones,S,Georgia,6 ft 1 in,214.0,4.51,39.5,24.0,118.0,7.43,4.54,MIA,DB,DB,5.0,163.0
+2010ChadJone,2010,Chad Jones,S,LSU,6 ft 2 in,221.0,4.59,36.0,9.0,115.0,6.83,4.14,NYG,DB,DB,3.0,76.0
+2010LinvJose,2010,Linval Joseph,DT,East Carolina,6 ft 4 in,328.0,5.09,30.0,39.0,100.0,8.12,4.71,NYG,DT,DT,2.0,46.0
+2010SergKind,2010,Sergio Kindle,OLB,Texas,6 ft 3 in,250.0,4.65,36.5,25.0,118.0,7.26,4.53,BAL,LB,LB,2.0,43.0
+2010JammKirl,2010,Jammie Kirlew,DE,Indiana,6 ft 1 in,260.0,5.05,33.0,26.0,111.0,7.5,4.74,DEN,DE,DE,7.0,232.0
+2010Ted Lars,2010,Ted Larsen,C,North Carolina State,6 ft 3 in,304.0,5.19,24.0,26.0,96.0,7.81,4.66,NWE,C,C,6.0,205.0
+2010ShawLauv,2010,Shawn Lauvao,OG,Arizona State,6 ft 3 in,315.0,5.22,26.5,33.0,101.0,7.56,4.51,CLE,G,G,3.0,92.0
+2010KendLewi,2010,Kendrick Lewis,S,Mississippi,6 ft 0 in,198.0,4.73,31.5,16.0,116.0,6.88,4.33,KAN,DB,DB,5.0,136.0
+2010TrevLind,2010,Trevard Lindley,CB,Kentucky,5 ft 11 in,183.0,4.51,38.5,9.0,116.0,6.81,4.27,PHI,DB,DB,4.0,105.0
+2010RyanMath,2010,Ryan Mathews,RB,Fresno State,6 ft 0 in,218.0,4.37,36.0,19.0,121.0,7.0,4.33,SDG,RB,RB,1.0,12.0
+2010DeviMcCo,2010,Devin McCourty,CB,Rutgers,5 ft 11 in,193.0,4.38,36.0,16.0,126.0,6.7,4.07,NWE,DB,DB,1.0,27.0
+2010AnthMcCo,2010,Anthony McCoy,TE,USC,6 ft 4 in,259.0,4.71,35.5,19.0,113.0,6.99,4.57,SEA,TE,TE,6.0,185.0
+2010GeraMcCo,2010,Gerald McCoy,DT,Oklahoma,6 ft 4 in,295.0,5.04,30.5,23.0,114.0,7.32,4.48,TAM,DT,DT,1.0,3.0
+2010CarlMitc,2010,Carlton Mitchell,WR,South Florida,6 ft 3 in,215.0,4.46,36.0,16.0,122.0,6.96,4.55,CLE,WR,WR,6.0,177.0
+2010EarlMitc,2010,Earl Mitchell,DT,Arizona,6 ft 2 in,296.0,4.75,28.5,25.0,107.0,7.68,4.55,HOU,DT,DT,3.0,81.0
+2010ArthMoat,2010,Arthur Moats,OLB,James Madison,6 ft 0 in,246.0,4.64,36.5,24.0,122.0,7.22,4.37,BUF,LB,LB,6.0,178.0
+2010TonyMoea,2010,Tony Moeaki,TE,Iowa,6 ft 3 in,245.0,4.69,34.0,18.0,113.0,7.1,4.42,KAN,TE,TE,3.0,93.0
+2010JoshMoor,2010,Joshua Moore,CB,Kansas State,5 ft 11 in,188.0,4.5,36.5,2.0,122.0,6.74,4.07,CHI,DB,DB,5.0,141.0
+2010RoddMuck,2010,Roddrick Muckelroy,OLB,Texas,6 ft 2 in,246.0,4.68,31.0,19.0,110.0,7.25,4.39,CIN,LB,LB,4.0,131.0
+2010JeroMurp,2010,Jerome Murphy,CB,South Florida,6 ft 0 in,196.0,4.5,38.0,16.0,127.0,6.87,4.05,STL,DB,DB,3.0,65.0
+2010MikeNeal,2010,Mike Neal,DT,Purdue,6 ft 3 in,294.0,4.87,33.0,31.0,113.0,7.53,4.53,GNB,DE,DE,2.0,56.0
+2010MarsNewh,2010,Marshall Newhouse,OG,TCU,6 ft 4 in,319.0,4.99,25.0,25.0,97.0,7.4,4.6,GNB,G,G,5.0,169.0
+2010JareOdri,2010,Jared Odrick,DT,Penn State,6 ft 5 in,304.0,5.03,29.0,26.0,106.0,7.22,4.59,MIA,DE,DE,1.0,28.0
+2010EricOlse,2010,Eric Olsen,C,Notre Dame,6 ft 4 in,306.0,5.25,29.5,35.0,93.0,7.5,4.82,DEN,C,C,6.0,183.0
+2010JasoPier,2010,Jason Pierre-Paul,DE,South Florida,6 ft 5 in,270.0,4.71,30.5,19.0,115.0,7.18,4.67,NYG,DE,DE,1.0,15.0
+2010DennPitt,2010,Dennis Pitta,TE,BYU,6 ft 4 in,245.0,4.68,34.0,27.0,113.0,6.72,4.17,BAL,TE,TE,4.0,114.0
+2010TaylPric,2010,Taylor Price,WR,Ohio,6 ft 0 in,204.0,4.4,37.0,16.0,114.0,6.82,4.34,NWE,WR,WR,3.0,90.0
+2010DaviReed,2010,David Reed,WR,Utah,6 ft 0 in,191.0,4.56,37.0,15.0,114.0,6.95,4.38,BAL,WR,WR,5.0,156.0
+2010AndrRobe,2010,Andre Roberts,WR,Citadel,5 ft 11 in,195.0,4.4,36.0,15.0,120.0,6.77,4.15,ARI,WR,WR,3.0,88.0
+2010MyroRoll,2010,Myron Rolle,S,Florida State,6 ft 2 in,215.0,4.59,36.0,21.0,124.0,6.94,4.15,TEN,DB,DB,6.0,207.0
+2010RodgSaff,2010,Rodger Saffold,OT,Indiana,6 ft 5 in,316.0,5.21,29.5,27.0,113.0,7.42,4.67,STL,T,T,2.0,33.0
+2010EmmaSand,2010,Emmanuel Sanders,WR,SMU,5 ft 11 in,186.0,4.4,39.5,12.0,126.0,6.64,4.1,PIT,WR,WR,3.0,82.0
+2010RickSapp,2010,Ricky Sapp,OLB,Clemson,6 ft 4 in,252.0,4.65,34.0,23.0,114.0,7.29,4.41,PHI,DE,DE,5.0,134.0
+2010ChriScot,2010,Chris Scott,OG,Tennessee,6 ft 5 in,319.0,5.52,22.5,19.0,90.0,8.24,5.03,PIT,G,G,5.0,151.0
+2010GeorSelv,2010,George Selvie,DE,South Florida,6 ft 4 in,252.0,4.93,30.5,24.0,109.0,7.48,4.63,STL,DE,DE,7.0,226.0
+2010ShelSmit,2010,Shelley Smith,OG,Colorado State,6 ft 3 in,300.0,5.03,34.0,26.0,112.0,7.67,4.71,HOU,G,G,6.0,187.0
+2010JameStar,2010,James Starks,RB,Buffalo,6 ft 2 in,218.0,4.5,36.0,15.0,119.0,6.89,4.23,GNB,RB,RB,6.0,193.0
+2010NdamSuh,2010,Ndamukong Suh,DT,Nebraska,6 ft 4 in,307.0,5.03,35.5,32.0,105.0,7.21,4.44,DET,DT,DT,1.0,2.0
+2010Ben Tate,2010,Ben Tate,RB,Auburn,5 ft 11 in,220.0,4.34,40.5,26.0,124.0,6.91,4.12,HOU,RB,RB,2.0,58.0
+2010GoldTate,2010,Golden Tate,WR,Notre Dame,5 ft 10 in,199.0,4.42,35.0,17.0,120.0,7.12,4.34,SEA,WR,WR,2.0,60.0
+2010DaniTe'o,2010,Daniel Te'o-Nesheim,DE,Washington,6 ft 3 in,263.0,4.73,37.0,29.0,121.0,6.91,4.18,PHI,DE,DE,3.0,86.0
+2010MattTenn,2010,Matt Tennant,C,Boston Col.,6 ft 5 in,300.0,5.15,25.0,27.0,98.0,7.6,4.62,NOR,C,C,5.0,158.0
+2010Cam Thom,2010,Cam Thomas,DT,North Carolina,6 ft 4 in,330.0,5.16,29.0,31.0,102.0,7.68,4.78,SDG,DT,DT,5.0,146.0
+2010KeviThom,2010,Kevin Thomas,CB,USC,6 ft 0 in,192.0,4.41,34.5,19.0,126.0,6.82,4.18,IND,DB,DB,3.0,94.0
+2010AdriTrac,2010,Adrian Tracy,OLB,William & Mary,6 ft 3 in,248.0,4.76,35.5,20.0,110.0,7.08,4.34,NYG,DE,DE,6.0,184.0
+2010NateTrip,2010,Nate Triplett,OLB,Minnesota,6 ft 3 in,250.0,4.7,33.0,20.0,115.0,7.02,4.37,MIN,LB,LB,5.0,167.0
+2010ToreTrou,2010,Torell Troup,DT,Central Florida,6 ft 3 in,314.0,5.12,29.0,34.0,98.0,7.61,4.73,BUF,DT,DT,2.0,41.0
+2010JareVeld,2010,Jared Veldheer,OT,Hillsdale,6 ft 8 in,312.0,5.06,33.5,32.0,109.0,7.4,4.51,OAK,T,T,3.0,69.0
+2010AlteVern,2010,Alterraun Verner,CB,UCLA,5 ft 10 in,189.0,4.52,32.0,11.0,116.0,6.7,4.12,TEN,DB,DB,4.0,104.0
+2010J.D.Walt,2010,J.D. Walton,C,Baylor,6 ft 3 in,300.0,5.19,27.0,24.0,101.0,7.6,4.69,DEN,C,C,3.0,80.0
+2010DekoWats,2010,Dekoda Watson,OLB,Florida State,6 ft 1 in,240.0,4.55,40.0,24.0,134.0,7.06,4.11,TAM,LB,LB,7.0,217.0
+2010SeanWeat,2010,Sean Weatherspoon,OLB,Missouri,6 ft 1 in,239.0,4.62,40.0,34.0,123.0,6.99,4.38,ATL,LB,LB,1.0,19.0
+2010ThomWelc,2010,Thomas Welch,OT,Vanderbilt,6 ft 6 in,307.0,5.42,29.0,29.0,105.0,7.67,4.8,NWE,T,T,7.0,208.0
+2010DamiWill,2010,Damian Williams,WR,USC,6 ft 1 in,197.0,4.52,38.0,19.0,118.0,6.79,4.24,TEN,WR,WR,3.0,77.0
+2010Dan Will,2010,Dan Williams,DT,Tennessee,6 ft 2 in,327.0,5.19,32.0,27.0,96.0,7.88,4.87,ARI,DT,DT,1.0,26.0
+2010KyleWill,2010,Kyle Williams,WR,Arizona State,5 ft 10 in,188.0,4.4,33.0,11.0,118.0,7.0,4.19,SFO,WR,WR,6.0,206.0
+2010MikeWill,2010,Mike Williams,WR,Syracuse,6 ft 1 in,221.0,4.53,33.5,8.0,116.0,6.9,4.31,TAM,WR,WR,4.0,101.0
+2010TrenWill,2010,Trent Williams,OT,Oklahoma,6 ft 5 in,315.0,4.81,34.5,23.0,113.0,7.64,4.63,WAS,T,T,1.0,4.0
+2010JasoWori,2010,Jason Worilds,OLB,Virginia Tech,6 ft 1 in,254.0,4.65,38.0,24.0,114.0,6.95,4.29,PIT,DE,DE,2.0,52.0
+2010MajoWrig,2010,Major Wright,S,Florida,5 ft 11 in,206.0,4.44,37.5,14.0,119.0,6.95,4.36,CHI,DB,DB,3.0,75.0
+2010Sam Youn,2010,Sam Young,OT,Notre Dame,6 ft 8 in,316.0,5.2,29.5,29.0,104.0,7.73,4.87,DAL,T,T,6.0,179.0
+2010WillYoun,2010,Willie Young,DE,North Carolina State,6 ft 5 in,251.0,4.88,38.0,25.0,118.0,7.24,4.56,DET,DE,DE,7.0,213.0
+2011Sam Acho,2011,Sam Acho,OLB,Texas,6 ft 2 in,262.0,4.67,33.5,23.0,112.0,6.69,4.32,ARI,DE,DE,4.0,103.0
+2011AnthAlle,2011,Anthony Allen,RB,Georgia Tech,6 ft 1 in,228.0,4.56,41.5,24.0,120.0,6.79,4.06,BAL,RB,RB,7.0,225.0
+2011CortAlle,2011,Cortez Allen,CB,Citadel,6 ft 1 in,197.0,4.5,35.5,18.0,129.0,6.76,4.01,PIT,DB,DB,4.0,128.0
+2011PrinAmuk,2011,Prince Amukamara,CB,Nebraska,6 ft 0 in,206.0,4.38,38.0,15.0,128.0,6.97,4.08,NYG,DB,DB,1.0,19.0
+2011DaviArki,2011,David Arkin,OG,Missouri State,6 ft 5 in,300.0,5.31,29.0,25.0,103.0,7.6,4.63,DAL,G,G,4.0,110.0
+2011MarvAust,2011,Marvin Austin,DT,North Carolina,6 ft 2 in,309.0,4.84,30.5,38.0,112.0,7.33,4.4,NYG,DT,DT,2.0,52.0
+2011AkeeAyer,2011,Akeem Ayers,OLB,UCLA,6 ft 2 in,254.0,4.81,31.0,18.0,116.0,7.49,4.28,TEN,LB,LB,2.0,39.0
+2011AlleBail,2011,Allen Bailey,DE,Miami (FL),6 ft 3 in,285.0,4.71,36.5,27.0,117.0,7.43,4.56,KAN,DE,DE,3.0,86.0
+2011Joe Bark,2011,Joe Barksdale,OT,LSU,6 ft 5 in,325.0,5.31,29.0,29.0,103.0,8.27,4.75,OAK,T,T,3.0,92.0
+2011JereBeal,2011,Jeremy Beal,DE,Oklahoma,6 ft 2 in,262.0,5.14,28.5,22.0,106.0,7.19,4.46,DEN,DL,DE,7.0,247.0
+2011AhmaBlac,2011,Ahmad Black,S,Florida,5 ft 9 in,184.0,4.7,35.5,18.0,119.0,6.85,4.2,TAM,DB,DB,5.0,151.0
+2011ClinBoli,2011,Clint Boling,OG,Georgia,6 ft 5 in,308.0,5.28,31.0,28.0,102.0,7.66,4.64,CIN,G,G,4.0,101.0
+2011AlleBrad,2011,Allen Bradford,RB,USC,5 ft 11 in,242.0,4.53,29.0,28.0,113.0,6.97,4.39,TAM,RB,RB,6.0,187.0
+2011JameBrew,2011,James Brewer,OT,Indiana,6 ft 6 in,323.0,5.21,26.0,25.0,100.0,7.84,4.81,NYG,T,T,4.0,117.0
+2011CurtBrow,2011,Curtis Brown,CB,Texas,6 ft 0 in,185.0,4.51,39.5,10.0,128.0,6.59,4.0,PIT,DB,DB,3.0,95.0
+2011JaliBrow,2011,Jalil Brown,CB,Colorado,6 ft 1 in,204.0,4.52,35.5,24.0,116.0,6.85,4.25,KAN,DB,DB,4.0,118.0
+2011VincBrow,2011,Vincent Brown,WR,San Diego State,5 ft 11 in,187.0,4.68,33.5,12.0,121.0,6.64,4.25,SDG,WR,WR,3.0,82.0
+2011BranBurt,2011,Brandon Burton,CB,Utah,6 ft 0 in,190.0,4.5,32.0,18.0,118.0,6.93,4.07,MIN,DB,DB,5.0,139.0
+2011StepBurt,2011,Stephen Burton,WR,West Texas A&M,6 ft 1 in,221.0,4.5,34.5,19.0,117.0,7.04,4.31,MIN,WR,WR,7.0,236.0
+2011JordCame,2011,Jordan Cameron,TE,USC,6 ft 5 in,254.0,4.53,37.5,23.0,119.0,6.82,4.03,CLE,TE,TE,4.0,102.0
+2011MarcCann,2011,Marcus Cannon,OT,TCU,6 ft 5 in,358.0,5.26,30.5,33.0,105.0,8.07,4.97,NWE,T,T,5.0,138.0
+2011Roc Carm,2011,Roc Carmichael,CB,Virginia Tech,5 ft 10 in,192.0,4.41,31.0,13.0,116.0,6.69,4.06,HOU,DB,DB,4.0,127.0
+2011ChriCart,2011,Chris Carter,OLB,Fresno State,6 ft 1 in,248.0,4.58,36.0,27.0,114.0,6.88,4.34,PIT,LB,LB,5.0,162.0
+2011DeloCart,2011,Delone Carter,RB,Syracuse,5 ft 9 in,222.0,4.54,37.0,27.0,120.0,6.92,4.07,IND,RB,RB,4.0,119.0
+2011QuinCart,2011,Quinton Carter,S,Oklahoma,6 ft 1 in,208.0,4.57,34.5,23.0,121.0,7.05,4.06,DEN,DB,DB,4.0,108.0
+2011JurrCase,2011,Jurrell Casey,DT,USC,6 ft 1 in,300.0,5.04,27.5,26.0,101.0,7.51,4.78,TEN,DT,DT,3.0,77.0
+2011AnthCast,2011,Anthony Castonzo,OT,Boston Col.,6 ft 7 in,311.0,5.21,29.5,28.0,105.0,7.25,4.4,IND,T,T,1.0,22.0
+2011ShauChap,2011,Shaun Chapas,FB,Georgia,6 ft 2 in,247.0,4.87,35.5,23.0,116.0,7.13,4.4,DAL,RB,RB,7.0,220.0
+2011CharClay,2011,Charles Clay,FB,Tulsa,6 ft 3 in,245.0,4.69,33.5,18.0,118.0,7.07,4.15,MIA,TE,TE,6.0,174.0
+2011RandCobb,2011,Randall Cobb,WR,Kentucky,5 ft 10 in,191.0,4.46,33.5,16.0,115.0,7.08,4.34,GNB,WR,WR,2.0,64.0
+2011ChriCont,2011,Chris Conte,S,California,6 ft 2 in,197.0,4.52,35.5,18.0,127.0,7.01,4.19,CHI,DB,DB,3.0,93.0
+2011RickElmo,2011,Ricky Elmore,DE,Arizona,6 ft 4 in,255.0,4.88,31.5,26.0,106.0,7.25,4.32,GNB,DL,DE,6.0,197.0
+2011MasoFost,2011,Mason Foster,OLB,Washington,6 ft 1 in,245.0,4.75,31.0,22.0,110.0,7.14,4.45,TAM,LB,LB,3.0,84.0
+2011SionFua,2011,Sione Fua,DT,Stanford,6 ft 1 in,308.0,5.28,24.0,30.0,101.0,7.54,4.54,CAR,DT,DT,3.0,97.0
+2011BranFusc,2011,Brandon Fusco,C,Slippery Rock,6 ft 4 in,306.0,5.18,28.5,26.0,108.0,7.29,4.43,MIN,C,C,6.0,172.0
+2011MarcGilc,2011,Marcus Gilchrist,CB,Clemson,5 ft 10 in,195.0,4.45,38.5,26.0,119.0,6.81,4.12,SDG,DB,DB,2.0,50.0
+2011A.J.Gree,2011,A.J. Green,WR,Georgia,6 ft 4 in,211.0,4.48,34.5,18.0,126.0,6.91,4.21,CIN,WR,WR,1.0,4.0
+2011AlexGree,2011,Alex Green,RB,Hawaii,6 ft 0 in,225.0,4.45,34.0,20.0,114.0,6.91,4.15,GNB,RB,RB,3.0,96.0
+2011VirgGree,2011,Virgil Green,TE,Nevada,6 ft 3 in,249.0,4.54,42.5,23.0,130.0,6.9,4.4,DEN,TE,TE,7.0,204.0
+2011EricHagg,2011,Eric Hagg,S,Nebraska,6 ft 1 in,209.0,4.62,34.5,18.0,121.0,6.73,4.19,CLE,DB,DB,7.0,248.0
+2011ChriHair,2011,Chris Hairston,OT,Clemson,6 ft 6 in,326.0,5.38,29.0,33.0,96.0,7.9,4.7,BUF,T,T,4.0,122.0
+2011LeonHank,2011,Leonard Hankerson,WR,Miami (FL),6 ft 1 in,209.0,4.4,36.0,14.0,117.0,6.94,4.21,WAS,WR,WR,3.0,79.0
+2011JamiHarp,2011,Jamie Harper,RB,Clemson,5 ft 11 in,233.0,4.53,36.5,24.0,120.0,7.16,4.39,TEN,RB,RB,4.0,130.0
+2011BranHarr,2011,Brandon Harris,CB,Miami (FL),5 ft 9 in,191.0,4.46,35.5,13.0,113.0,6.77,4.12,HOU,DB,DB,2.0,60.0
+2011DwayHarr,2011,Dwayne Harris,WR,East Carolina,5 ft 10 in,203.0,4.53,34.0,10.0,111.0,6.77,4.21,DAL,WR,WR,6.0,176.0
+2011Roy Helu,2011,Roy Helu,RB,Nebraska,5 ft 11 in,219.0,4.4,36.5,11.0,119.0,6.67,4.01,WAS,RB,RB,4.0,105.0
+2011DougHogu,2011,Doug Hogue,OLB,Syracuse,6 ft 2 in,235.0,4.62,36.0,18.0,121.0,7.09,4.57,DET,LB,LB,5.0,157.0
+2011RossHoma,2011,Ross Homan,OLB,Ohio State,6 ft 1 in,240.0,4.66,35.5,32.0,111.0,7.21,4.34,MIN,LB,LB,6.0,200.0
+2011DavoHous,2011,Davon House,CB,New Mexico State,6 ft 0 in,200.0,4.44,33.5,14.0,109.0,6.65,4.12,GNB,DB,DB,4.0,131.0
+2011Rob Hous,2011,Rob Housler,TE,Florida Atlantic,6 ft 5 in,248.0,4.46,37.0,22.0,117.0,6.9,4.21,ARI,TE,TE,3.0,69.0
+2011JustHous,2011,Justin Houston,OLB,Georgia,6 ft 3 in,270.0,4.62,36.5,30.0,125.0,6.95,4.37,KAN,LB,LB,3.0,70.0
+2011RodnHuds,2011,Rodney Hudson,C,Florida State,6 ft 2 in,299.0,5.27,25.5,27.0,95.0,8.03,4.96,KAN,C,C,2.0,55.0
+2011KendHunt,2011,Kendall Hunter,RB,Oklahoma State,5 ft 7 in,199.0,4.46,35.0,24.0,122.0,6.74,4.21,SFO,RB,RB,4.0,115.0
+2011MarkIngr,2011,Mark Ingram,RB,Alabama,5 ft 9 in,215.0,4.62,31.5,21.0,118.0,7.13,4.62,NOR,RB,RB,1.0,28.0
+2011AndrJack,2011,Andrew Jackson,OG,Fresno State,6 ft 5 in,299.0,5.27,28.0,25.0,98.0,7.55,4.65,ATL,OL,G,7.0,210.0
+2011JaiqJarr,2011,Jaiquawn Jarrett,S,Temple,6 ft 0 in,198.0,4.62,30.0,14.0,113.0,6.95,4.14,PHI,DB,DB,2.0,54.0
+2011JarvJenk,2011,Jarvis Jenkins,DT,Clemson,6 ft 4 in,310.0,5.03,26.5,17.0,98.0,7.42,4.83,WAS,DT,DT,2.0,41.0
+2011JerrJern,2011,Jerrel Jernigan,WR,Troy,5 ft 9 in,185.0,4.46,37.5,11.0,124.0,7.07,4.25,NYG,WR,WR,3.0,83.0
+2011GregJone,2011,Greg Jones,ILB,Michigan State,6 ft 0 in,242.0,4.75,31.5,21.0,117.0,7.27,4.27,NYG,LB,LB,6.0,185.0
+2011JuliJone,2011,Julio Jones,WR,Alabama,6 ft 3 in,220.0,4.34,38.5,17.0,135.0,6.66,4.25,ATL,WR,WR,1.0,6.0
+2011CameJord,2011,Cameron Jordan,DE,California,6 ft 4 in,287.0,4.74,31.0,25.0,117.0,7.07,4.37,NOR,DE,DE,1.0,24.0
+2011LancKend,2011,Lance Kendricks,TE,Wisconsin,6 ft 3 in,243.0,4.65,34.5,25.0,122.0,6.94,4.15,STL,TE,TE,2.0,47.0
+2011ShilKeo,2011,Shiloh Keo,S,Idaho,5 ft 11 in,219.0,4.74,32.5,24.0,110.0,6.55,3.9,HOU,DB,DB,5.0,144.0
+2011RyanKerr,2011,Ryan Kerrigan,DE,Purdue,6 ft 4 in,267.0,4.67,33.5,31.0,122.0,7.18,4.39,WAS,DE,DE,1.0,16.0
+2011DaniKilg,2011,Daniel Kilgore,OG,Appalachian State,6 ft 3 in,308.0,5.28,32.5,23.0,105.0,7.59,4.68,SFO,G,G,5.0,163.0
+2011MarkLeGr,2011,Mark LeGree,S,Appalachian State,5 ft 11 in,210.0,4.49,31.0,21.0,116.0,6.9,4.09,SEA,DB,DB,5.0,156.0
+2011MikeLesh,2011,Mikel Leshoure,RB,Illinois,6 ft 0 in,227.0,4.56,38.0,21.0,122.0,6.82,4.4,DET,RB,RB,2.0,57.0
+2011DionLewi,2011,Dion Lewis,RB,Pittsburgh,5 ft 7 in,193.0,4.56,34.5,17.0,112.0,6.9,4.18,PHI,RB,RB,5.0,149.0
+2011GregLitt,2011,Greg Little,WR,North Carolina,6 ft 2 in,231.0,4.51,40.5,27.0,129.0,6.8,4.21,CLE,WR,WR,2.0,59.0
+2011CoreLiug,2011,Corey Liuget,DT,Illinois,6 ft 2 in,298.0,4.97,27.5,27.0,102.0,7.48,4.68,SDG,DT,DT,1.0,18.0
+2011GregLloy,2011,Greg Lloyd,ILB,Connecticut,6 ft 1 in,246.0,4.8,32.0,22.0,109.0,7.17,4.46,PHI,LB,LB,7.0,237.0
+2011OwenMare,2011,Owen Marecic,FB,Stanford,6 ft 0 in,248.0,4.87,28.5,22.0,102.0,7.1,4.56,CLE,RB,RB,4.0,124.0
+2011CurtMars,2011,Curtis Marsh,CB,Utah State,6 ft 0 in,197.0,4.42,37.5,12.0,123.0,6.87,4.07,PHI,DB,DB,3.0,90.0
+2011ClifMatt,2011,Cliff Matthews,DE,South Carolina,6 ft 3 in,257.0,4.81,32.0,17.0,112.0,7.21,4.37,ATL,DE,DE,7.0,230.0
+2011ColiMcCa,2011,Colin McCarthy,ILB,Miami (FL),6 ft 1 in,238.0,4.59,36.5,23.0,119.0,6.93,4.2,TEN,LB,LB,4.0,109.0
+2011TerrMcCl,2011,Terrell McClain,DT,South Florida,6 ft 2 in,297.0,4.98,28.0,29.0,104.0,7.48,4.56,CAR,DT,DT,3.0,65.0
+2011PernMcPh,2011,Pernell McPhee,DE,Mississippi State,6 ft 3 in,278.0,4.91,28.5,20.0,107.0,7.13,4.59,BAL,DE,DE,5.0,165.0
+2011BrucMill,2011,Bruce Miller,OLB,Central Florida,6 ft 1 in,254.0,4.81,31.0,35.0,113.0,7.05,4.34,SFO,DE,DE,7.0,211.0
+2011Von Mill,2011,Von Miller,OLB,Texas A&M,6 ft 3 in,246.0,4.42,37.0,21.0,126.0,6.7,4.06,DEN,LB,LB,1.0,2.0
+2011DontMoch,2011,Dontay Moch,OLB,Nevada,6 ft 1 in,248.0,4.4,42.0,21.0,128.0,7.09,4.38,CIN,LB,LB,3.0,66.0
+2011JohnMoff,2011,John Moffitt,OG,Wisconsin,6 ft 4 in,319.0,5.51,30.5,23.0,102.0,7.79,4.53,SEA,G,G,3.0,75.0
+2011MikeMoha,2011,Mike Mohamed,ILB,California,6 ft 3 in,239.0,4.65,32.0,21.0,115.0,6.7,4.0,DEN,LB,LB,6.0,189.0
+2011DenaMoor,2011,Denarius Moore,WR,Tennessee,6 ft 0 in,194.0,4.43,36.0,13.0,118.0,6.78,4.15,OAK,WR,WR,5.0,148.0
+2011RahiMoor,2011,Rahim Moore,S,UCLA,6 ft 0 in,202.0,4.58,35.0,11.0,115.0,6.98,3.96,DEN,DB,DB,2.0,45.0
+2011DeMaMurr,2011,DeMarco Murray,RB,Oklahoma,6 ft 0 in,213.0,4.37,34.5,21.0,124.0,7.28,4.18,DAL,RB,RB,3.0,71.0
+2011ChriNeil,2011,Chris Neild,DT,West Virginia,6 ft 2 in,319.0,5.06,29.0,30.0,106.0,7.56,4.46,WAS,DT,DT,7.0,253.0
+2011DrakNevi,2011,Drake Nevis,DT,LSU,6 ft 1 in,294.0,5.06,30.5,31.0,112.0,7.71,4.65,IND,DT,DT,3.0,87.0
+2011DereNewt,2011,Derek Newton,OT,Arkansas State,6 ft 5 in,311.0,5.0,25.5,24.0,100.0,7.76,5.0,HOU,T,T,7.0,214.0
+2011ChetOzou,2011,Cheta Ozougwu,DE,Rice,6 ft 2 in,247.0,4.84,34.5,26.0,119.0,7.06,4.31,HOU,DE,DE,7.0,254.0
+2011NilePaul,2011,Niles Paul,WR,Nebraska,6 ft 1 in,224.0,4.45,34.5,24.0,117.0,6.9,4.14,WAS,WR,WR,5.0,155.0
+2011PatrPete,2011,Patrick Peterson,CB,LSU,6 ft 0 in,219.0,4.31,38.0,15.0,126.0,6.58,4.07,ARI,DB,DB,1.0,5.0
+2011AustPett,2011,Austin Pettis,WR,Boise State,6 ft 3 in,209.0,4.56,33.5,14.0,120.0,6.68,3.88,STL,WR,WR,3.0,78.0
+2011JerrPowe,2011,Jerrell Powe,DT,Mississippi,6 ft 2 in,335.0,5.25,25.0,27.0,93.0,8.17,5.06,KAN,DT,DT,6.0,199.0
+2011RobeQuin,2011,Robert Quinn,DE,North Carolina,6 ft 4 in,265.0,4.62,34.0,22.0,116.0,7.13,4.4,STL,DE,DE,1.0,14.0
+2011WillRack,2011,Will Rackley,OG,Lehigh,6 ft 3 in,309.0,5.39,23.5,29.0,99.0,7.91,4.94,JAX,G,G,3.0,76.0
+2011BrooReed,2011,Brooks Reed,OLB,Arizona,6 ft 2 in,263.0,4.65,30.5,30.0,113.0,7.11,4.28,HOU,LB,LB,2.0,42.0
+2011D'AuReed,2011,D'Aundre Reed,DE,Arizona,6 ft 4 in,261.0,4.84,35.5,30.0,119.0,7.24,4.32,MIN,DE,DE,7.0,215.0
+2011Jah Reid,2011,Jah Reid,OT,Central Florida,6 ft 7 in,327.0,5.32,29.5,28.0,111.0,7.73,4.65,BAL,T,T,3.0,85.0
+2011StevRidl,2011,Stevan Ridley,RB,LSU,5 ft 11 in,225.0,4.65,36.0,18.0,118.0,6.78,4.21,NWE,RB,RB,3.0,73.0
+2011AldrRobi,2011,Aldrick Robinson,WR,SMU,5 ft 10 in,184.0,4.35,40.0,17.0,126.0,6.65,4.09,WAS,WR,WR,6.0,178.0
+2011JustRoge,2011,Justin Rogers,CB,Richmond,5 ft 10 in,180.0,4.45,33.0,14.0,114.0,7.21,4.2,BUF,DB,DB,7.0,206.0
+2011BriaRoll,2011,Brian Rolle,OLB,Ohio State,5 ft 10 in,229.0,4.53,33.0,28.0,115.0,6.89,4.26,PHI,LB,LB,6.0,193.0
+2011EvanRoys,2011,Evan Royster,RB,Penn State,6 ft 0 in,212.0,4.65,34.0,20.0,113.0,7.07,4.18,WAS,RB,RB,6.0,177.0
+2011GregSala,2011,Greg Salas,WR,Hawaii,6 ft 1 in,210.0,4.53,37.0,15.0,120.0,6.65,4.1,STL,WR,WR,4.0,112.0
+2011RobeSand,2011,Robert Sands,S,West Virginia,6 ft 4 in,217.0,4.53,35.0,12.0,124.0,7.03,4.06,CIN,DB,DB,5.0,134.0
+2011TyleSash,2011,Tyler Sash,S,Iowa,6 ft 0 in,211.0,4.62,33.0,11.0,108.0,6.9,4.27,NYG,DB,DB,6.0,198.0
+2011Da'RScot,2011,Da'Rel Scott,RB,Maryland,5 ft 11 in,211.0,4.4,34.0,19.0,117.0,7.15,4.2,NYG,RB,RB,7.0,221.0
+2011Da'NSear,2011,Da'Norris Searcy,S,North Carolina,5 ft 11 in,223.0,4.55,33.0,27.0,120.0,6.87,4.09,BUF,DB,DB,4.0,100.0
+2011AnthSher,2011,Anthony Sherman,FB,Connecticut,5 ft 10 in,242.0,4.74,32.5,32.0,111.0,7.23,4.41,ARI,RB,RB,5.0,136.0
+2011RichSher,2011,Richard Sherman,CB,Stanford,6 ft 3 in,195.0,4.54,38.0,16.0,125.0,6.82,4.33,SEA,DB,DB,5.0,154.0
+2011DereSher,2011,Derek Sherrod,OT,Mississippi State,6 ft 5 in,321.0,5.18,28.0,23.0,97.0,7.43,4.63,GNB,T,T,1.0,32.0
+2011CeciShor,2011,Cecil Shorts,WR,Mount Union,6 ft 0 in,205.0,4.5,34.5,21.0,114.0,6.5,4.07,JAX,WR,WR,4.0,114.0
+2011BustSkri,2011,Buster Skrine,CB,Tenn-Chattanooga,5 ft 9 in,186.0,4.37,37.0,20.0,122.0,6.44,3.9,CLE,DB,DB,5.0,137.0
+2011AldoSmit,2011,Aldon Smith,DE,Missouri,6 ft 4 in,263.0,4.74,34.0,20.0,118.0,7.19,4.5,SFO,DE,DE,1.0,7.0
+2011D.J.Smit,2011,D.J. Smith,OLB,Appalachian State,5 ft 11 in,239.0,4.71,31.0,20.0,104.0,7.35,4.45,GNB,LB,LB,6.0,186.0
+2011JimmSmit,2011,Jimmy Smith,CB,Colorado,6 ft 2 in,211.0,4.42,36.0,24.0,123.0,6.93,4.06,BAL,DB,DB,1.0,27.0
+2011Lee Smit,2011,Lee Smith,TE,Marshall,6 ft 6 in,266.0,4.94,29.0,25.0,108.0,7.13,4.28,NWE,TE,TE,5.0,159.0
+2011TorrSmit,2011,Torrey Smith,WR,Maryland,6 ft 1 in,204.0,4.41,41.0,19.0,126.0,6.72,4.13,BAL,WR,WR,2.0,58.0
+2011NateSold,2011,Nate Solder,OT,Colorado,6 ft 8 in,319.0,4.96,32.0,21.0,110.0,7.44,4.34,NWE,T,T,1.0,17.0
+2011LukeStoc,2011,Luke Stocker,TE,Tennessee,6 ft 5 in,258.0,4.68,33.0,27.0,115.0,7.03,4.4,TAM,TE,TE,4.0,104.0
+2011PhilTayl,2011,Phil Taylor,DT,Baylor,6 ft 3 in,334.0,5.09,29.5,31.0,100.0,7.75,4.77,CLE,DT,DT,1.0,21.0
+2011J.T.Thom,2011,J.T. Thomas,OLB,West Virginia,6 ft 1 in,241.0,4.65,30.5,23.0,114.0,7.23,4.28,CHI,LB,LB,6.0,195.0
+2011JoshThom,2011,Josh Thomas,CB,Buffalo,5 ft 10 in,191.0,4.46,38.5,13.0,126.0,6.99,4.15,DAL,DB,DB,5.0,143.0
+2011JuliThom,2011,Julius Thomas,TE,Portland State,6 ft 5 in,246.0,4.64,35.5,16.0,111.0,6.96,4.31,DEN,TE,TE,4.0,129.0
+2011BranThom,2011,Brandyn Thompson,CB,Boise State,5 ft 9 in,189.0,4.5,33.5,13.0,114.0,6.66,4.12,WAS,DB,DB,7.0,213.0
+2011JordTodm,2011,Jordan Todman,RB,Connecticut,5 ft 9 in,203.0,4.4,38.0,25.0,126.0,7.24,4.18,SDG,RB,RB,6.0,183.0
+2011JuliVand,2011,Julian Vandervelde,OG,Iowa,6 ft 2 in,301.0,5.12,31.0,23.0,104.0,7.46,4.59,PHI,G,G,5.0,161.0
+2011ShanVere,2011,Shane Vereen,RB,California,5 ft 10 in,210.0,4.49,34.0,31.0,115.0,6.95,4.28,NWE,RB,RB,2.0,56.0
+2011DannWatk,2011,Danny Watkins,OG,Baylor,6 ft 3 in,310.0,5.36,26.0,29.0,92.0,7.61,4.62,PHI,G,G,1.0,23.0
+2011J.J.Watt,2011,J.J. Watt,DE,Wisconsin,6 ft 5 in,290.0,4.81,37.0,34.0,120.0,6.88,4.21,HOU,DE,DE,1.0,11.0
+2011RyanWhal,2011,Ryan Whalen,WR,Stanford,6 ft 1 in,202.0,4.53,38.5,18.0,123.0,6.67,4.09,CIN,WR,WR,6.0,167.0
+2011ChriWhit,2011,Chris White,ILB,Mississippi State,6 ft 3 in,240.0,4.65,34.0,17.0,115.0,6.95,4.25,BUF,LB,LB,6.0,169.0
+2011MarkWhit,2011,Markus White,DE,Florida State,6 ft 3 in,266.0,4.86,32.5,14.0,117.0,7.25,4.51,WAS,DE,DE,7.0,224.0
+2011MuhaWilk,2011,Muhammad Wilkerson,DT,Temple,6 ft 4 in,315.0,4.96,26.0,27.0,106.0,7.31,4.59,NYJ,DT,DT,1.0,30.0
+2011AaroWill,2011,Aaron Williams,CB,Texas,6 ft 0 in,204.0,4.55,37.5,18.0,127.0,6.72,4.07,BUF,DB,DB,2.0,34.0
+2011D.J.Will,2011,D.J. Williams,TE,Arkansas,6 ft 2 in,245.0,4.59,33.5,20.0,111.0,7.29,4.51,GNB,TE,TE,5.0,141.0
+2011KeitWill,2011,Keith Williams,OG,Nebraska,6 ft 4 in,318.0,5.28,24.5,23.0,93.0,8.42,5.03,PIT,G,G,6.0,196.0
+2011RyanWill,2011,Ryan Williams,RB,Virginia Tech,5 ft 9 in,212.0,4.59,40.0,19.0,123.0,6.96,4.18,ARI,RB,RB,2.0,38.0
+2011LawrWils,2011,Lawrence Wilson,OLB,Connecticut,6 ft 1 in,229.0,4.71,32.5,24.0,113.0,7.31,4.5,CAR,LB,LB,6.0,166.0
+2011MartWils,2011,Martez Wilson,ILB,Illinois,6 ft 4 in,250.0,4.42,36.0,23.0,124.0,7.04,4.28,NOR,LB,LB,3.0,72.0
+2011StefWisn,2011,Stefen Wisniewski,C,Penn State,6 ft 3 in,313.0,5.29,28.5,30.0,100.0,7.51,4.63,OAK,C,C,2.0,48.0
+2011K.J.Wrig,2011,K.J. Wright,OLB,Mississippi State,6 ft 3 in,246.0,4.71,32.0,20.0,120.0,7.26,4.46,SEA,LB,LB,4.0,99.0
+2011Lee Ziem,2011,Lee Ziemba,OT,Auburn,6 ft 6 in,317.0,5.5,29.0,20.0,95.0,7.74,4.65,CAR,T,T,7.0,244.0
+2012MikeAdam,2012,Mike Adams,OT,Ohio State,6 ft 7 in,323.0,5.28,28.5,19.0,100.0,7.94,4.95,PIT,T,T,2.0,56.0
+2012AntoAlle,2012,Antonio Allen,S,South Carolina,6 ft 1 in,210.0,4.58,34.0,17.0,118.0,7.02,4.25,NYJ,DB,DB,7.0,242.0
+2012DwayAlle,2012,Dwayne Allen,TE,Clemson,6 ft 3 in,255.0,4.85,32.0,27.0,110.0,7.12,4.37,IND,TE,TE,3.0,64.0
+2012JeffAlle,2012,Jeff Allen,OT,Illinois,6 ft 4 in,307.0,5.17,27.5,26.0,102.0,8.01,4.9,KAN,T,T,2.0,44.0
+2012JustAnde,2012,Justin Anderson,OT,Georgia,6 ft 4 in,335.0,5.24,27.0,32.0,101.0,8.04,4.99,IND,OL,G,7.0,208.0
+2012EdwiBake,2012,Edwin Baker,RB,Michigan State,5 ft 8 in,204.0,4.44,35.0,20.0,111.0,7.27,4.31,SDG,RB,RB,7.0,250.0
+2012VickBall,2012,Vick Ballard,RB,Mississippi State,5 ft 10 in,219.0,4.59,33.0,23.0,115.0,7.03,4.19,IND,RB,RB,5.0,170.0
+2012KelvBeac,2012,Kelvin Beachum,OG,SMU,6 ft 3 in,303.0,5.38,28.5,19.0,101.0,7.79,4.8,PIT,T,T,7.0,248.0
+2012BillBent,2012,Bill Bentley,CB,Colorado,5 ft 10 in,182.0,4.42,31.5,13.0,114.0,6.99,4.5,DET,DB,DB,3.0,85.0
+2012TonyBerg,2012,Tony Bergstrom,OT,Utah,6 ft 5 in,313.0,5.19,29.5,32.0,101.0,7.95,4.84,OAK,T,T,3.0,95.0
+2012JustBeth,2012,Justin Bethel,S,Presbyterian,6 ft 0 in,200.0,4.52,39.5,19.0,131.0,6.79,4.3,ARI,DB,DB,6.0,177.0
+2012PhilBlak,2012,Philip Blake,C,Baylor,6 ft 3 in,311.0,5.17,29.5,22.0,105.0,7.86,4.65,DEN,OL,C,4.0,108.0
+2012RobeBlan,2012,Robert Blanton,CB,Notre Dame,6 ft 1 in,208.0,4.66,34.0,12.0,116.0,6.71,3.97,MIN,DB,DB,5.0,139.0
+2012NigeBrad,2012,Nigel Bradham,OLB,Florida State,6 ft 2 in,241.0,4.56,37.0,24.0,121.0,7.18,4.37,BUF,LB,LB,4.0,105.0
+2012AndrBran,2012,Andre Branch,DE,Clemson,6 ft 4 in,259.0,4.67,32.5,19.0,120.0,7.19,4.25,JAX,LB,LB,2.0,38.0
+2012TankCard,2012,Tank Carder,ILB,TCU,6 ft 2 in,236.0,4.58,34.5,19.0,121.0,6.89,4.18,BUF,LB,LB,5.0,147.0
+2012DannCoal,2012,Danny Coale,WR,Virginia Tech,6 ft 0 in,201.0,4.42,35.0,12.0,115.0,6.69,4.15,DAL,WR,WR,5.0,152.0
+2012AudiCole,2012,Audie Cole,ILB,North Carolina State,6 ft 4 in,246.0,4.76,35.0,15.0,114.0,6.96,4.29,MIN,LB,LB,7.0,210.0
+2012Tom Comp,2012,Tom Compton,OT,South Dakota,6 ft 5 in,314.0,5.01,30.0,20.0,108.0,7.59,4.6,WAS,T,T,6.0,193.0
+2012QuinCopl,2012,Quinton Coples,DE,North Carolina,6 ft 6 in,284.0,4.69,31.5,25.0,109.0,7.57,4.78,NYJ,DE,DE,1.0,16.0
+2012FletCox,2012,Fletcher Cox,DT,Mississippi State,6 ft 4 in,298.0,4.77,26.0,30.0,103.0,7.07,4.53,PHI,DT,DT,1.0,12.0
+2012TyroCraw,2012,Tyrone Crawford,DE,Boise State,6 ft 4 in,275.0,4.82,33.0,28.0,113.0,7.09,4.44,DAL,DE,DE,3.0,81.0
+2012JuroCrin,2012,Juron Criner,WR,Arizona,6 ft 2 in,224.0,4.66,38.0,17.0,117.0,7.15,4.3,OAK,WR,WR,5.0,168.0
+2012LavoDavi,2012,Lavonte David,OLB,Nebraska,6 ft 1 in,233.0,4.57,36.5,19.0,119.0,7.28,4.22,TAM,LB,LB,2.0,58.0
+2012DemaDavi,2012,Demario Davis,OLB,Arkansas State,6 ft 2 in,235.0,4.49,38.5,32.0,124.0,7.19,4.28,NYJ,LB,LB,3.0,77.0
+2012DaviDeCa,2012,David DeCastro,OG,Stanford,6 ft 5 in,316.0,5.32,29.5,34.0,98.0,7.3,4.56,PIT,G,G,1.0,24.0
+2012DrakDuns,2012,Drake Dunsmore,FB,Northwestern,6 ft 2 in,241.0,4.63,35.5,21.0,117.0,6.73,4.03,TAM,TE,TE,7.0,233.0
+2012MichEgne,2012,Michael Egnew,TE,Missouri,6 ft 5 in,252.0,4.52,36.0,21.0,131.0,7.03,4.32,MIA,TE,TE,3.0,78.0
+2012BradEwin,2012,Bradie Ewing,FB,Wisconsin,6 ft 0 in,239.0,4.73,36.5,14.0,120.0,7.14,4.16,ATL,RB,RB,5.0,157.0
+2012DariFlem,2012,Darius Fleming,OLB,Notre Dame,6 ft 2 in,245.0,4.71,33.5,27.0,114.0,7.03,4.28,SFO,LB,LB,5.0,165.0
+2012JameFlem,2012,Jamell Fleming,CB,Oklahoma,5 ft 11 in,206.0,4.43,34.0,23.0,125.0,6.71,3.97,ARI,DB,DB,3.0,80.0
+2012TerrFred,2012,Terrence Frederick,CB,Texas A&M,5 ft 10 in,187.0,4.44,35.0,16.0,121.0,6.59,4.03,PIT,DB,DB,7.0,246.0
+2012StepGilm,2012,Stephon Gilmore,CB,South Carolina,6 ft 0 in,190.0,4.38,36.0,15.0,123.0,6.61,3.94,BUF,DB,DB,1.0,10.0
+2012ChriGive,2012,Chris Givens,WR,Wake Forest,5 ft 11 in,198.0,4.35,33.5,19.0,118.0,6.97,4.23,STL,WR,WR,4.0,96.0
+2012CordGlen,2012,Cordy Glenn,OT,Georgia,6 ft 6 in,345.0,5.08,23.5,31.0,93.0,8.13,5.0,BUF,G,G,2.0,41.0
+2012T.J.Grah,2012,T.J. Graham,WR,North Carolina State,5 ft 11 in,188.0,4.34,33.5,8.0,120.0,6.77,4.18,BUF,WR,WR,3.0,69.0
+2012LadaGree,2012,Ladarius Green,TE,Louisiana-Lafayette,6 ft 6 in,238.0,4.45,34.5,16.0,124.0,7.12,4.47,SDG,TE,TE,4.0,110.0
+2012JameHann,2012,James Hanna,TE,Oklahoma,6 ft 4 in,252.0,4.43,36.0,24.0,122.0,6.76,4.11,DAL,TE,TE,6.0,186.0
+2012CaseHayw,2012,Casey Hayward,CB,Vanderbilt,5 ft 11 in,192.0,4.47,34.0,19.0,119.0,6.76,3.9,GNB,DB,DB,2.0,62.0
+2012JuniHemi,2012,Junior Hemingway,WR,Michigan,6 ft 1 in,225.0,4.48,35.5,21.0,124.0,6.59,3.98,KAN,WR,WR,7.0,238.0
+2012Dan Herr,2012,Dan Herron,RB,Ohio State,5 ft 10 in,213.0,4.57,35.0,22.0,117.0,6.97,4.04,CIN,RB,RB,6.0,191.0
+2012StepHill,2012,Stephen Hill,WR,Georgia Tech,6 ft 4 in,215.0,4.36,39.5,14.0,133.0,6.88,4.48,NYJ,WR,WR,2.0,43.0
+2012LamaHolm,2012,Lamar Holmes,OT,Southern Miss,6 ft 5 in,323.0,5.29,27.0,22.0,104.0,7.74,4.8,ATL,T,T,3.0,91.0
+2012JayeHowa,2012,Jaye Howard,DT,Florida,6 ft 3 in,301.0,4.78,27.5,24.0,106.0,7.32,4.47,SEA,DT,DT,4.0,114.0
+2012GeorIlok,2012,George Iloka,S,Boise State,6 ft 4 in,225.0,4.6,34.5,20.0,124.0,7.03,4.03,CIN,DB,DB,5.0,167.0
+2012MelvIngr,2012,Melvin Ingram,OLB,South Carolina,6 ft 1 in,264.0,4.69,34.5,28.0,109.0,6.83,4.18,SDG,DE,DE,1.0,18.0
+2012BrucIrvi,2012,Bruce Irvin,OLB,West Virginia,6 ft 3 in,245.0,4.41,33.5,23.0,123.0,6.7,4.03,SEA,DE,DE,1.0,15.0
+2012Asa Jack,2012,Asa Jackson,CB,Cal Poly,5 ft 10 in,191.0,4.48,34.5,19.0,118.0,6.97,4.03,BAL,DB,DB,5.0,169.0
+2012MaliJack,2012,Malik Jackson,DE,Tennessee,6 ft 5 in,284.0,4.85,28.0,25.0,105.0,7.38,4.41,DEN,DT,DT,5.0,137.0
+2012LaMiJame,2012,LaMichael James,RB,Oregon,5 ft 8 in,194.0,4.35,35.0,15.0,123.0,6.88,4.12,SFO,RB,RB,2.0,61.0
+2012JameJohn,2012,James-Michael Johnson,ILB,Nevada,6 ft 1 in,241.0,4.6,37.0,23.0,124.0,7.34,4.37,CLE,LB,LB,4.0,120.0
+2012TrumJohn,2012,Trumaine Johnson,CB,Montana,6 ft 2 in,204.0,4.5,35.5,19.0,122.0,7.2,4.15,STL,DB,DB,3.0,65.0
+2012Ben Jone,2012,Ben Jones,C,Georgia,6 ft 3 in,303.0,5.35,30.5,29.0,105.0,7.95,4.74,HOU,C,C,4.0,99.0
+2012ChanJone,2012,Chandler Jones,DE,Syracuse,6 ft 5 in,266.0,4.77,35.0,22.0,120.0,7.07,4.38,NWE,DE,DE,1.0,21.0
+2012MarvJone,2012,Marvin Jones,WR,California,6 ft 2 in,199.0,4.46,33.0,22.0,112.0,6.81,4.11,CIN,WR,WR,5.0,166.0
+2012MarcJone,2012,Marcel Jones,OT,Nebraska,6 ft 6 in,320.0,5.57,27.5,13.0,95.0,8.03,5.12,NOR,OL,T,7.0,234.0
+2012SeniKele,2012,Senio Kelemete,OG,Washington,6 ft 4 in,307.0,5.39,25.0,21.0,101.0,7.77,4.58,ARI,G,G,5.0,151.0
+2012LukeKuec,2012,Luke Kuechly,ILB,Boston Col.,6 ft 3 in,242.0,4.58,38.0,27.0,123.0,6.92,4.12,CAR,LB,LB,1.0,9.0
+2012MarkKuhn,2012,Markus Kuhn,DT,North Carolina State,6 ft 5 in,299.0,4.87,34.5,28.0,112.0,7.43,4.41,NYG,DT,DT,7.0,239.0
+2012JoshLeRi,2012,Josh LeRibeus,OG,SMU,6 ft 3 in,312.0,5.31,26.0,29.0,96.0,7.64,4.65,WAS,G,G,3.0,71.0
+2012RonnLewi,2012,Ronnell Lewis,OLB,Oklahoma,6 ft 2 in,253.0,4.65,31.0,36.0,112.0,7.09,4.4,DET,LB,LB,4.0,125.0
+2012TerrMann,2012,Terrell Manning,OLB,North Carolina State,6 ft 2 in,237.0,4.71,32.5,22.0,114.0,7.18,4.43,GNB,LB,LB,5.0,163.0
+2012BranMars,2012,Brandon Marshall,OLB,Nevada,6 ft 1 in,242.0,4.72,30.5,28.0,108.0,7.05,4.09,JAX,LB,LB,5.0,142.0
+2012DougMart,2012,Doug Martin,RB,Boise State,5 ft 9 in,223.0,4.46,36.0,28.0,120.0,6.79,4.16,TAM,RB,RB,1.0,31.0
+2012KeshMart,2012,Keshawn Martin,WR,Michigan State,5 ft 11 in,188.0,4.42,39.5,13.0,122.0,6.85,4.13,HOU,WR,WR,4.0,121.0
+2012MikeMart,2012,Mike Martin,DT,Michigan,6 ft 1 in,306.0,4.8,33.5,36.0,113.0,7.19,4.25,TEN,DT,DT,3.0,82.0
+2012JonaMass,2012,Jonathan Massaquoi,OLB,Troy,6 ft 2 in,264.0,4.81,33.5,20.0,120.0,7.38,4.53,ATL,DE,DE,5.0,164.0
+2012BobbMass,2012,Bobby Massie,OT,Mississippi,6 ft 6 in,316.0,5.18,27.5,22.0,103.0,7.7,4.95,ARI,T,T,4.0,112.0
+2012SheaMcCl,2012,Shea McClellin,OLB,Boise State,6 ft 3 in,260.0,4.62,31.5,19.0,118.0,7.07,4.33,CHI,DE,DE,1.0,19.0
+2012JerrMcMi,2012,Jerron McMillian,S,Maine,5 ft 11 in,203.0,4.47,36.5,17.0,120.0,6.69,4.22,GNB,DB,DB,4.0,133.0
+2012CaleMcSu,2012,Caleb McSurdy,ILB,Montana,6 ft 1 in,245.0,4.82,30.0,26.0,110.0,7.26,4.28,DAL,LB,LB,7.0,222.0
+2012WhitMerc,2012,Whitney Mercilus,DE,Illinois,6 ft 4 in,261.0,4.68,32.0,27.0,118.0,7.17,4.53,HOU,DE,DE,1.0,26.0
+2012RyanMill,2012,Ryan Miller,OG,Colorado,6 ft 7 in,321.0,5.16,28.0,32.0,100.0,7.72,4.78,CLE,G,G,5.0,160.0
+2012CharMitc,2012,Charles Mitchell,S,Mississippi State,5 ft 11 in,202.0,4.56,37.0,19.0,127.0,6.93,4.22,ATL,DB,DB,6.0,192.0
+2012AlfrMorr,2012,Alfred Morris,RB,Florida Atlantic,5 ft 10 in,219.0,4.63,35.5,16.0,117.0,7.01,4.19,WAS,RB,RB,6.0,173.0
+2012BranMosl,2012,Brandon Mosley,OT,Auburn,6 ft 6 in,314.0,5.14,27.0,30.0,103.0,7.43,4.78,NYG,T,T,4.0,131.0
+2012JoshNorm,2012,Josh Norman,CB,Coastal Carolina,6 ft 0 in,197.0,4.61,33.0,14.0,124.0,7.09,4.23,CAR,DB,DB,5.0,143.0
+2012KeleOsem,2012,Kelechi Osemele,OT,Iowa State,6 ft 5 in,333.0,5.22,26.5,32.0,104.0,7.91,4.87,BAL,T,T,2.0,60.0
+2012DaviPaul,2012,David Paulson,TE,Oregon,6 ft 3 in,246.0,4.79,32.0,21.0,110.0,7.18,4.4,PIT,TE,TE,7.0,240.0
+2012NickPerr,2012,Nick Perry,DE,USC,6 ft 3 in,271.0,4.55,38.5,35.0,124.0,7.25,4.66,GNB,DE,DE,1.0,28.0
+2012BernPier,2012,Bernard Pierce,RB,Temple,6 ft 0 in,218.0,4.45,36.5,17.0,123.0,7.07,4.28,BAL,RB,RB,3.0,84.0
+2012DontPoe,2012,Dontari Poe,DT,Memphis,6 ft 3 in,346.0,4.89,29.5,44.0,105.0,7.9,4.56,KAN,DT,DT,1.0,11.0
+2012DeViPose,2012,DeVier Posey,WR,Ohio State,6 ft 2 in,211.0,4.39,36.5,14.0,123.0,7.03,4.15,HOU,WR,WR,3.0,68.0
+2012NatePott,2012,Nate Potter,OT,Boise State,6 ft 6 in,303.0,5.26,28.5,22.0,100.0,7.49,4.67,ARI,T,T,7.0,221.0
+2012BriaQuic,2012,Brian Quick,WR,Appalachian State,6 ft 3 in,220.0,4.5,34.0,15.0,119.0,7.1,4.23,STL,WR,WR,2.0,33.0
+2012ChriRain,2012,Chris Rainey,RB,Florida,5 ft 8 in,180.0,4.36,36.5,16.0,120.0,6.5,3.93,PIT,RB,RB,5.0,159.0
+2012KheeRand,2012,Kheeston Randall,DT,Texas,6 ft 5 in,293.0,5.0,34.0,28.0,111.0,7.49,4.84,MIA,DT,DT,7.0,215.0
+2012RuebRand,2012,Rueben Randle,WR,LSU,6 ft 3 in,210.0,4.55,31.0,15.0,121.0,6.99,4.36,NYG,WR,WR,2.0,63.0
+2012RileReif,2012,Riley Reiff,OT,Iowa,6 ft 6 in,313.0,5.16,26.5,23.0,98.0,7.87,4.75,DET,T,T,1.0,23.0
+2012KendReye,2012,Kendall Reyes,DT,Connecticut,6 ft 4 in,299.0,4.82,34.5,36.0,113.0,7.43,4.53,SDG,DT,DT,2.0,49.0
+2012JoshRobi,2012,Josh Robinson,CB,Central Florida,5 ft 10 in,199.0,4.29,38.5,17.0,133.0,6.55,3.97,MIN,DB,DB,3.0,66.0
+2012EvanRodr,2012,Evan Rodriguez,FB,Temple,6 ft 1 in,239.0,4.53,36.0,18.0,119.0,6.94,4.28,CHI,TE,TE,4.0,111.0
+2012ZebrSand,2012,Zebrie Sanders,OT,Florida State,6 ft 6 in,320.0,5.33,27.0,28.0,100.0,8.15,4.99,BUF,OL,T,5.0,144.0
+2012MohaSanu,2012,Mohamed Sanu,WR,Rutgers,6 ft 1 in,211.0,4.62,36.0,19.0,126.0,6.88,4.22,CIN,WR,WR,3.0,83.0
+2012MitcSchw,2012,Mitchell Schwartz,OT,California,6 ft 5 in,318.0,5.38,26.5,23.0,89.0,7.86,4.87,CLE,T,T,2.0,37.0
+2012CotySens,2012,Coty Sensabaugh,CB,Clemson,5 ft 11 in,189.0,4.33,37.0,15.0,122.0,6.6,4.06,TEN,DB,DB,4.0,115.0
+2012AminSila,2012,Amini Silatolu,OG,Midwestern State,6 ft 4 in,311.0,5.33,31.5,28.0,107.0,7.95,4.87,CAR,G,G,2.0,40.0
+2012HarrSmit,2012,Harrison Smith,S,Notre Dame,6 ft 2 in,213.0,4.54,34.0,19.0,122.0,6.63,4.12,MIN,DB,DB,1.0,29.0
+2012ScotSolo,2012,Scott Solomon,DE,Rice,6 ft 3 in,262.0,4.88,35.0,34.0,124.0,7.17,4.25,TEN,DE,DE,7.0,211.0
+2012SeanSpen,2012,Sean Spence,OLB,Miami (FL),5 ft 11 in,231.0,4.66,33.5,12.0,119.0,7.46,4.28,PIT,LB,LB,3.0,86.0
+2012DonaStep,2012,Donald Stephenson,OT,Oklahoma,6 ft 5 in,312.0,4.94,35.5,19.0,114.0,7.52,4.78,KAN,T,T,3.0,74.0
+2012NathStup,2012,Nathan Stupar,OLB,Penn State,6 ft 2 in,241.0,4.65,31.0,21.0,116.0,6.84,4.28,OAK,LB,LB,7.0,230.0
+2012J.R.Swee,2012,J.R. Sweezy,DT,North Carolina State,6 ft 5 in,298.0,4.97,36.0,21.0,113.0,7.4,4.41,SEA,DT,DT,7.0,225.0
+2012BranThom,2012,Brandon Thompson,DT,Clemson,6 ft 2 in,314.0,5.2,31.0,35.0,100.0,7.97,4.71,CIN,DT,DT,3.0,93.0
+2012ChriThom,2012,Christian Thompson,S,South Carolina State,6 ft 0 in,211.0,4.42,31.5,18.0,122.0,7.33,4.13,BAL,DB,DB,4.0,130.0
+2012AndrTill,2012,Andrew Tiller,OG,Syracuse,6 ft 4 in,324.0,5.44,23.0,16.0,85.0,7.92,4.8,NOR,G,G,6.0,179.0
+2012RobeTurb,2012,Robert Turbin,RB,Utah State,5 ft 10 in,222.0,4.42,36.0,28.0,122.0,7.16,4.31,SEA,RB,RB,4.0,106.0
+2012OlivVern,2012,Olivier Vernon,DE,Miami (FL),6 ft 2 in,261.0,4.73,34.5,31.0,122.0,7.39,4.5,MIA,LB,LB,3.0,72.0
+2012TrevWade,2012,Trevin Wade,CB,Arizona,5 ft 10 in,192.0,4.52,34.5,18.0,116.0,6.87,4.0,CLE,DB,DB,7.0,245.0
+2012BranWash,2012,Brandon Washington,OG,Miami (FL),6 ft 3 in,320.0,5.14,25.0,28.0,101.0,8.22,4.87,PHI,G,G,6.0,200.0
+2012CoreWhit,2012,Corey White,S,Samford,5 ft 11 in,206.0,4.53,37.5,15.0,126.0,6.72,4.22,NOR,DB,DB,5.0,162.0
+2012JordWhit,2012,Jordan White,WR,West. Michigan,6 ft 0 in,208.0,4.63,35.0,14.0,119.0,6.84,4.13,NYJ,WR,WR,7.0,244.0
+2012TahiWhit,2012,Tahir Whitehead,OLB,Temple,6 ft 1 in,233.0,4.62,37.0,21.0,124.0,7.14,4.37,DET,LB,LB,5.0,138.0
+2012KyleWilb,2012,Kyle Wilber,OLB,Wake Forest,6 ft 4 in,249.0,4.73,33.5,25.0,117.0,7.11,4.31,DAL,LB,LB,4.0,113.0
+2012BillWinn,2012,Billy Winn,DE,Boise State,6 ft 4 in,294.0,4.86,27.0,24.0,107.0,7.37,4.44,CLE,DT,DT,6.0,205.0
+2012DereWolf,2012,Derek Wolfe,DT,Cincinnati,6 ft 5 in,295.0,4.93,33.5,33.0,108.0,7.26,4.44,DEN,DT,DT,2.0,36.0
+2012JariWrig,2012,Jarius Wright,WR,Arkansas,5 ft 10 in,182.0,4.39,38.0,11.0,120.0,6.93,4.03,MIN,WR,WR,4.0,118.0
+2012KeviZeit,2012,Kevin Zeitler,OG,Wisconsin,6 ft 4 in,314.0,5.32,29.0,32.0,101.0,7.77,4.61,CIN,G,G,1.0,27.0
+2013OdayAbou,2013,Oday Aboushi,OT,Virginia,6 ft 5 in,308.0,5.41,23.5,17.0,100.0,7.92,4.84,NYJ,T,T,5.0,141.0
+2013RobeAlfo,2013,Robert Alford,CB,SE Louisiana,5 ft 10 in,188.0,4.39,40.0,17.0,132.0,6.89,4.23,ATL,DB,DB,2.0,60.0
+2013MarcAnth,2013,Marc Anthony,CB,California,5 ft 11 in,196.0,4.63,35.0,12.0,118.0,6.74,4.07,BAL,DB,DB,7.0,247.0
+2013TerrArms,2013,Terron Armstead,OT,Ark-Pine Bluff,6 ft 5 in,306.0,4.71,34.5,31.0,112.0,7.62,4.72,NOR,T,T,3.0,75.0
+2013StedBail,2013,Stedman Bailey,WR,West Virginia,5 ft 10 in,193.0,4.52,34.5,11.0,117.0,6.81,4.09,STL,WR,WR,3.0,92.0
+2013DaviBakh,2013,David Bakhtiari,OT,Colorado,6 ft 4 in,299.0,5.18,25.5,28.0,101.0,7.7,4.74,GNB,T,T,4.0,109.0
+2013MontBall,2013,Montee Ball,RB,Wisconsin,5 ft 10 in,214.0,4.66,32.0,15.0,118.0,6.88,4.4,DEN,RB,RB,2.0,58.0
+2013JohnBank,2013,Johnthan Banks,CB,Mississippi State,6 ft 2 in,185.0,4.61,34.0,10.0,125.0,6.97,4.27,TAM,DB,DB,2.0,43.0
+2013KenjBarn,2013,Kenjon Barner,RB,Oregon,5 ft 9 in,196.0,4.52,35.5,20.0,122.0,6.87,4.2,CAR,RB,RB,6.0,182.0
+2013DaviBass,2013,David Bass,DE,Missouri Western State,6 ft 4 in,262.0,4.84,30.5,20.0,111.0,7.07,4.33,OAK,DE,DE,7.0,233.0
+2013StevBeau,2013,Steve Beauharnais,ILB,Rutgers,6 ft 1 in,240.0,4.84,33.0,19.0,118.0,6.99,4.2,NWE,LB,LB,7.0,235.0
+2013Le'VBell,2013,Le'Veon Bell,RB,Michigan State,6 ft 1 in,230.0,4.6,31.5,24.0,118.0,6.75,4.24,PIT,RB,RB,2.0,48.0
+2013GiovBern,2013,Giovani Bernard,RB,North Carolina,5 ft 8 in,202.0,4.53,33.5,19.0,122.0,6.91,4.12,CIN,RB,RB,2.0,37.0
+2013TommBoha,2013,Tommy Bohanon,FB,Wake Forest,6 ft 1 in,246.0,4.88,35.0,36.0,119.0,7.27,4.42,NYJ,RB,RB,7.0,215.0
+2013TravBond,2013,Travis Bond,OG,North Carolina,6 ft 6 in,329.0,5.27,22.5,22.0,98.0,7.85,4.96,MIN,G,G,7.0,214.0
+2013JoshBoyc,2013,Josh Boyce,WR,TCU,5 ft 11 in,206.0,4.38,34.0,22.0,131.0,6.68,4.1,NWE,WR,WR,4.0,102.0
+2013JoshBoyd,2013,Josh Boyd,DT,Mississippi State,6 ft 3 in,310.0,5.14,26.5,32.0,104.0,7.16,4.64,GNB,DE,DE,5.0,167.0
+2013MichBuch,2013,Michael Buchanan,DE,Illinois,6 ft 5 in,255.0,4.78,33.0,22.0,113.0,6.91,4.44,NWE,DE,DE,7.0,226.0
+2013Rex Burk,2013,Rex Burkhead,RB,Nebraska,5 ft 10 in,214.0,4.73,39.0,21.0,125.0,6.85,4.09,CIN,RB,RB,6.0,190.0
+2013JamiColl,2013,Jamie Collins,OLB,Southern Miss,6 ft 3 in,250.0,4.64,41.5,19.0,139.0,7.1,4.32,NWE,LB,LB,2.0,52.0
+2013JonaCoop,2013,Jonathan Cooper,OG,North Carolina,6 ft 2 in,311.0,5.07,27.0,35.0,108.0,7.78,4.84,ARI,G,G,1.0,7.0
+2013KnilDavi,2013,Knile Davis,RB,Arkansas,5 ft 11 in,227.0,4.37,33.5,31.0,121.0,6.96,4.38,KAN,RB,RB,3.0,96.0
+2013WillDavi,2013,Will Davis,CB,Utah State,5 ft 11 in,186.0,4.51,35.5,16.0,127.0,6.52,4.02,MIA,DB,DB,3.0,93.0
+2013EverDawk,2013,Everett Dawkins,DT,Florida State,6 ft 2 in,292.0,5.06,30.0,23.0,103.0,7.61,4.88,MIN,DT,DT,7.0,229.0
+2013TyleEife,2013,Tyler Eifert,TE,Notre Dame,6 ft 5 in,250.0,4.68,35.5,22.0,119.0,6.92,4.32,CIN,TE,TE,1.0,21.0
+2013ZachErtz,2013,Zach Ertz,TE,Stanford,6 ft 5 in,249.0,4.76,30.5,24.0,111.0,7.08,4.47,PHI,TE,TE,2.0,35.0
+2013EricFish,2013,Eric Fisher,OT,Central Michigan,6 ft 7 in,306.0,5.05,28.5,27.0,116.0,7.59,4.44,KAN,T,T,1.0,1.0
+2013ReidFrag,2013,Reid Fragel,OT,Ohio State,6 ft 8 in,308.0,5.14,30.0,33.0,113.0,7.62,4.68,CIN,OL,T,7.0,240.0
+2013JohnFran,2013,Johnathan Franklin,RB,UCLA,5 ft 10 in,205.0,4.49,31.5,18.0,115.0,6.89,4.31,GNB,RB,RB,4.0,125.0
+2013TravFred,2013,Travis Frederick,C,Wisconsin,6 ft 4 in,312.0,5.58,28.5,21.0,97.0,7.81,4.76,DAL,C,C,1.0,31.0
+2013WillGhol,2013,William Gholston,DE,Michigan State,6 ft 6 in,281.0,4.96,28.5,23.0,110.0,7.2,4.59,TAM,DE,DE,4.0,126.0
+2013GarrGilk,2013,Garrett Gilkey,OT,Chadron State,6 ft 6 in,318.0,5.29,30.0,28.0,108.0,7.65,4.75,CLE,T,T,7.0,227.0
+2013MikeGill,2013,Mike Gillislee,RB,Florida,5 ft 11 in,208.0,4.55,30.5,15.0,119.0,7.12,4.4,MIA,RB,RB,5.0,164.0
+2013ZaviGood,2013,Zaviar Gooden,OLB,Missouri,6 ft 1 in,234.0,4.47,34.0,27.0,131.0,6.71,4.18,TEN,LB,LB,3.0,97.0
+2013ChriGrag,2013,Chris Gragg,TE,Arkansas,6 ft 3 in,244.0,4.5,37.5,18.0,125.0,7.08,4.51,BUF,TE,TE,7.0,222.0
+2013DwayGrat,2013,Dwayne Gratz,CB,Connecticut,5 ft 11 in,201.0,4.47,38.0,22.0,125.0,6.7,4.15,JAX,DB,DB,3.0,64.0
+2013KhasGree,2013,Khaseem Greene,OLB,Rutgers,6 ft 1 in,241.0,4.71,30.0,17.0,116.0,7.58,4.2,CHI,LB,LB,4.0,117.0
+2013ChriHarp,2013,Chris Harper,WR,Kansas State,6 ft 1 in,229.0,4.55,35.5,20.0,116.0,6.89,4.39,SEA,WR,WR,4.0,123.0
+2013BranHepb,2013,Brandon Hepburn,ILB,Florida A&M,6 ft 2 in,240.0,4.68,32.0,21.0,124.0,7.4,4.55,DET,LB,LB,7.0,245.0
+2013EricHerm,2013,Eric Herman,OG,Ohio,6 ft 4 in,320.0,5.25,28.0,36.0,95.0,7.99,5.09,NYG,OL,G,7.0,225.0
+2013JordHill,2013,Jordan Hill,DT,Penn State,6 ft 1 in,303.0,5.23,22.5,28.0,103.0,7.49,4.51,SEA,DT,DT,3.0,87.0
+2013DeVoHoll,2013,DeVonte Holloman,OLB,South Carolina,6 ft 1 in,243.0,4.76,33.0,15.0,113.0,7.3,4.26,DAL,LB,LB,6.0,185.0
+2013MontHugh,2013,Montori Hughes,DT,Tennessee-Martin,6 ft 4 in,329.0,5.23,26.5,22.0,104.0,7.85,4.7,IND,DT,DT,5.0,139.0
+2013MargHunt,2013,Margus Hunt,DE,SMU,6 ft 8 in,277.0,4.62,34.5,38.0,121.0,7.07,4.51,CIN,DE,DE,2.0,53.0
+2013MicaHyde,2013,Micah Hyde,CB,Iowa,6 ft 0 in,197.0,4.56,33.0,12.0,121.0,6.78,4.2,GNB,DB,DB,5.0,159.0
+2013LukeJoec,2013,Luke Joeckel,OT,Texas A&M,6 ft 6 in,306.0,5.3,28.5,27.0,106.0,7.4,4.68,JAX,T,T,1.0,2.0
+2013LaneJohn,2013,Lane Johnson,OT,Oklahoma,6 ft 6 in,303.0,4.72,34.0,28.0,118.0,7.31,4.52,PHI,T,T,1.0,4.0
+2013T.J.John,2013,T.J. Johnson,C,South Carolina,6 ft 4 in,310.0,5.33,25.5,32.0,96.0,7.83,4.74,CIN,C,C,7.0,251.0
+2013DatoJone,2013,Datone Jones,DE,UCLA,6 ft 4 in,283.0,4.8,31.5,29.0,112.0,7.32,4.32,GNB,DE,DE,1.0,26.0
+2013TavaKing,2013,Tavarres King,WR,Georgia,6 ft 0 in,189.0,4.47,36.5,11.0,123.0,6.91,4.33,DEN,WR,WR,5.0,161.0
+2013Joe Krug,2013,Joe Kruger,DE,Utah,6 ft 6 in,269.0,4.83,34.0,24.0,117.0,7.17,4.46,PHI,DE,DE,7.0,212.0
+2013EdmuKugb,2013,Edmund Kugbila,OG,Valdosta State,6 ft 4 in,317.0,5.13,22.5,23.0,105.0,7.72,4.65,CAR,OL,G,4.0,108.0
+2013CoreLemo,2013,Corey Lemonier,DE,Auburn,6 ft 3 in,255.0,4.6,33.0,27.0,119.0,7.14,4.4,SFO,DE,DE,3.0,88.0
+2013BennLoga,2013,Bennie Logan,DT,LSU,6 ft 2 in,309.0,5.08,25.0,30.0,104.0,7.53,4.67,PHI,DT,DT,3.0,67.0
+2013TyraMath,2013,Tyrann Mathieu,CB,LSU,5 ft 9 in,186.0,4.5,34.0,4.0,117.0,6.87,4.14,ARI,DB,DB,3.0,69.0
+2013DemeMcCr,2013,Demetrius McCray,CB,Appalachian State,6 ft 1 in,187.0,4.54,36.0,4.0,126.0,7.17,4.32,JAX,DB,DB,7.0,210.0
+2013T.J.McDo,2013,T.J. McDonald,S,USC,6 ft 2 in,219.0,4.59,40.0,19.0,131.0,6.89,4.2,STL,DB,DB,3.0,71.0
+2013VancMcDo,2013,Vance McDonald,TE,Rice,6 ft 4 in,267.0,4.69,33.5,31.0,119.0,7.08,4.53,SFO,TE,TE,2.0,55.0
+2013LeonMcFa,2013,Leon McFadden,CB,San Diego State,5 ft 10 in,193.0,4.54,34.5,10.0,119.0,6.81,4.27,CLE,DB,DB,3.0,68.0
+2013BranMcGe,2013,Brandon McGee,CB,Miami (FL),5 ft 11 in,193.0,4.4,33.5,14.0,119.0,6.71,4.18,STL,DB,DB,5.0,149.0
+2013AaroMell,2013,Aaron Mellette,WR,Elon,6 ft 2 in,217.0,4.54,33.5,9.0,123.0,7.11,4.41,BAL,WR,WR,7.0,238.0
+2013ChriMich,2013,Christine Michael,RB,Texas A&M,5 ft 10 in,220.0,4.54,43.0,27.0,125.0,6.69,4.02,SEA,RB,RB,2.0,62.0
+2013JordMill,2013,Jordan Mills,OT,Louisiana Tech,6 ft 5 in,316.0,5.37,28.5,20.0,101.0,8.1,4.88,CHI,T,T,5.0,163.0
+2013Sio Moor,2013,Sio Moore,OLB,Connecticut,6 ft 1 in,245.0,4.65,38.0,29.0,127.0,7.49,4.31,OAK,LB,LB,3.0,66.0
+2013ZekeMott,2013,Zeke Motta,S,Notre Dame,6 ft 2 in,213.0,4.75,35.5,11.0,126.0,6.75,4.16,ATL,DB,DB,7.0,244.0
+2013AlecOgle,2013,Alec Ogletree,OLB,Georgia,6 ft 2 in,242.0,4.7,33.5,20.0,122.0,7.16,4.39,STL,LB,LB,1.0,30.0
+2013VinsPain,2013,Vinston Painter,OT,Virginia Tech,6 ft 4 in,306.0,4.95,30.5,32.0,97.0,7.71,4.56,DEN,G,G,6.0,173.0
+2013QuinPatt,2013,Quinton Patton,WR,Louisiana Tech,6 ft 0 in,204.0,4.53,33.0,8.0,118.0,6.91,4.01,SFO,WR,WR,4.0,128.0
+2013Ty PPowe,2013,Ty Powell,OLB,Harding,6 ft 2 in,249.0,4.64,37.0,28.0,122.0,6.98,4.4,SEA,DE,DE,7.0,231.0
+2013JordPoye,2013,Jordan Poyer,CB,Oregon State,6 ft 0 in,191.0,4.54,30.5,8.0,118.0,6.87,4.18,PHI,DB,DB,7.0,218.0
+2013DaviQues,2013,David Quessenberry,OT,San Jose State,6 ft 5 in,302.0,5.08,29.5,25.0,112.0,7.49,4.45,HOU,OL,T,6.0,176.0
+2013EricReid,2013,Eric Reid,S,LSU,6 ft 1 in,213.0,4.53,40.5,17.0,134.0,6.99,4.22,SFO,DB,DB,1.0,18.0
+2013MychRive,2013,Mychal Rivera,TE,Tennessee,6 ft 3 in,242.0,4.81,31.0,17.0,112.0,7.17,4.43,OAK,TE,TE,6.0,184.0
+2013LogaRyan,2013,Logan Ryan,CB,Rutgers,5 ft 11 in,191.0,4.56,32.5,14.0,116.0,6.69,4.06,NWE,DB,DB,3.0,83.0
+2013Ace Sand,2013,Ace Sanders,WR,South Carolina,5 ft 7 in,173.0,4.58,32.0,7.0,117.0,6.81,4.37,JAX,WR,WR,4.0,101.0
+2013BriaSchw,2013,Brian Schwenke,C,California,6 ft 3 in,314.0,4.99,26.5,31.0,108.0,7.31,4.74,TEN,C,C,4.0,107.0
+2013DionSims,2013,Dion Sims,TE,Michigan State,6 ft 5 in,262.0,4.75,35.0,22.0,112.0,7.36,4.52,MIA,TE,TE,4.0,106.0
+2013DariSlay,2013,Darius Slay,CB,Mississippi State,6 ft 0 in,192.0,4.36,35.5,14.0,124.0,6.9,4.21,DET,DB,DB,2.0,36.0
+2013JareSmit,2013,Jared Smith,DT,New Hampshire,6 ft 3 in,302.0,5.08,32.5,28.0,115.0,7.2,4.39,SEA,DT,DT,7.0,241.0
+2013AkeeSpen,2013,Akeem Spence,DT,Illinois,6 ft 1 in,307.0,5.15,30.0,37.0,107.0,7.82,4.72,TAM,DT,DT,4.0,100.0
+2013Zac Stac,2013,Zac Stacy,RB,Vanderbilt,5 ft 8 in,216.0,4.55,33.0,27.0,122.0,6.7,4.17,STL,RB,RB,5.0,160.0
+2013D.J.Swea,2013,D.J. Swearinger,S,South Carolina,5 ft 10 in,208.0,4.67,37.0,17.0,124.0,6.7,4.11,HOU,DB,DB,2.0,57.0
+2013RyanSwop,2013,Ryan Swope,WR,Texas A&M,6 ft 0 in,205.0,4.34,37.0,16.0,125.0,6.76,4.25,ARI,WR,WR,6.0,174.0
+2013DeviTayl,2013,Devin Taylor,DE,South Carolina,6 ft 7 in,266.0,4.72,35.0,14.0,128.0,6.89,4.3,DET,DE,DE,4.0,132.0
+2013JamaTayl,2013,Jamar Taylor,CB,Boise State,5 ft 11 in,192.0,4.39,35.0,22.0,127.0,6.82,4.06,MIA,DB,DB,2.0,54.0
+2013StepTayl,2013,Stepfan Taylor,RB,Stanford,5 ft 9 in,214.0,4.76,30.0,17.0,110.0,7.13,4.5,ARI,RB,RB,5.0,140.0
+2013LeviToil,2013,Levine Toilolo,TE,Stanford,6 ft 8 in,260.0,4.86,31.0,17.0,113.0,7.09,4.57,ATL,TE,TE,4.0,133.0
+2013J.C.Tret,2013,J.C. Tretter,OG,Cornell,6 ft 4 in,307.0,5.09,29.5,29.0,109.0,7.48,4.69,GNB,T,T,4.0,122.0
+2013KennVacc,2013,Kenny Vaccaro,S,Texas,6 ft 0 in,214.0,4.63,38.0,15.0,121.0,6.78,4.06,NOR,DB,DB,1.0,15.0
+2013RickWagn,2013,Ricky Wagner,OT,Wisconsin,6 ft 6 in,308.0,5.17,31.5,20.0,101.0,7.94,4.91,BAL,T,T,5.0,168.0
+2013LarrWarf,2013,Larry Warford,OG,Kentucky,6 ft 3 in,332.0,5.58,22.5,28.0,96.0,7.78,5.1,DET,G,G,3.0,65.0
+2013EarlWatf,2013,Earl Watford,OG,James Madison,6 ft 3 in,300.0,5.06,30.0,24.0,107.0,7.77,5.0,ARI,G,G,4.0,116.0
+2013B.W.Webb,2013,B.W. Webb,CB,William & Mary,5 ft 10 in,184.0,4.51,40.5,14.0,132.0,6.82,3.84,DAL,DB,DB,4.0,114.0
+2013BjoeWern,2013,Bjoern Werner,DE,Florida State,6 ft 3 in,266.0,4.83,31.0,25.0,111.0,7.3,4.4,IND,DE,DE,1.0,24.0
+2013MarkWhea,2013,Markus Wheaton,WR,Oregon State,5 ft 11 in,189.0,4.45,37.0,20.0,120.0,6.8,4.02,PIT,WR,WR,3.0,79.0
+2013J.J.Wilc,2013,J.J. Wilcox,S,Georgia Southern,6 ft 0 in,213.0,4.57,35.0,17.0,124.0,7.02,4.09,DAL,DB,DB,3.0,80.0
+2013BranWill,2013,Brandon Williams,DT,Missouri Southern,6 ft 1 in,335.0,5.37,29.5,38.0,102.0,8.09,4.91,BAL,DT,DT,3.0,94.0
+2013KerwWill,2013,Kerwynn Williams,RB,Utah State,5 ft 8 in,195.0,4.48,35.0,17.0,118.0,7.15,4.15,IND,RB,RB,7.0,230.0
+2013NichWill,2013,Nicholas Williams,DT,Samford,6 ft 4 in,309.0,4.94,33.0,28.0,111.0,7.55,4.65,PIT,DT,DT,7.0,223.0
+2013ShawWill,2013,Shawn Williams,S,Georgia,6 ft 0 in,213.0,4.46,36.0,25.0,120.0,7.01,4.25,CIN,DB,DB,3.0,84.0
+2013StevWill,2013,Steve Williams,CB,California,5 ft 9 in,181.0,4.42,40.5,12.0,128.0,6.89,4.1,SDG,DB,DB,5.0,145.0
+2013SylvWill,2013,Sylvester Williams,DT,North Carolina,6 ft 3 in,313.0,5.03,26.5,27.0,102.0,7.93,4.8,DEN,DT,DT,1.0,28.0
+2013TerrWill,2013,Terrance Williams,WR,Baylor,6 ft 2 in,208.0,4.52,32.5,11.0,119.0,7.01,4.32,DAL,WR,WR,3.0,74.0
+2013MarqWils,2013,Marquess Wilson,WR,Washington State,6 ft 3 in,194.0,4.51,34.5,7.0,122.0,6.65,4.33,CHI,WR,WR,7.0,236.0
+2013RobeWood,2013,Robert Woods,WR,USC,6 ft 0 in,201.0,4.51,33.5,14.0,117.0,7.15,4.47,BUF,WR,WR,2.0,41.0
+2013KhalWoot,2013,Khalid Wooten,CB,Nevada,5 ft 11 in,210.0,4.53,33.5,17.0,117.0,6.95,4.18,TEN,DB,DB,6.0,202.0
+2013BlidWreh,2013,Blidi Wreh-Wilson,CB,Connecticut,6 ft 1 in,195.0,4.53,36.0,14.0,128.0,6.97,4.12,TEN,DB,DB,3.0,70.0
+2014JareAbbr,2014,Jared Abbrederis,WR,Wisconsin,6 ft 1 in,195.0,4.5,30.5,4.0,117.0,6.8,4.08,GNB,WR,WR,5.0,176.0
+2014DavaAdam,2014,Davante Adams,WR,Fresno State,6 ft 1 in,212.0,4.56,39.5,14.0,123.0,6.82,4.3,GNB,WR,WR,2.0,53.0
+2014JaceAmar,2014,Jace Amaro,TE,Texas Tech,6 ft 5 in,265.0,4.74,33.0,28.0,118.0,7.42,4.3,NYJ,TE,TE,2.0,49.0
+2014Dri Arch,2014,Dri Archer,WR,Kent State,5 ft 8 in,173.0,4.26,38.0,20.0,122.0,6.86,4.06,PIT,WR,WR,3.0,97.0
+2014AnthBarr,2014,Anthony Barr,OLB,UCLA,6 ft 5 in,255.0,4.66,34.5,15.0,119.0,6.82,4.19,MIN,LB,LB,1.0,9.0
+2014LamiBarr,2014,Lamin Barrow,ILB,LSU,6 ft 1 in,237.0,4.64,35.0,22.0,123.0,7.24,4.35,DEN,LB,LB,5.0,156.0
+2014KelvBenj,2014,Kelvin Benjamin,WR,Florida State,6 ft 5 in,240.0,4.61,32.5,13.0,119.0,7.33,4.39,CAR,WR,WR,1.0,28.0
+2014BeneBenw,2014,Bene' Benwikere,CB,San Jose State,5 ft 11 in,195.0,4.59,40.5,10.0,122.0,6.94,4.38,CAR,DB,DB,5.0,148.0
+2014Nat Berh,2014,Nat Berhe,S,San Diego State,5 ft 10 in,193.0,4.71,35.5,15.0,117.0,7.08,4.22,NYG,DB,DB,5.0,152.0
+2014JoelBito,2014,Joel Bitonio,OG,Nevada,6 ft 4 in,302.0,4.92,32.0,22.0,114.0,7.37,4.44,CLE,G,G,2.0,35.0
+2014AlfrBlue,2014,Alfred Blue,RB,LSU,6 ft 2 in,223.0,4.63,32.0,13.0,121.0,7.15,4.5,HOU,RB,RB,6.0,181.0
+2014RussBodi,2014,Russell Bodine,OG,North Carolina,6 ft 3 in,310.0,5.18,29.0,42.0,109.0,8.26,4.66,CIN,C,C,4.0,111.0
+2014ChriBorl,2014,Chris Borland,ILB,Wisconsin,5 ft 11 in,248.0,4.83,31.0,27.0,114.0,7.18,4.27,SFO,LB,LB,3.0,77.0
+2014Tre Bost,2014,Tre Boston,S,North Carolina,6 ft 0 in,204.0,4.58,35.0,18.0,116.0,7.04,4.31,CAR,DB,DB,4.0,128.0
+2014CarlBrad,2014,Carl Bradford,OLB,Arizona State,6 ft 1 in,250.0,4.76,37.5,23.0,122.0,7.25,4.3,GNB,LB,LB,4.0,121.0
+2014BashBree,2014,Bashaud Breeland,CB,Clemson,5 ft 11 in,197.0,4.62,34.5,11.0,123.0,7.04,4.33,WAS,DB,DB,4.0,102.0
+2014JustBrit,2014,Justin Britt,OT,Missouri,6 ft 6 in,325.0,5.19,27.5,23.0,100.0,8.14,4.69,SEA,T,T,2.0,64.0
+2014Jay Brom,2014,Jay Bromley,DT,Syracuse,6 ft 3 in,306.0,5.06,33.5,26.0,106.0,7.92,4.78,NYG,DT,DT,3.0,74.0
+2014PresBrow,2014,Preston Brown,ILB,Louisville,6 ft 1 in,251.0,4.86,33.0,23.0,116.0,6.98,4.26,BUF,LB,LB,3.0,73.0
+2014MartBrya,2014,Martavis Bryant,WR,Clemson,6 ft 4 in,211.0,4.42,39.0,16.0,124.0,7.18,4.15,PIT,WR,WR,4.0,118.0
+2014DeonBuca,2014,Deone Bucannon,S,Washington State,6 ft 1 in,211.0,4.49,36.5,19.0,125.0,6.96,4.26,ARI,DB,DB,1.0,27.0
+2014MichCamp,2014,Michael Campanaro,WR,Wake Forest,5 ft 9 in,192.0,4.46,39.0,20.0,122.0,6.77,4.01,BAL,WR,WR,7.0,218.0
+2014Ka'DCare,2014,Ka'Deem Carey,RB,Arizona,5 ft 9 in,207.0,4.69,32.5,19.0,115.0,7.08,4.38,CHI,RB,RB,4.0,117.0
+2014RyanCarr,2014,Ryan Carrethers,DT,Arkansas State,6 ft 1 in,337.0,5.47,26.0,32.0,88.0,7.89,4.6,SDG,DT,DT,5.0,165.0
+2014WillClar,2014,Will Clarke,DE,West Virginia,6 ft 6 in,271.0,4.77,32.0,22.0,112.0,7.26,4.57,CIN,DE,DE,3.0,88.0
+2014Ha HHa,2014,Ha Ha Clinton-Dix,S,Alabama,6 ft 1 in,208.0,4.58,33.0,11.0,119.0,7.16,4.16,GNB,DB,DB,1.0,21.0
+2014JadeClow,2014,Jadeveon Clowney,DE,South Carolina,6 ft 5 in,266.0,4.53,37.5,21.0,124.0,7.27,4.43,HOU,DE,DE,1.0,1.0
+2014RossCock,2014,Ross Cockrell,CB,Duke,6 ft 0 in,191.0,4.56,36.5,10.0,122.0,7.28,4.32,BUF,DB,DB,4.0,109.0
+2014BranCook,2014,Brandin Cooks,WR,Oregon State,5 ft 10 in,189.0,4.33,36.0,16.0,120.0,6.76,3.81,NOR,WR,WR,1.0,20.0
+2014ScotCric,2014,Scott Crichton,DE,Oregon State,6 ft 3 in,273.0,4.84,31.5,24.0,108.0,7.19,4.29,MIN,DE,DE,3.0,72.0
+2014PierDesi,2014,Pierre Desir,CB,Lindenwood,6 ft 1 in,198.0,4.59,35.0,11.0,133.0,6.86,4.3,CLE,DB,DB,4.0,127.0
+2014AhmaDixo,2014,Ahmad Dixon,S,Baylor,6 ft 0 in,212.0,4.64,32.0,14.0,111.0,7.55,4.5,DAL,DB,DB,7.0,248.0
+2014BranDixo,2014,Brandon Dixon,CB,Northwest Missouri State,5 ft 11 in,203.0,4.41,32.5,17.0,117.0,7.15,4.27,NYJ,DB,DB,6.0,195.0
+2014AaroDona,2014,Aaron Donald,DT,Pittsburgh,6 ft 1 in,285.0,4.68,32.0,35.0,116.0,7.11,4.39,STL,DT,DT,1.0,13.0
+2014JonaDowl,2014,Jonathan Dowling,S,Western Kentucky,6 ft 3 in,190.0,4.52,33.5,8.0,118.0,7.04,4.24,OAK,DB,DB,7.0,247.0
+2014DakoDozi,2014,Dakota Dozier,OG,Furman,6 ft 4 in,313.0,5.42,24.0,23.0,101.0,8.14,4.89,NYJ,OL,G,4.0,137.0
+2014KonyEaly,2014,Kony Ealy,DE,Missouri,6 ft 4 in,273.0,4.92,31.0,22.0,114.0,6.83,4.45,CAR,DE,DE,2.0,60.0
+2014KadeEdwa,2014,Kadeem Edwards,OG,Tennessee State,6 ft 4 in,313.0,5.25,27.0,26.0,99.0,7.95,4.82,TAM,OL,G,5.0,143.0
+2014BrucElli,2014,Bruce Ellington,WR,South Carolina,5 ft 9 in,197.0,4.45,39.5,15.0,120.0,6.69,3.95,SFO,WR,WR,4.0,106.0
+2014JustElli,2014,Justin Ellis,DT,Louisiana Tech,6 ft 1 in,334.0,5.27,28.0,25.0,92.0,7.81,4.75,OAK,DT,DT,4.0,107.0
+2014ShaqEvan,2014,Shaquelle Evans,WR,UCLA,6 ft 1 in,213.0,4.51,34.5,13.0,122.0,7.07,4.21,NYJ,WR,WR,4.0,115.0
+2014AntoExum,2014,Antone Exum,CB,Virginia Tech,6 ft 0 in,213.0,4.59,35.0,17.0,117.0,7.05,4.13,MIN,DB,DB,6.0,182.0
+2014C.J.Fied,2014,C.J. Fiedorowicz,TE,Iowa,6 ft 5 in,265.0,4.76,31.5,25.0,116.0,7.1,4.26,HOU,TE,TE,3.0,65.0
+2014CameFlem,2014,Cameron Fleming,OT,Stanford,6 ft 5 in,323.0,5.28,23.5,26.0,97.0,8.24,5.0,NWE,T,T,4.0,140.0
+2014KyleFull,2014,Kyle Fuller,CB,Virginia Tech,6 ft 0 in,190.0,4.49,38.5,12.0,128.0,6.9,4.19,CHI,DB,DB,1.0,14.0
+2014ZachFult,2014,Zach Fulton,OG,Tennessee,6 ft 5 in,316.0,5.16,24.5,25.0,98.0,7.87,5.16,KAN,G,G,6.0,193.0
+2014PhilGain,2014,Phillip Gaines,CB,Rice,6 ft 0 in,193.0,4.38,36.5,11.0,122.0,6.62,4.04,KAN,DB,DB,3.0,87.0
+2014DemeGood,2014,Demetri Goodson,CB,Baylor,5 ft 11 in,194.0,4.52,37.0,11.0,123.0,6.8,4.34,GNB,DB,DB,6.0,197.0
+2014RyanGran,2014,Ryan Grant,WR,Tulane,6 ft 0 in,199.0,4.64,35.5,8.0,119.0,6.68,4.11,WAS,WR,WR,5.0,142.0
+2014Ra'SHage,2014,Ra'Shede Hageman,DT,Minnesota,6 ft 6 in,310.0,4.92,35.5,32.0,114.0,7.87,4.5,ATL,DT,DT,2.0,37.0
+2014AndrHal,2014,Andre Hal,CB,Vanderbilt,5 ft 10 in,188.0,4.5,35.5,15.0,119.0,7.14,4.27,HOU,DB,DB,7.0,216.0
+2014MattHaze,2014,Matt Hazel,WR,Coastal Carolina,6 ft 1 in,198.0,4.5,36.5,15.0,118.0,7.08,4.2,MIA,WR,WR,6.0,190.0
+2014RobeHerr,2014,Robert Herron,WR,Wyoming,5 ft 9 in,193.0,4.48,35.5,18.0,125.0,6.84,4.27,TAM,WR,WR,6.0,185.0
+2014AnthHitc,2014,Anthony Hitchens,OLB,Iowa,6 ft 0 in,240.0,4.74,31.5,23.0,116.0,7.15,4.45,DAL,LB,LB,4.0,119.0
+2014MarqHuff,2014,Marqueston Huff,S,Wyoming,5 ft 11 in,196.0,4.49,35.5,15.0,118.0,7.26,4.19,TEN,DB,DB,4.0,122.0
+2014BennJack,2014,Bennett Jackson,CB,Notre Dame,6 ft 0 in,195.0,4.51,38.0,13.0,128.0,6.75,4.0,NYG,DB,DB,6.0,187.0
+2014GabeJack,2014,Gabe Jackson,OG,Mississippi State,6 ft 3 in,336.0,5.34,29.0,30.0,108.0,8.25,4.78,OAK,G,G,3.0,81.0
+2014Ja'WJame,2014,Ja'Wuan James,OT,Tennessee,6 ft 6 in,311.0,5.26,29.0,22.0,103.0,7.42,4.56,MIA,T,T,1.0,19.0
+2014JeffJani,2014,Jeff Janis,WR,Saginaw Valley State,6 ft 3 in,219.0,4.42,37.5,20.0,123.0,6.64,3.98,GNB,WR,WR,7.0,236.0
+2014DontJohn,2014,Dontae Johnson,CB,North Carolina State,6 ft 2 in,200.0,4.41,38.5,12.0,124.0,6.82,4.24,SFO,DB,DB,4.0,129.0
+2014WeslJohn,2014,Wesley Johnson,C,Vanderbilt,6 ft 5 in,297.0,5.11,29.0,26.0,111.0,7.4,4.64,PIT,OL,C,5.0,173.0
+2014DaQuJone,2014,DaQuan Jones,DT,Penn State,6 ft 4 in,322.0,5.35,27.5,25.0,101.0,7.73,4.78,TEN,DT,DT,4.0,112.0
+2014LamaJoyn,2014,Lamarcus Joyner,CB,Florida State,5 ft 8 in,184.0,4.55,37.5,14.0,124.0,7.26,4.4,STL,DB,DB,2.0,41.0
+2014OdelBeck,2014,"Odell Beckham, Jr.",WR,LSU,5 ft 11 in,198.0,4.38,38.5,7.0,122.0,6.69,3.94,NYG,WR,WR,1.0,12.0
+2014DevoKenn,2014,Devon Kennard,OLB,USC,6 ft 3 in,249.0,4.7,30.0,23.0,113.0,7.25,4.32,NYG,DE,DE,5.0,174.0
+2014CyruKoua,2014,Cyrus Kouandjio,OT,Alabama,6 ft 7 in,322.0,5.59,27.5,21.0,96.0,7.71,4.84,BUF,T,T,2.0,44.0
+2014DemaLawr,2014,Demarcus Lawrence,DE,Boise State,6 ft 3 in,251.0,4.8,34.5,20.0,113.0,7.46,4.31,DAL,DE,DE,2.0,34.0
+2014NeviLaws,2014,Nevin Lawson,CB,Utah State,5 ft 9 in,190.0,4.48,33.0,16.0,120.0,7.12,4.4,DET,DB,DB,4.0,133.0
+2014CharLeno,2014,Charles Leno,OG,Boise State,6 ft 4 in,303.0,5.25,29.0,21.0,108.0,7.57,4.4,CHI,T,T,7.0,246.0
+2014TaylLewa,2014,Taylor Lewan,OT,Michigan,6 ft 7 in,309.0,4.87,30.5,29.0,117.0,7.39,4.49,TEN,T,T,1.0,11.0
+2014ArthLync,2014,Arthur Lynch,TE,Georgia,6 ft 5 in,258.0,4.82,29.5,28.0,116.0,7.38,4.35,MIA,TE,TE,5.0,155.0
+2014KhalMack,2014,Khalil Mack,OLB,Buffalo,6 ft 3 in,251.0,4.65,40.0,23.0,128.0,7.08,4.18,OAK,LB,LB,1.0,5.0
+2014CassMars,2014,Cassius Marsh,DE,UCLA,6 ft 4 in,252.0,4.89,32.0,14.0,108.0,7.08,4.25,SEA,DE,DE,4.0,108.0
+2014KareMart,2014,Kareem Martin,DE,North Carolina,6 ft 6 in,272.0,4.72,35.5,22.0,129.0,7.2,4.33,ARI,DE,DE,3.0,84.0
+2014ZackMart,2014,Zack Martin,OG,Notre Dame,6 ft 4 in,308.0,5.22,28.0,29.0,106.0,7.65,4.59,DAL,G,G,1.0,16.0
+2014JakeMatt,2014,Jake Matthews,OT,Texas A&M,6 ft 5 in,308.0,5.07,30.5,24.0,105.0,7.34,4.47,ATL,T,T,1.0,6.0
+2014JordMatt,2014,Jordan Matthews,WR,Vanderbilt,6 ft 3 in,212.0,4.46,35.5,21.0,120.0,6.95,4.18,PHI,WR,WR,2.0,42.0
+2014JeriMcKi,2014,Jerick McKinnon,RB,Georgia Southern,5 ft 9 in,209.0,4.41,40.5,32.0,132.0,6.83,4.12,MIN,RB,RB,3.0,96.0
+2014JackMewh,2014,Jack Mewhort,OT,Ohio State,6 ft 6 in,309.0,5.37,26.0,28.0,101.0,7.79,4.64,IND,T,T,2.0,59.0
+2014DontMonc,2014,Donte Moncrief,WR,Mississippi,6 ft 2 in,221.0,4.4,39.5,13.0,132.0,7.02,4.3,IND,WR,WR,3.0,90.0
+2014ZachMoor,2014,Zach Moore,DE,Concordia (MN),6 ft 5 in,269.0,4.84,33.5,23.0,123.0,7.41,4.46,NWE,DE,DE,6.0,198.0
+2014TrenMurp,2014,Trent Murphy,DE,Stanford,6 ft 5 in,250.0,4.86,35.5,19.0,118.0,6.78,4.2,WAS,LB,LB,2.0,47.0
+2014JonaNews,2014,Jonathan Newsome,OLB,Ball State,6 ft 3 in,247.0,4.73,34.0,21.0,117.0,7.31,4.63,IND,LB,LB,5.0,166.0
+2014TroyNikl,2014,Troy Niklas,TE,Notre Dame,6 ft 6 in,270.0,4.84,32.0,27.0,114.0,7.57,4.55,ARI,TE,TE,2.0,52.0
+2014KeviNorw,2014,Kevin Norwood,WR,Alabama,6 ft 2 in,198.0,4.48,33.0,8.0,121.0,6.68,4.32,SEA,WR,WR,4.0,123.0
+2014KyleVan,2014,Kyle Van Noy,OLB,BYU,6 ft 3 in,243.0,4.71,32.5,21.0,112.0,7.22,4.2,DET,LB,LB,2.0,40.0
+2014MattPara,2014,Matt Paradis,C,Boise State,6 ft 3 in,306.0,5.34,26.0,23.0,103.0,7.6,4.46,DEN,OL,C,6.0,207.0
+2014KeviPier,2014,Kevin Pierre-Louis,OLB,Boston Col.,6 ft 0 in,232.0,4.51,39.0,28.0,128.0,6.92,4.02,SEA,LB,LB,4.0,132.0
+2014CaraReid,2014,Caraun Reid,DT,Princeton,6 ft 2 in,302.0,4.91,26.5,20.0,106.0,7.59,4.58,DET,DT,DT,5.0,158.0
+2014CyriRich,2014,Cyril Richardson,OG,Baylor,6 ft 5 in,329.0,5.36,25.5,25.0,91.0,7.7,4.83,BUF,G,G,5.0,153.0
+2014WestRich,2014,Weston Richburg,C,Colorado State,6 ft 3 in,298.0,5.1,25.5,25.0,106.0,7.93,4.63,NYG,OL,C,2.0,43.0
+2014GregRobi,2014,Greg Robinson,OT,Auburn,6 ft 5 in,332.0,4.92,28.5,32.0,113.0,7.8,4.86,STL,T,T,1.0,2.0
+2014RichRodg,2014,Richard Rodgers,TE,California,6 ft 4 in,257.0,4.87,31.5,16.0,116.0,7.23,4.47,GNB,TE,TE,3.0,98.0
+2014MichSam,2014,Michael Sam,DE,Missouri,6 ft 2 in,261.0,4.91,25.5,17.0,114.0,7.8,4.7,STL,DE,DE,7.0,249.0
+2014BishSank,2014,Bishop Sankey,RB,Washington,5 ft 9 in,209.0,4.49,35.5,26.0,126.0,6.75,4.0,TEN,RB,RB,2.0,54.0
+2014RyanShaz,2014,Ryan Shazier,OLB,Ohio State,6 ft 1 in,237.0,4.58,42.0,25.0,130.0,6.91,4.21,PIT,LB,LB,1.0,15.0
+2014PrinShem,2014,Prince Shembo,OLB,Notre Dame,6 ft 1 in,253.0,4.71,38.5,26.0,122.0,7.29,4.31,ATL,LB,LB,4.0,139.0
+2014CharSims,2014,Charles Sims,RB,West Virginia,6 ft 0 in,214.0,4.48,37.5,17.0,126.0,7.16,4.3,TAM,RB,RB,3.0,69.0
+2014ChriSmit,2014,Chris Smith,OLB,Arkansas,6 ft 1 in,266.0,4.66,37.0,28.0,121.0,7.55,4.46,JAX,DE,DE,5.0,159.0
+2014MarcSmit,2014,Marcus Smith,DE,Louisville,6 ft 3 in,251.0,4.66,35.0,23.0,121.0,7.48,4.47,PHI,LB,LB,1.0,26.0
+2014TyleStar,2014,Tyler Starr,OLB,South Dakota,6 ft 4 in,250.0,4.95,32.0,24.0,116.0,6.64,4.15,ATL,LB,LB,7.0,255.0
+2014XaviSu'a,2014,Xavier Su'a-Filo,OG,UCLA,6 ft 4 in,307.0,5.04,25.0,25.0,102.0,7.6,4.44,HOU,G,G,2.0,33.0
+2014WillSutt,2014,Will Sutton,DT,Arizona State,6 ft 0 in,303.0,5.36,28.5,24.0,99.0,7.93,4.82,CHI,DT,DT,3.0,82.0
+2014TravSwan,2014,Travis Swanson,C,Arkansas,6 ft 5 in,312.0,5.28,26.0,20.0,95.0,7.73,4.65,DET,C,C,3.0,76.0
+2014LoreTali,2014,Lorenzo Taliaferro,RB,Coastal Carolina,6 ft 0 in,229.0,4.58,33.0,18.0,118.0,6.88,4.22,BAL,RB,RB,4.0,138.0
+2014BranThom,2014,Brandon Thomas,OG,Clemson,6 ft 3 in,317.0,5.09,29.0,35.0,98.0,8.13,4.83,SFO,OL,G,3.0,100.0
+2014KhyrThor,2014,Khyri Thornton,DT,Southern Miss,6 ft 3 in,304.0,5.03,29.0,28.0,112.0,7.83,4.76,GNB,DT,DT,3.0,85.0
+2014JordTrip,2014,Jordan Tripp,OLB,Montana,6 ft 3 in,234.0,4.67,37.5,22.0,120.0,6.89,3.96,MIA,LB,LB,5.0,171.0
+2014BillTurn,2014,Billy Turner,OT,North Dakota State,6 ft 5 in,315.0,5.16,28.0,25.0,108.0,7.92,4.71,MIA,T,T,3.0,67.0
+2014JohnUrsc,2014,John Urschel,OG,Penn State,6 ft 3 in,313.0,5.31,29.0,30.0,102.0,7.55,4.47,BAL,G,G,5.0,175.0
+2014BrocVere,2014,Brock Vereen,S,Minnesota,6 ft 0 in,199.0,4.47,34.0,25.0,117.0,6.9,4.07,CHI,DB,DB,4.0,131.0
+2014SammWatk,2014,Sammy Watkins,WR,Clemson,6 ft 1 in,211.0,4.43,34.0,16.0,126.0,6.95,4.34,BUF,WR,WR,1.0,4.0
+2014LarrWebs,2014,Larry Webster,TE,Bloomsburg,6 ft 6 in,252.0,4.58,36.5,17.0,123.0,7.29,4.44,DET,DE,DE,4.0,136.0
+2014LaveWest,2014,Lavelle Westbrooks,CB,Georgia Southern,5 ft 11 in,186.0,4.63,36.0,15.0,121.0,6.98,4.27,CIN,DB,DB,7.0,252.0
+2014JameWhit,2014,James White,RB,Wisconsin,5 ft 9 in,204.0,4.57,32.0,23.0,114.0,7.05,4.2,NWE,RB,RB,4.0,130.0
+2014AverWill,2014,Avery Williamson,ILB,Kentucky,6 ft 1 in,246.0,4.66,30.5,25.0,120.0,7.11,4.07,TEN,LB,LB,5.0,151.0
+2014DaviYank,2014,David Yankey,OG,Stanford,6 ft 6 in,315.0,5.48,28.5,22.0,103.0,7.81,4.86,MIN,OL,G,5.0,145.0
+2015AmeeAbdu,2015,Ameer Abdullah,RB,Nebraska,5 ft 9 in,205.0,4.6,42.5,24.0,130.0,6.79,3.95,DET,RB,RB,2.0,54.0
+2015Jay Ajay,2015,Jay Ajayi,RB,Boise State,6 ft 0 in,221.0,4.57,39.0,19.0,121.0,7.1,4.1,MIA,RB,RB,5.0,149.0
+2015KwonAlex,2015,Kwon Alexander,OLB,LSU,6 ft 1 in,227.0,4.55,36.0,24.0,121.0,7.14,4.2,TAM,OLB,LB,4.0,124.0
+2015MariAlfo,2015,Mario Alford,WR,West Virginia,5 ft 8 in,180.0,4.43,34.0,13.0,121.0,6.64,4.07,CIN,WR,WR,7.0,238.0
+2015JavoAlle,2015,Javorius Allen,RB,USC,6 ft 0 in,221.0,4.53,35.5,11.0,121.0,6.96,4.28,BAL,RB,RB,4.0,125.0
+2015StepAnth,2015,Stephone Anthony,ILB,Clemson,6 ft 3 in,243.0,4.56,37.0,23.0,122.0,7.07,4.03,NOR,ILB,LB,1.0,31.0
+2015ArikArms,2015,Arik Armstead,DE,Oregon,6 ft 7 in,292.0,5.06,34.0,24.0,117.0,7.57,4.53,SFO,DT,DT,1.0,17.0
+2015Vic Beas,2015,Vic Beasley,OLB,Clemson,6 ft 3 in,246.0,4.53,41.0,35.0,130.0,6.91,4.15,ATL,OLB,LB,1.0,8.0
+2015BlakBell,2015,Blake Bell,TE,Oklahoma,6 ft 6 in,252.0,4.8,33.0,14.0,116.0,6.85,4.32,SFO,TE,TE,4.0,117.0
+2015KennBell,2015,Kenny Bell,WR,Nebraska,6 ft 1 in,197.0,4.42,41.5,7.0,129.0,6.66,4.15,TAM,WR,WR,5.0,162.0
+2015AngeBlac,2015,Angelo Blackson,DT,Auburn,6 ft 4 in,318.0,5.02,31.0,20.0,101.0,7.5,4.57,TEN,DT,DT,4.0,100.0
+2015NickBoyl,2015,Nick Boyle,TE,Pittsburgh,6 ft 4 in,268.0,5.04,30.5,20.0,112.0,7.13,4.23,BAL,TE,TE,5.0,171.0
+2015Da'RBrow,2015,Da'Ron Brown,WR,Northern Illinois,6 ft 0 in,205.0,4.54,37.0,17.0,120.0,7.04,4.11,KAN,WR,WR,7.0,233.0
+2015MalcBrow,2015,Malcom Brown,DT,Texas,6 ft 2 in,319.0,5.05,29.5,26.0,98.0,7.84,4.59,NWE,DT,DT,1.0,32.0
+2015TrenBrow,2015,Trenton Brown,OG,Florida,6 ft 8 in,355.0,5.21,23.5,20.0,97.0,8.23,4.78,SFO,G,G,7.0,244.0
+2015MichBurt,2015,Michael Burton,FB,Rutgers,5 ft 11 in,242.0,4.65,33.0,25.0,115.0,7.2,4.34,DET,FB,FB,5.0,168.0
+2015AlexCart,2015,Alex Carter,CB,Stanford,6 ft 0 in,196.0,4.51,40.0,17.0,121.0,7.05,4.07,DET,CB,DB,3.0,80.0
+2015AnthChic,2015,Anthony Chickillo,DE,Miami (FL),6 ft 3 in,267.0,4.79,34.5,27.0,114.0,7.17,4.25,PIT,DE,DE,6.0,212.0
+2015FranClar,2015,Frank Clark,DE,Michigan,6 ft 3 in,271.0,4.79,38.5,19.0,118.0,7.08,4.05,SEA,DE,DE,2.0,63.0
+2015KaelClay,2015,Kaelin Clay,WR,Utah,5 ft 10 in,195.0,4.51,33.0,10.0,113.0,6.97,4.26,TAM,WR,WR,6.0,184.0
+2015T.J.Clem,2015,T.J. Clemmings,OT,Pittsburgh,6 ft 5 in,309.0,5.14,32.5,22.0,111.0,7.68,4.54,MIN,T,T,4.0,110.0
+2015SammCoat,2015,Sammie Coates,WR,Auburn,6 ft 1 in,212.0,4.43,41.0,23.0,131.0,6.98,4.06,PIT,WR,WR,3.0,87.0
+2015ChriConl,2015,Chris Conley,WR,Georgia,6 ft 2 in,213.0,4.35,45.0,18.0,139.0,7.06,4.3,KAN,WR,WR,3.0,76.0
+2015XaviCoop,2015,Xavier Cooper,DT,Washington State,6 ft 3 in,293.0,4.86,29.0,29.0,110.0,7.23,4.37,CLE,DT,DT,3.0,96.0
+2015JamiCrow,2015,Jamison Crowder,WR,Duke,5 ft 8 in,185.0,4.56,37.0,10.0,115.0,7.17,4.32,WAS,WR,WR,4.0,105.0
+2015RonaDarb,2015,Ronald Darby,CB,Florida State,5 ft 11 in,193.0,4.38,41.5,12.0,129.0,6.94,4.14,BUF,CB,DB,2.0,50.0
+2015GereDavi,2015,Geremy Davis,WR,Connecticut,6 ft 2 in,216.0,4.49,36.5,23.0,124.0,6.86,4.18,NYG,WR,WR,6.0,186.0
+2015MikeDavi,2015,Mike Davis,RB,South Carolina,5 ft 9 in,217.0,4.61,34.0,17.0,116.0,7.0,4.18,SFO,RB,RB,4.0,126.0
+2015TyelDavi,2015,Tyeler Davison,DT,Fresno State,6 ft 2 in,316.0,5.18,33.0,32.0,105.0,7.53,4.46,NOR,DT,DT,5.0,154.0
+2015XzavDick,2015,Xzavier Dickson,OLB,Alabama,6 ft 3 in,260.0,4.74,29.5,19.0,100.0,7.56,4.53,NWE,OLB,LB,7.0,253.0
+2015QuanDigg,2015,Quandre Diggs,CB,Texas,5 ft 9 in,196.0,4.56,35.5,17.0,113.0,7.22,4.15,DET,CB,DB,6.0,200.0
+2015AndrDonn,2015,Andrew Donnal,OT,Iowa,6 ft 6 in,313.0,5.31,32.0,17.0,101.0,7.84,4.77,STL,T,T,4.0,119.0
+2015PhilDors,2015,Phillip Dorsett,WR,Miami (FL),5 ft 10 in,185.0,4.33,37.0,13.0,122.0,6.7,4.11,IND,WR,WR,1.0,29.0
+2015LoreDoss,2015,Lorenzo Doss,CB,Tulane,5 ft 10 in,182.0,4.5,33.5,9.0,115.0,7.2,4.26,DEN,CB,DB,5.0,164.0
+2015JamiDoug,2015,Jamil Douglas,OG,Arizona State,6 ft 4 in,304.0,5.25,29.0,28.0,99.0,7.99,4.75,MIA,G,G,4.0,114.0
+2015KyleEman,2015,Kyle Emanuel,OLB,North Dakota State,6 ft 3 in,255.0,4.77,34.0,27.0,120.0,7.1,4.25,SDG,OLB,LB,5.0,153.0
+2015CameErvi,2015,Cameron Erving,C,Florida State,6 ft 5 in,313.0,5.15,30.5,30.0,112.0,7.48,4.63,CLE,C,C,1.0,19.0
+2015TreyFlow,2015,Trey Flowers,DE,Arkansas,6 ft 2 in,266.0,4.93,36.5,28.0,121.0,7.34,4.4,NWE,DE,DE,4.0,101.0
+2015DantFowl,2015,Dante Fowler,OLB,Florida,6 ft 3 in,261.0,4.6,32.5,19.0,112.0,7.4,4.32,JAX,OLB,LB,1.0,3.0
+2015JalsFowl,2015,Jalston Fowler,FB,Alabama,5 ft 11 in,254.0,4.94,33.5,23.0,114.0,7.56,4.4,TEN,FB,FB,4.0,108.0
+2015AndyGall,2015,Andy Gallik,C,Boston Col.,6 ft 2 in,306.0,5.5,27.0,29.0,96.0,7.66,4.58,TEN,C,C,6.0,208.0
+2015ClayGeat,2015,Clayton Geathers,S,Central Florida,6 ft 2 in,218.0,4.55,37.0,22.0,120.0,7.21,4.27,IND,SS,DB,4.0,109.0
+2015LaurGibs,2015,Laurence Gibson,OT,Virginia Tech,6 ft 6 in,305.0,5.04,33.5,24.0,113.0,7.72,4.56,DAL,T,T,7.0,243.0
+2015MarkGlow,2015,Mark Glowinski,OG,West Virginia,6 ft 4 in,307.0,5.2,29.5,31.0,113.0,7.56,4.58,SEA,G,G,4.0,134.0
+2015SenqGols,2015,Senquez Golson,CB,Mississippi,5 ft 9 in,176.0,4.46,33.5,15.0,120.0,6.81,4.2,PIT,CB,DB,2.0,56.0
+2015MelvGord,2015,Melvin Gordon,RB,Wisconsin,6 ft 1 in,215.0,4.52,35.0,19.0,126.0,7.04,4.07,SDG,RB,RB,1.0,15.0
+2015ChazGree,2015,Chaz Green,OT,Florida,6 ft 5 in,314.0,5.16,29.5,21.0,106.0,8.0,4.7,DAL,T,T,3.0,91.0
+2015DoriGree,2015,Dorial Green-Beckham,WR,Oklahoma,6 ft 5 in,237.0,4.49,33.5,13.0,119.0,6.89,4.45,TEN,WR,WR,2.0,40.0
+2015GeneGris,2015,Geneo Grissom,OLB,Oklahoma,6 ft 3 in,262.0,4.81,37.0,20.0,117.0,7.24,4.38,NWE,DE,DE,3.0,97.0
+2015ObumGwac,2015,Obum Gwacham,DE,Oregon State,6 ft 5 in,246.0,4.72,36.0,22.0,121.0,7.28,4.28,SEA,DE,DE,6.0,209.0
+2015BrycHage,2015,Bryce Hager,ILB,Baylor,6 ft 1 in,234.0,4.6,35.0,26.0,117.0,7.15,4.36,STL,ILB,LB,7.0,224.0
+2015JustHard,2015,Justin Hardy,WR,East Carolina,5 ft 10 in,192.0,4.56,36.5,11.0,114.0,6.63,4.21,ATL,WR,WR,4.0,107.0
+2015JarvHarr,2015,Jarvis Harrison,OG,Texas A&M,6 ft 4 in,330.0,5.19,29.5,26.0,102.0,7.51,4.62,NYJ,G,G,5.0,152.0
+2015Rob Have,2015,Rob Havenstein,OT,Wisconsin,6 ft 7 in,321.0,5.46,28.5,16.0,96.0,8.28,4.87,STL,T,T,2.0,57.0
+2015Ben Heen,2015,Ben Heeney,ILB,Kansas,6 ft 0 in,231.0,4.59,33.5,19.0,120.0,6.68,4.0,OAK,ILB,LB,5.0,140.0
+2015AmarHerr,2015,Amarlo Herrera,ILB,Georgia,6 ft 1 in,244.0,4.83,32.0,23.0,111.0,7.35,4.27,IND,ILB,LB,6.0,207.0
+2015JordHick,2015,Jordan Hicks,OLB,Texas,6 ft 1 in,236.0,4.68,38.0,20.0,124.0,6.78,4.15,PHI,OLB,LB,3.0,84.0
+2015D.J.Hump,2015,D.J. Humphries,OT,Florida,6 ft 5 in,307.0,5.12,31.0,26.0,104.0,7.87,4.64,ARI,T,T,1.0,24.0
+2015MartIfed,2015,Martin Ifedi,DE,Memphis,6 ft 3 in,275.0,4.88,31.0,16.0,111.0,7.39,4.58,STL,DE,DE,7.0,227.0
+2015JoeyIose,2015,Joey Iosefa,FB,Hawaii,6 ft 0 in,247.0,5.02,31.5,30.0,110.0,7.24,4.33,TAM,FB,FB,7.0,231.0
+2015JessJame,2015,Jesse James,TE,Penn State,6 ft 7 in,261.0,4.83,37.5,26.0,121.0,7.53,4.5,PIT,TE,TE,5.0,160.0
+2015GradJarr,2015,Grady Jarrett,DT,Clemson,6 ft 1 in,304.0,5.06,31.0,30.0,112.0,7.37,4.56,ATL,NT,DT,5.0,137.0
+2015KyshJarr,2015,Kyshoen Jarrett,S,Virginia Tech,5 ft 10 in,200.0,4.57,33.0,21.0,109.0,6.95,4.4,WAS,SS,DB,6.0,181.0
+2015DaviJohn,2015,David Johnson,RB,New Mexico,6 ft 1 in,224.0,4.5,41.5,25.0,127.0,6.82,4.27,ARI,RB,RB,3.0,86.0
+2015MariEdwa,2015,"Mario Edwards, Jr.",DE,Florida State,6 ft 3 in,279.0,4.76,32.5,32.0,120.0,7.44,4.55,OAK,DT,DT,2.0,35.0
+2015TonyLipp,2015,Tony Lippett,WR,Michigan State,6 ft 2 in,192.0,4.61,36.0,10.0,114.0,6.92,4.13,MIA,WR,WR,5.0,156.0
+2015CraiMage,2015,Craig Mager,CB,Texas State,5 ft 11 in,201.0,4.44,38.0,17.0,130.0,6.83,4.07,SDG,CB,DB,3.0,83.0
+2015Ali Marp,2015,Ali Marpet,OG,Hobart & William Smith,6 ft 4 in,307.0,4.98,30.5,30.0,108.0,7.33,4.47,TAM,C,C,2.0,61.0
+2015LoreMaul,2015,Lorenzo Mauldin,OLB,Louisville,6 ft 4 in,259.0,4.85,32.0,23.0,112.0,7.47,4.58,NYJ,OLB,LB,3.0,82.0
+2015Tre McBr,2015,Tre McBride,WR,William & Mary,6 ft 0 in,210.0,4.41,38.0,16.0,122.0,6.96,4.08,TEN,WR,WR,7.0,245.0
+2015BobbMcCa,2015,Bobby McCain,CB,Memphis,5 ft 9 in,195.0,4.51,36.0,17.0,130.0,6.8,3.82,MIA,CB,DB,5.0,145.0
+2015BenaMcKi,2015,Benardrick McKinney,ILB,Mississippi State,6 ft 4 in,246.0,4.66,40.5,16.0,121.0,7.21,4.27,HOU,ILB,LB,2.0,43.0
+2015JohnMill,2015,John Miller,OG,Louisville,6 ft 2 in,303.0,5.33,27.0,29.0,104.0,8.2,4.75,BUF,G,G,3.0,81.0
+2015MitcMors,2015,Mitch Morse,OG,Missouri,6 ft 5 in,305.0,5.14,31.0,36.0,112.0,7.6,4.5,KAN,G,G,2.0,49.0
+2015StevNels,2015,Steven Nelson,CB,Oregon State,5 ft 10 in,197.0,4.49,34.5,19.0,115.0,6.88,4.07,KAN,CB,DB,3.0,98.0
+2015RakeNune,2015,Rakeem Nunez-Roches,DT,Southern Miss,6 ft 2 in,307.0,5.02,34.0,26.0,114.0,7.67,4.69,KAN,DT,DT,6.0,217.0
+2015NickO'Le,2015,Nick O'Leary,TE,Florida State,6 ft 3 in,252.0,4.93,30.5,21.0,110.0,7.4,4.5,BUF,TE,TE,6.0,194.0
+2015OwamOdig,2015,Owamagbe Odighizuwa,DE,UCLA,6 ft 3 in,267.0,4.62,39.0,25.0,127.0,7.36,4.19,NYG,DE,DE,3.0,74.0
+2015MarcPete,2015,Marcus Peters,CB,Washington,6 ft 0 in,197.0,4.53,37.5,17.0,121.0,7.08,4.08,KAN,CB,DB,1.0,18.0
+2015JordPhil,2015,Jordan Phillips,DT,Oklahoma,6 ft 5 in,329.0,5.17,30.0,28.0,105.0,7.88,4.68,MIA,NT,DT,2.0,52.0
+2015TerrPool,2015,Terry Poole,OT,San Diego State,6 ft 5 in,307.0,5.09,31.0,25.0,113.0,7.9,4.66,SEA,G,G,4.0,130.0
+2015JerePout,2015,Jeremiah Poutasi,OG,Utah,6 ft 5 in,335.0,5.32,26.5,26.0,95.0,8.09,4.89,TEN,G,G,3.0,66.0
+2015MyCoPrui,2015,MyCole Pruitt,TE,Southern Illinois,6 ft 2 in,251.0,4.58,38.0,17.0,118.0,7.25,4.37,MIN,TE,TE,5.0,143.0
+2015HayePull,2015,Hayes Pullard,ILB,USC,6 ft 0 in,240.0,4.78,31.0,19.0,110.0,7.07,4.39,CLE,ILB,LB,7.0,219.0
+2015DamaRand,2015,Damarious Randall,S,Arizona State,5 ft 11 in,196.0,4.46,38.0,14.0,120.0,6.83,4.07,GNB,FS,DB,1.0,30.0
+2015JordRich,2015,Jordan Richards,S,Stanford,5 ft 11 in,211.0,4.65,32.0,13.0,111.0,6.74,4.22,NWE,SS,DB,2.0,64.0
+2015EdmoRobi,2015,Edmond Robinson,OLB,Newberry,6 ft 3 in,245.0,4.61,37.0,20.0,121.0,7.49,4.38,MIN,OLB,LB,7.0,232.0
+2015QuinRoll,2015,Quinten Rollins,CB,Miami (OH),5 ft 11 in,195.0,4.57,36.5,14.0,122.0,7.1,4.28,GNB,CB,DB,2.0,62.0
+2015EricRowe,2015,Eric Rowe,CB,Utah,6 ft 1 in,205.0,4.45,39.0,19.0,125.0,6.7,3.97,PHI,CB,DB,2.0,47.0
+2015RyanRuss,2015,Ryan Russell,DE,Purdue,6 ft 4 in,269.0,4.75,32.5,25.0,119.0,7.25,4.47,DAL,DE,DE,5.0,163.0
+2015JakeRyan,2015,Jake Ryan,OLB,Michigan,6 ft 2 in,240.0,4.65,34.5,20.0,120.0,7.11,4.2,GNB,OLB,LB,4.0,129.0
+2015Ty SSamb,2015,Ty Sambrailo,OT,Colorado State,6 ft 6 in,311.0,5.36,29.0,23.0,97.0,7.54,4.58,DEN,T,T,2.0,59.0
+2015JoshShaw,2015,Josh Shaw,CB,USC,6 ft 0 in,201.0,4.44,37.5,26.0,130.0,7.01,4.12,CIN,CB,DB,4.0,120.0
+2015DannShel,2015,Danny Shelton,DT,Washington,6 ft 2 in,339.0,5.64,30.5,34.0,95.0,7.99,4.65,CLE,NT,DT,1.0,12.0
+2015AustShep,2015,Austin Shepherd,OT,Alabama,6 ft 4 in,315.0,5.39,29.0,17.0,94.0,8.04,4.7,MIN,T,T,7.0,228.0
+2015DeonSimo,2015,Deon Simon,DT,NW State (LA),6 ft 4 in,321.0,5.12,29.5,35.0,105.0,7.92,4.76,NYJ,NT,DT,7.0,223.0
+2015D'JoSmit,2015,D'Joun Smith,CB,Florida Atlantic,5 ft 10 in,187.0,4.37,36.0,18.0,124.0,6.96,4.26,IND,CB,DB,3.0,65.0
+2015DonoSmit,2015,Donovan Smith,OT,Penn State,6 ft 6 in,338.0,5.27,32.0,26.0,109.0,7.95,4.79,TAM,T,T,2.0,34.0
+2015PresSmit,2015,Preston Smith,DE,Mississippi State,6 ft 5 in,271.0,4.74,34.0,24.0,121.0,7.07,4.28,WAS,DE,DE,2.0,38.0
+2015Tye Smit,2015,Tye Smith,CB,Towson,6 ft 0 in,195.0,4.6,36.5,15.0,124.0,6.97,3.96,SEA,CB,DB,5.0,170.0
+2015Za'DSmit,2015,Za'Darius Smith,DE,Kentucky,6 ft 4 in,274.0,4.83,29.0,23.0,113.0,7.42,4.66,BAL,DE,DE,4.0,122.0
+2015LakeToml,2015,Laken Tomlinson,OG,Duke,6 ft 3 in,323.0,5.33,31.5,25.0,103.0,8.17,4.87,DET,G,G,1.0,28.0
+2015ClivWalf,2015,Clive Walford,TE,Miami (FL),6 ft 4 in,251.0,4.79,35.0,20.0,120.0,7.32,4.57,OAK,TE,TE,3.0,68.0
+2015DarrWall,2015,Darren Waller,WR,Georgia Tech,6 ft 6 in,238.0,4.46,37.0,12.0,125.0,7.07,4.25,BAL,WR,WR,6.0,204.0
+2015LeteWalt,2015,Leterrius Walton,DT,Central Michigan,6 ft 5 in,319.0,5.25,27.0,25.0,103.0,7.91,4.78,PIT,DT,DT,6.0,199.0
+2015TraeWayn,2015,Trae Waynes,CB,Michigan State,6 ft 0 in,186.0,4.31,38.0,19.0,122.0,7.06,4.39,MIN,CB,DB,1.0,11.0
+2015KeviWhit,2015,Kevin White,WR,West Virginia,6 ft 3 in,215.0,4.35,36.5,23.0,123.0,6.92,4.14,CHI,WR,WR,1.0,7.0
+2015KarlWill,2015,Karlos Williams,RB,Florida State,6 ft 1 in,230.0,4.48,33.5,16.0,117.0,7.16,4.46,BUF,RB,RB,5.0,155.0
+2015MaxxWill,2015,Maxx Williams,TE,Minnesota,6 ft 4 in,249.0,4.78,34.5,17.0,117.0,7.3,4.37,BAL,TE,TE,2.0,55.0
+2015P.J.Will,2015,P.J. Williams,CB,Florida State,6 ft 0 in,194.0,4.57,40.0,12.0,132.0,7.08,4.28,NOR,CB,DB,3.0,78.0
+2015DamiWils,2015,Damien Wilson,ILB,Minnesota,6 ft 0 in,245.0,4.77,37.0,22.0,119.0,7.21,4.2,DAL,ILB,LB,4.0,127.0
+2015GabeWrig,2015,Gabe Wright,DT,Auburn,6 ft 3 in,300.0,5.07,26.5,34.0,100.0,7.73,4.56,DET,DT,DT,4.0,113.0
+2015T.J.Yeld,2015,T.J. Yeldon,RB,Alabama,6 ft 1 in,226.0,4.61,36.0,22.0,117.0,7.19,4.22,JAX,RB,RB,2.0,36.0
