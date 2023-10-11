@@ -33,11 +33,10 @@
     -	Optimized Team Selection: Enables NFL teams to make more informed choices during player drafts, leading to more competitive and successful rosters.
 
 *	<b>Performance Metrics:</b><br>
-<p>To assess the impact and effectiveness of the project, the following key performance indicators will be employed:</p>
-
-    * Performance Metrics: Success will be evaluated based on the project's ability to establish significant correlations between player metrics, combine results, and eventual NFL performance. This analysis will drive targeted recommendations for players seeking to maximize their potential.
-    * Draft Success Rate: The project's effectiveness will be measured by tracking the success rate of players recommended by the model in actual NFL drafts. A higher rate of drafted players achieving successful careers will indicate the model's accuracy.
-    * Long-Term Success Stories: Tracking the careers of players who received recommendations and eventually made it into the NFL will serve as a testament to the project's effectiveness in identifying true potential.
+    -	To assess the impact and effectiveness of the project, the following key performance indicators will be employed:
+    -	Performance Metrics: Success will be evaluated based on the project's ability to establish significant correlations between player metrics, combine results, and eventual NFL performance. This analysis will drive targeted recommendations for players seeking to maximize their potential.
+    -	Draft Success Rate: The project's effectiveness will be measured by tracking the success rate of players recommended by the model in actual NFL drafts. A higher rate of drafted players achieving successful careers will indicate the model's accuracy.
+    -	Long-Term Success Stories: Tracking the careers of players who received recommendations and eventually made it into the NFL will serve as a testament to the project's effectiveness in identifying true potential.
 
 ### Project Outline:
 *	Data cleaning (Python)
