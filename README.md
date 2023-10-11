@@ -44,13 +44,13 @@
     -	perform corr heatmap
     -	delete highly correlated columns
     -	edit nan’s and duplicates
-    -	Data exploration (Tableau)
-            -	Visualize distribution of target variables
-            -	.describe()/.summary() for each metric
-            -	df.hist(bins=10)
-            -	40yd dash, shuttle, vertical, bench, broad jump, etc. over the years
-            -	find which teams had the most draft picks
-            -	which colleges had the most players in the draft
+    -	Data exploration (Tableau)<br>
+            -	Visualize distribution of target variables<br>
+            -	.describe()/.summary() for each metric<br>
+            -	df.hist(bins=10)<br>
+            -	40yd dash, shuttle, vertical, bench, broad jump, etc. over the years<br>
+            -	find which teams had the most draft picks<br>
+            -	which colleges had the most players in the draft<br>
     -	Scale data (use StandardScaler)
     -	split data into test/train (2000 - 2014 is training, 2015 is test)
 * 	Models to Use (Python):
