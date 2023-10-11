@@ -39,21 +39,21 @@
     -	<b>Long-Term Success Stories:</b> Tracking the careers of players who received recommendations and eventually made it into the NFL will serve as a testament to the project's effectiveness in identifying true potential.
 
 ### Project Outline:
-*	Data cleaning (Python)
+*	Data cleaning <b>(Python)</b>
     -	merge datasets
     -	perform corr heatmap
     -	delete highly correlated columns
     -	edit nan’s and duplicates
-    -	Data exploration (Tableau)<br>
+    -	Data exploration <b>(Tableau)</b><br>
             -	Visualize distribution of target variables<br>
             -	.describe()/.summary() for each metric<br>
             -	df.hist(bins=10)<br>
             -	40yd dash, shuttle, vertical, bench, broad jump, etc. over the years<br>
             -	find which teams had the most draft picks<br>
             -	which colleges had the most players in the draft<br>
-    -	Scale data (use StandardScaler)
+    -	Scale data <b>(use StandardScaler)</b>
     -	split data into test/train (2000 - 2014 is training, 2015 is test)
-* 	Models to Use (Python):
+* 	Models to Use <b>(Python)</b>:
     -	Decision Tree
     -	Naive Bayes
     -	KNN
