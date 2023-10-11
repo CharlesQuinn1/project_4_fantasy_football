@@ -4,6 +4,7 @@
 ### Project Proposal: Predicting NFL Draft Round/Pick Order
 
 ### Project Overview:
+---
 *	<b>Project Team Members:</b>
     -	Charles Quinn inlikequinn1@gmail.com 
     -	Alice Liu alice.liu053@gmail.com 
@@ -27,6 +28,7 @@
     -	https://www.kaggle.com/datasets/ulrikthygepedersen/nfl-draft-1985-2015/data
 
 ### Rationale for the Project:
+---
 * 	<b>Project Advantages:</b>
     -	Informed Player Choices: Equips players with data-backed insights to make strategic decisions about their NFL aspirations.
     -	Proactive Talent Development: Supports players in identifying areas for improvement, thereby increasing their chances of success in the NFL.
@@ -39,6 +41,7 @@
     -	<b>Long-Term Success Stories:</b> Tracking the careers of players who received recommendations and eventually made it into the NFL will serve as a testament to the project's effectiveness in identifying true potential.
 
 ### Project Outline:
+---
 *	Data cleaning <b>(Python)</b>
     -	merge datasets
     -	perform corr heatmap
