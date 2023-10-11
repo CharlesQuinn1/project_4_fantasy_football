@@ -1,7 +1,7 @@
 ![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/assets/128498023/94db26c1-e664-4ba2-a028-62e958fb35bd)
 
 
-Project Proposal: Predicting NFL Draft Round/Pick Order
+### Project Proposal: Predicting NFL Draft Round/Pick Order
 
 Project Overview:
 *	<b>Project Team Members:</b>
@@ -10,20 +10,22 @@ Project Overview:
     -	Brandon Loredo  bloredo1987@gmail.com  
     -	Bryan Miller Bryanmiller512@Gmail.com 
 
-*	<b>Project Scope and Objectives:</b>
-<p>The objective of this project is to develop a predictive machine learning algorithm leveraging NFL Combine results data spanning from 2000 to 2015. This algorithm is designed to assess an athlete's likelihood of transitioning into a professional NFL career based on their performance metrics during the Combine. By thoroughly analyzing this historical dataset, we intend to uncover crucial patterns and trends that significantly influence a player's potential NFL success. The primary aim is to provide valuable insights for both players and scouts, aiding in decision-making processes and potentially revolutionizing talent evaluation within the NFL.</p>
+*	<b>Project Scope and Objectives:</b><br>
+<p>The objective of this project is to develop a predictive machine learning algorithm leveraging NFL Combine results data spanning from 2000 to 2015. This algorithm is designed to assess an athlete's likelihood of transitioning into a professional NFL career based on their performance metrics during the Combine. By thoroughly analyzing this historical dataset, we intend to uncover crucial patterns and trends that significantly influence a player's potential NFL success. The primary aim is to provide valuable insights for both players and scouts, aiding in decision-making processes and potentially revolutionizing talent evaluation within the NFL.</p><br>
 
-●	Key Objectives:
-o	Assess NFL Combine data from 2000 to 2015
-o	Identify key performance metrics crucial for NFL success
-o	Develop a machine learning model for player evaluation
-o	Evaluate the model's predictive accuracy and reliability
-o	Provide actionable insights for players and scouts
-o	Enhance talent evaluation processes within the NFL
-o	Enable data-driven decision-making in player selection
-o	Link to dataset:
-o	https://www.kaggle.com/datasets/mitchellweg1/nfl-combine-results-dataset-2000-2022 
-o	https://www.kaggle.com/datasets/ulrikthygepedersen/nfl-draft-1985-2015/data 
+*	<b>Key Objectives:</b>
+    -	Assess NFL Combine data from 2000 to 2015
+    -	Identify key performance metrics crucial for NFL success
+    -	Develop a machine learning model for player evaluation
+    -	Evaluate the model's predictive accuracy and reliability
+    -	Provide actionable insights for players and scouts
+    -	Enhance talent evaluation processes within the NFL
+    -	Enable data-driven decision-making in player selection
+
+*	<b>Link to dataset:</b>
+    -	https://www.kaggle.com/datasets/mitchellweg1/nfl-combine-results-dataset-2000-2022 
+    -	https://www.kaggle.com/datasets/ulrikthygepedersen/nfl-draft-1985-2015/data
+
 Rationale for the Project:
 ●	Project Advantages:
 o	Informed Player Choices: Equips players with data-backed insights to make strategic decisions about their NFL aspirations.
