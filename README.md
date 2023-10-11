@@ -10,8 +10,9 @@ Project Overview:
     -	Brandon Loredo  bloredo1987@gmail.com  
     -	Bryan Miller Bryanmiller512@Gmail.com 
 
-●	Project Scope and Objectives:
-The objective of this project is to develop a predictive machine learning algorithm leveraging NFL Combine results data spanning from 2000 to 2015. This algorithm is designed to assess an athlete's likelihood of transitioning into a professional NFL career based on their performance metrics during the Combine. By thoroughly analyzing this historical dataset, we intend to uncover crucial patterns and trends that significantly influence a player's potential NFL success. The primary aim is to provide valuable insights for both players and scouts, aiding in decision-making processes and potentially revolutionizing talent evaluation within the NFL.
+*	<b>Project Scope and Objectives:</b>
+<p>The objective of this project is to develop a predictive machine learning algorithm leveraging NFL Combine results data spanning from 2000 to 2015. This algorithm is designed to assess an athlete's likelihood of transitioning into a professional NFL career based on their performance metrics during the Combine. By thoroughly analyzing this historical dataset, we intend to uncover crucial patterns and trends that significantly influence a player's potential NFL success. The primary aim is to provide valuable insights for both players and scouts, aiding in decision-making processes and potentially revolutionizing talent evaluation within the NFL.</p>
+
 ●	Key Objectives:
 o	Assess NFL Combine data from 2000 to 2015
 o	Identify key performance metrics crucial for NFL success
