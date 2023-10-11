@@ -5,7 +5,7 @@
 
 ### Project Overview:
 ---
-<b>Project Team Members:</b>
+<b>Project Team Members:</b><br>
     -	Charles Quinn inlikequinn1@gmail.com 
     -	Alice Liu alice.liu053@gmail.com 
     -	Brandon Loredo  bloredo1987@gmail.com  
