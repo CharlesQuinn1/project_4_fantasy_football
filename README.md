@@ -1,4 +1,5 @@
-## P
+![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/assets/128498023/94db26c1-e664-4ba2-a028-62e958fb35bd)
+
 
 Project Proposal: Predicting NFL Draft Round/Pick Order
 
