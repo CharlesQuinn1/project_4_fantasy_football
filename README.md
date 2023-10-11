@@ -3,7 +3,7 @@
 
 ### Project Proposal: Predicting NFL Draft Round/Pick Order
 
-Project Overview:
+### Project Overview:
 *	<b>Project Team Members:</b>
     -	Charles Quinn inlikequinn1@gmail.com 
     -	Alice Liu alice.liu053@gmail.com 
@@ -26,37 +26,39 @@ Project Overview:
     -	https://www.kaggle.com/datasets/mitchellweg1/nfl-combine-results-dataset-2000-2022 
     -	https://www.kaggle.com/datasets/ulrikthygepedersen/nfl-draft-1985-2015/data
 
-Rationale for the Project:
-●	Project Advantages:
-o	Informed Player Choices: Equips players with data-backed insights to make strategic decisions about their NFL aspirations.
-o	Proactive Talent Development: Supports players in identifying areas for improvement, thereby increasing their chances of success in the NFL.
-o	Optimized Team Selection: Enables NFL teams to make more informed choices during player drafts, leading to more competitive and successful rosters.
-●	Performance Metrics:
-To assess the impact and effectiveness of the project, the following key performance indicators will be employed:
-o	Performance Metrics: Success will be evaluated based on the project's ability to establish significant correlations between player metrics, combine results, and eventual NFL performance. This analysis will drive targeted recommendations for players seeking to maximize their potential.
-o	Draft Success Rate: The project's effectiveness will be measured by tracking the success rate of players recommended by the model in actual NFL drafts. A higher rate of drafted players achieving successful careers will indicate the model's accuracy.
-o	Long-Term Success Stories: Tracking the careers of players who received recommendations and eventually made it into the NFL will serve as a testament to the project's effectiveness in identifying true potential.
-Project Outline:
-o	Data cleaning (Python)
-●	merge datasets
-●	perform corr heatmap
-●	delete highly correlated columns
-●	edit nan’s and duplicates
-●	Data exploration (Tableau)
-●	Visualize distribution of target variables
-●	.describe()/.summary() for each metric
-●	df.hist(bins=10)
-●	40yd dash, shuttle, vertical, bench, broad jump, etc. over the years
-●	find which teams had the most draft picks
-●	which colleges had the most players in the draft
-●	Scale data (use StandardScaler)
-●	split data into test/train (2000 - 2014 is training, 2015 is test)
-o	Models to Use (Python):
-●	Decision Tree
-●	Naive Bayes
-●	KNN
-●	Neural net
-●	Xgboost
-o	Analysis
-●	Compare each model using MSE, MAE, Acc, Loss
-●	pick the best one! 
+### Rationale for the Project:
+* 	<b>Project Advantages:</b>
+    -	Informed Player Choices: Equips players with data-backed insights to make strategic decisions about their NFL aspirations.
+    -	Proactive Talent Development: Supports players in identifying areas for improvement, thereby increasing their chances of success in the NFL.
+    -	Optimized Team Selection: Enables NFL teams to make more informed choices during player drafts, leading to more competitive and successful rosters.
+
+*	<b>Performance Metrics:</b>
+<p>To assess the impact and effectiveness of the project, the following key performance indicators will be employed:</p>
+    -	Performance Metrics: Success will be evaluated based on the project's ability to establish significant correlations between player metrics, combine results, and eventual NFL performance. This analysis will drive targeted recommendations for players seeking to maximize their potential.
+    -	Draft Success Rate: The project's effectiveness will be measured by tracking the success rate of players recommended by the model in actual NFL drafts. A higher rate of drafted players achieving successful careers will indicate the model's accuracy.
+    -	Long-Term Success Stories: Tracking the careers of players who received recommendations and eventually made it into the NFL will serve as a testament to the project's effectiveness in identifying true potential.
+
+### Project Outline:
+*	Data cleaning (Python)
+    -	merge datasets
+    -	perform corr heatmap
+    -	delete highly correlated columns
+    -	edit nan’s and duplicates
+    -	Data exploration (Tableau)
+            -	Visualize distribution of target variables
+            -	.describe()/.summary() for each metric
+            -	df.hist(bins=10)
+            -	40yd dash, shuttle, vertical, bench, broad jump, etc. over the years
+            -	find which teams had the most draft picks
+            -	which colleges had the most players in the draft
+    -	Scale data (use StandardScaler)
+    -	split data into test/train (2000 - 2014 is training, 2015 is test)
+* 	Models to Use (Python):
+    -	Decision Tree
+    -	Naive Bayes
+    -	KNN
+    -	Neural net
+    -	Xgboost
+*	Analysis
+    -	Compare each model using MSE, MAE, Acc, Loss
+    -	pick the best one! 
