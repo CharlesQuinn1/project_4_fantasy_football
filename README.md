@@ -2,8 +2,6 @@
 
 
 
-### Project Proposal: Predicting NFL Draft Round/Pick Order
-
 ### Project Overview:
 ---
 <b>Project Team Members:</b><br>
