@@ -31,7 +31,8 @@ nfl_df.rename(columns={'player': 'player_name', 'rnd': 'draft_round', 'pick': 'd
 nfl_df = nfl_df.loc[(nfl_df['year'] >= 2000) & (nfl_df['year'] <= 2015)]
 
 # Remove NaN values from dataframe
-nfl_clean_df = nfl_df.dropna()
+# nfl_clean_df = nfl_df.dropna()
+nfl_clean_df = nfl_df.copy()
 
 # Add player_id column to dataframe year + 4 character last name + 4 character first name because of same name for different players
 nfl_clean_df['player_id'] = nfl_clean_df['year'].astype(str) + nfl_clean_df['player_name'].str[:4] + nfl_clean_df['player_name'].str.split(' ').str[1].str[:4]
@@ -68,7 +69,8 @@ combine_df.rename(columns={'Ht': 'height', 'Wt': 'weight', '40yd': 'forty_yard',
 combine_df['player_id'] = combine_df['year'].astype(str) + combine_df['player_name'].str[:4] + combine_df['player_name'].str.split(' ').str[1].str[:4]
 
 # Remove NaN values from dataframe
-combine_clean_df = combine_df.dropna()
+# combine_clean_df = combine_df.dropna()
+combine_clean_df = combine_df.copy()
 
 # Drop record where player_name = 'Malcolm Brown' because of two players with Malcolm and Malcom Brown name
 combine_clean_df = combine_clean_df[combine_clean_df['player_name'] != 'Malcolm Brown']
@@ -88,7 +90,8 @@ draft_df = draft_df[['player_id', 'year', 'player_name', 'position_combine', 'Sc
                      'bench_press', 'broad_jump', 'three_cone', 'shuttle_run', 'nfl_team', 'position_nfl', 'position_nfl_standard', 'draft_round', 'draft_pick']]
 
 # Remove NaN values from dataframe
-draft_df = draft_df.dropna()
+# draft_df = draft_df.dropna()
+draft_v02_df = draft_df.copy()
 
 # write df to csv
-draft_df.to_csv('C:\\Bootcamp_Git\\project_4_healthcare\\NFL_data\\draft_df.csv', index=False)
+draft_v02_df.to_csv('C:\\Bootcamp_Git\\project_4_healthcare\\NFL_data\\draft_df.csv', index=False)
