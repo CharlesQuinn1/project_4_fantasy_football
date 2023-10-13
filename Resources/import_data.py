@@ -94,4 +94,4 @@ draft_df = draft_df[['player_id', 'year', 'player_name', 'position_combine', 'Sc
 draft_v02_df = draft_df.copy()
 
 # write df to csv
-draft_v02_df.to_csv('C:\\Bootcamp_Git\\project_4_healthcare\\NFL_data\\draft_df.csv', index=False)
+draft_v02_df.to_csv('C:\\Bootcamp_Git\\project_4_healthcare\\NFL_data\\draft_v02_df.csv', index=False)
