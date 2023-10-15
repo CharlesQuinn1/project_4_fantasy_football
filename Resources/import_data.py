@@ -41,7 +41,7 @@ for name in names:
 
 # ---Step 4: clean data---
 # Remove unnecessary columns from dataframe
-nfl_df = nfl_df[['player', 'year', 'rnd', 'pick', 'tm', 'pos', 'position_standard']]
+nfl_df = nfl_df[['player', 'year', 'rnd', 'pick', 'tm', 'pos', 'position_standard', 'college_univ']]
 
 # Convert year to int
 nfl_df['year'] = nfl_df['year'].astype(int)
@@ -50,7 +50,14 @@ nfl_df['year'] = nfl_df['year'].astype(int)
 nfl_df = nfl_df.loc[(nfl_df['year'] >= 2000) & (nfl_df['year'] <= 2015)]
 
 # Add player_id column to dataframe year + 4 character last name + 4 character first name because of same name for different players
-nfl_df['player_id'] = nfl_df['year'].astype(str) + nfl_df['player'].str[:4] + nfl_df['player'].str.split(' ').str[1].str[:4]
+nfl_df['player_id'] = nfl_df['year'].astype(str) + nfl_df['player'].str.split(' ').str[1].str.upper() + nfl_df['player'].str.split(' ').str[0].str.upper() + nfl_df['college_univ'].str[:3].str.upper()
+
+# drop college_univ column
+nfl_df.drop(['college_univ'], axis=1, inplace=True)
+
+# drop records where player_id = '2012GRIFFINROBERTBAY' and pos = 'OL'
+nfl_drop_index = nfl_df.loc[(nfl_df['player_id'] == '2012GRIFFINROBERTBAY') & (nfl_df['pos'] == 'OL')].index
+nfl_df.drop(nfl_drop_index, inplace=True)
 
 # rename Ht column to height
 combine_df.rename(columns={'Ht': 'height'}, inplace=True)
@@ -70,12 +77,17 @@ combine_df['height'] = combine_df['height'].str.replace('-', ' ft ')
 combine_df['height'] = combine_df['height'] + ' in'
 
 # Add player_id column to dataframe year + 4 character last name + 4 character first name because of same name for different players
-combine_df['player_id'] = combine_df['year'].astype(str) + combine_df['Player'].str[:4] + combine_df['Player'].str.split(' ').str[1].str[:4]
+combine_df['player_id'] = combine_df['year'].astype(str) + combine_df['Player'].str.split(' ').str[1].str.upper() + combine_df['Player'].str.split(' ').str[0].str.upper()  + combine_df['School'].str[:3].str.upper()
 
-# Drop record where player_name = 'Malcolm Brown' because of two players with Malcolm and Malcom Brown name
-combine_df = combine_df[combine_df['Player'] != 'Malcolm Brown']
+# drop records where player_id = '2007DAVISBUSTERFLO' and pos = 'WR'
+combine_drop_index = combine_df.loc[(combine_df['player_id'] == '2007DAVISBUSTERFLO') & (combine_df['Pos'] == 'WR')].index
+combine_df.drop(combine_drop_index, inplace=True)
 
-# ---Step 5: combine data---
+# drop records where player_id = '2005JOHNSONDERRICKTEX' and pos = 'CB'
+combine_drop_index = combine_df.loc[(combine_df['player_id'] == '2005JOHNSONDERRICKTEX') & (combine_df['Pos'] == 'CB')].index
+combine_df.drop(combine_drop_index, inplace=True)
+
+
 # Merge dataframes on player_id
 draft_df = combine_df.merge(nfl_df, on=['player_id'], how='left')
 
