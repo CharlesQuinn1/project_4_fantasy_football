@@ -223,6 +223,16 @@ draft_df['combine_score'] = draft_df['bench_press_score'] + draft_df['broad_jump
 draft_df['draft_pick_flag'] = 0
 draft_df.loc[draft_df['draft_pick'].notna(), 'draft_pick_flag'] = 1
 
+# Convert year to int
+draft_df['year'] = draft_df['year'].astype(int)
+
+# Limit to years 2000-2015
+draft_df = draft_df.loc[(draft_df['year'] >= 2000) & (draft_df['year'] <= 2015)]
+
+# write df to sqlite
+conn = sqlite3.connect('Resources/database.db')
+draft_df.to_sql('players_raw', conn, if_exists='replace', index=False)
+
 # for column vertical_leap, bench_press, broad_jump, shuttle_run, three_cone replace NaN with the median of the column based on position_combine and draft_pick_flag = 1
 draft_df['vertical_leap'] = draft_df.groupby(['position_combine', 'draft_pick_flag'])['vertical_leap'].transform(lambda x: x.fillna(x.median()))
 draft_df['bench_press'] = draft_df.groupby(['position_combine', 'draft_pick_flag'])['bench_press'].transform(lambda x: x.fillna(x.median()))
@@ -236,19 +246,11 @@ draft_df['forty_yard'] = draft_df.groupby(['position_combine', 'draft_pick_flag'
 draft_df['shuttle_run'] = draft_df['shuttle_run'].fillna(draft_df['shuttle_run'].median())
 draft_df['three_cone'] = draft_df['three_cone'].fillna(draft_df['three_cone'].median())
 
-# Convert year to int
-draft_df['year'] = draft_df['year'].astype(int)
-
-# Limit to years 2000-2015
-draft_df = draft_df.loc[(draft_df['year'] >= 2000) & (draft_df['year'] <= 2015)]
-
-
 # ---Step 7: output data---
 # write draft_df to csv
 draft_df.to_csv('Resources/draft_sqlite_data.csv', index=False)
 
 # write df to sqlite
-conn = sqlite3.connect('Resources/database.db')
 draft_df.to_sql('players', conn, if_exists='replace', index=False)
 
 conn.close()
