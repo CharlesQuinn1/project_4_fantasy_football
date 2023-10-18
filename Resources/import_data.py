@@ -227,7 +227,7 @@ draft_df.loc[draft_df['draft_pick'].notna(), 'draft_pick_flag'] = 1
 draft_df['year'] = draft_df['year'].astype(int)
 
 # Limit to years 2000-2015
-draft_df = draft_df.loc[(draft_df['year'] >= 2000) & (draft_df['year'] <= 2015)]
+# draft_df = draft_df.loc[(draft_df['year'] >= 2000) & (draft_df['year'] <= 2015)]
 
 # write df to sqlite
 conn = sqlite3.connect('Resources/database.db')
