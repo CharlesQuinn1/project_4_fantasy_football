@@ -42,16 +42,6 @@ To assess the impact and effectiveness of the project, the following key perform
 ### Project Outline:
 ---
 *	Data cleaning <b>(Python)</b>
-![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/blob/main/Images/exploration_img1.png?raw=true)
-
-![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/blob/main/Images/exploration_img2.png?raw=true)
-
-![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/blob/main/Images/exploration_img3.png?raw=true)
-
-
-
-
-
     -	merge datasets
     -	perform corr heatmap
     -	delete highly correlated columns
@@ -63,6 +53,17 @@ To assess the impact and effectiveness of the project, the following key perform
             -	40yd dash, shuttle, vertical, bench, broad jump, etc. over the years<br>
             -	find which teams had the most draft picks<br>
             -	which colleges had the most players in the draft<br>
+
+![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/blob/main/Images/exploration_img1.png?raw=true)
+
+![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/blob/main/Images/exploration_img2.png?raw=true)
+
+![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/blob/main/Images/exploration_img3.png?raw=true)
+
+
+
+
+
     -	Scale data <b>(use StandardScaler)</b>
     -	split data into test/train (2000 - 2014 is training, 2015 is test)
 * 	Models to Use <b>(Python)</b>:
