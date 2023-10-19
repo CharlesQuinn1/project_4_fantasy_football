@@ -42,12 +42,12 @@ To assess the impact and effectiveness of the project, the following key perform
 ### Project Outline:
 ---
 *	Data cleaning <b>(Python)</b>
-[![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/assets/128498023/5e048fef-e3cd-411e-bc53-aaf4350ee8c3)](https://raw.githubusercontent.com/CharlesQuinn1/project_4_fantasy_football/main/Images/exploration_img1.png)<br>
-<br>
-![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/blob/main/Images/exploration_img2.png?raw=true)<br>
-<br>
-![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/assets/128498023/b02715a4-46f3-451b-93aa-6b06fad44df7)<br>
-<br>
+[![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/assets/128498023/5e048fef-e3cd-411e-bc53-aaf4350ee8c3)](https://raw.githubusercontent.com/CharlesQuinn1/project_4_fantasy_football/main/Images/exploration_img1.png)
+
+![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/blob/main/Images/exploration_img2.png?raw=true)
+
+![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/assets/128498023/b02715a4-46f3-451b-93aa-6b06fad44df7)
+
 
 
 
