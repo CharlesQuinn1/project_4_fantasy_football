@@ -60,10 +60,9 @@ To assess the impact and effectiveness of the project, the following key perform
     -	Decision Tree
     -	Naive Bayes
     -	KNN
-    -	Neural net
     -	Xgboost
 *	Analysis
-    -	Compare each model using MSE, MAE, Acc, Loss
+    -	Compare each model using accuracy_score
 
 ![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/blob/main/Images/models_img1.png?raw=true)
 
