@@ -60,7 +60,7 @@ To assess the impact and effectiveness of the project, the following key perform
     -	Decision Tree
     -	Naive Bayes
     -	KNN
-    -	Xgboost
+    -	Random Forest
 *	Analysis
     -	Compare each model using accuracy_score
 
