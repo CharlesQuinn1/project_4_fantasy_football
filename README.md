@@ -42,17 +42,13 @@ To assess the impact and effectiveness of the project, the following key perform
 ### Project Outline:
 ---
 *	Data cleaning <b>(Python)</b>
-    -	merge datasets
-    -	perform corr heatmap
-    -	delete highly correlated columns
-    -	edit nan’s and duplicates
+    -	load data to SQLite database
+    -	document data
     -	Data exploration <b>(Tableau)</b><br>
-            -	Visualize distribution of target variables<br>
-            -	.describe()/.summary() for each metric<br>
-            -	df.hist(bins=10)<br>
-            -	40yd dash, shuttle, vertical, bench, broad jump, etc. over the years<br>
-            -	find which teams had the most draft picks<br>
-            -	which colleges had the most players in the draft<br>
+            -	data trends<br>
+            -	data distribution by combine position and event<br>
+            -	identify outliers<br>
+            -	correlation matrix
 
 ![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/blob/main/Images/exploration_img1.png?raw=true)
 
@@ -60,12 +56,6 @@ To assess the impact and effectiveness of the project, the following key perform
 
 ![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/blob/main/Images/exploration_img3.png?raw=true)
 
-
-
-
-
-    -	Scale data <b>(use StandardScaler)</b>
-    -	split data into test/train (2000 - 2014 is training, 2015 is test)
 * 	Models to Use <b>(Python)</b>:
     -	Decision Tree
     -	Naive Bayes
@@ -74,4 +64,9 @@ To assess the impact and effectiveness of the project, the following key perform
     -	Xgboost
 *	Analysis
     -	Compare each model using MSE, MAE, Acc, Loss
-    -	pick the best one! 
+
+![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/blob/main/Images/models_img1.png?raw=true)
+
+![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/blob/main/Images/models_img2.png?raw=true)
+
+![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/blob/main/Images/models_img3.png?raw=true)
