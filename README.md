@@ -43,6 +43,9 @@ To assess the impact and effectiveness of the project, the following key perform
 ---
 *	Data cleaning <b>(Python)</b>
 ![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/assets/128498023/5e048fef-e3cd-411e-bc53-aaf4350ee8c3)
+![image](https://github.com/CharlesQuinn1/project_4_fantasy_football/assets/128498023/bacf2dcd-e1b4-46a2-bb57-14705bb6f44e)
+
+
 
     -	merge datasets
     -	perform corr heatmap
